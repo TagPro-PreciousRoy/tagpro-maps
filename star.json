@@ -1,4 +1,8 @@
 {
+    "info": {
+        "name": "Star",
+        "author": "LuckySpammer"
+    },
     "switches": {
         "18,14": {
             "toggle": [
