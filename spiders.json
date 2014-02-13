@@ -1,4 +1,8 @@
 {
+    "info": {
+        "name": "Spiders",
+        "author": "Dino"
+    },
     "switches": {
         "11,24": {
             "toggle": [
