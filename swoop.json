@@ -1,16 +1,11 @@
  {
-
-
     "info":
     {
       "name": "Swoop",
       "author": "David Stern"
     },
-
-
     "switches":
     {
-
       "28,10":
       {
         "toggle":
@@ -36,8 +31,6 @@
       }
 
     },
-
-
     "fields":
     {
       "22,9": { "defaultState": "off" },
@@ -51,6 +44,4 @@
       "18,39": { "defaultState": "off" },
       "19,40": { "defaultState": "off" }
     }
-
-
   }

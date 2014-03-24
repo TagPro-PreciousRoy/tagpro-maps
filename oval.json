@@ -1,7 +1,7 @@
 {
 	"info": {
 		"name": "Oval",
-		"author": "Grapefruit" 
+		"author": "Grapefruit"
 	},
 	"portals": {
 		"31,5": { "destination": { "x": 31, "y": 17}, "cooldown": 7000},
