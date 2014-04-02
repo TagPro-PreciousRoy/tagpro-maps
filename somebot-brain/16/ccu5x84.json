@@ -1,0 +1,154 @@
+  {
+
+
+    "info":
+    {
+      "name": "Quarter 1.1",
+      "author": "Grygon"
+    },
+
+    "switches":
+    {
+	
+      "38,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 11 } },
+          { "pos": { "x": 31, "y": 12 } },
+          { "pos": { "x": 31, "y": 13 } },
+          { "pos": { "x": 31, "y": 14 } }
+        ]
+      },
+
+      "5,14":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 8, "y": 17 } },
+          { "pos": { "x": 9, "y": 18 } },
+          { "pos": { "x": 10, "y": 19 } },
+          { "pos": { "x": 11, "y": 20 } }
+        ]
+      },
+
+      "17,25":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 14, "y": 23 } },
+          { "pos": { "x": 15, "y": 24 } },
+          { "pos": { "x": 18, "y": 27 } },
+          { "pos": { "x": 19, "y": 28 } }
+        ]
+      },
+
+      "16,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 14, "y": 23 } },
+          { "pos": { "x": 15, "y": 24 } },
+          { "pos": { "x": 18, "y": 27 } },
+          { "pos": { "x": 19, "y": 28 } }
+        ]
+      },
+
+      "21,29":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 27 } },
+          { "pos": { "x": 19, "y": 28 } },
+          { "pos": { "x": 22, "y": 31 } },
+          { "pos": { "x": 23, "y": 32 } }
+        ]
+      },
+
+      "32,29":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 20 } },
+          { "pos": { "x": 31, "y": 21 } },
+          { "pos": { "x": 32, "y": 23 } },
+          { "pos": { "x": 32, "y": 24 } },
+          { "pos": { "x": 33, "y": 26 } },
+          { "pos": { "x": 33, "y": 27 } }
+        ]
+      },
+
+      "20,30":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 27 } },
+          { "pos": { "x": 19, "y": 28 } },
+          { "pos": { "x": 22, "y": 31 } },
+          { "pos": { "x": 23, "y": 32 } }
+        ]
+      },
+
+      "20,41":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 11, "y": 40 } },
+          { "pos": { "x": 12, "y": 40 } },
+          { "pos": { "x": 14, "y": 41 } },
+          { "pos": { "x": 15, "y": 41 } },
+          { "pos": { "x": 17, "y": 42 } },
+          { "pos": { "x": 18, "y": 42 } }
+        ]
+      },
+
+      "3,47":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 2, "y": 40 } },
+          { "pos": { "x": 3, "y": 40 } },
+          { "pos": { "x": 4, "y": 40 } },
+          { "pos": { "x": 5, "y": 40 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "31,11": { "defaultState": "off" },
+      "31,12": { "defaultState": "off" },
+      "31,13": { "defaultState": "off" },
+      "31,14": { "defaultState": "off" },
+      "8,17": { "defaultState": "off" },
+      "9,18": { "defaultState": "off" },
+      "10,19": { "defaultState": "off" },
+      "11,20": { "defaultState": "off" },
+      "14,23": { "defaultState": "on" },
+      "15,24": { "defaultState": "on" },
+      "18,27": { "defaultState": "off" },
+      "19,28": { "defaultState": "off" },
+      "22,31": { "defaultState": "on" },
+      "23,32": { "defaultState": "on" },
+      "31,20": { "defaultState": "off" },
+      "31,21": { "defaultState": "off" },
+      "32,23": { "defaultState": "off" },
+      "32,24": { "defaultState": "off" },
+      "33,26": { "defaultState": "off" },
+      "33,27": { "defaultState": "off" },
+      "11,40": { "defaultState": "off" },
+      "12,40": { "defaultState": "off" },
+      "14,41": { "defaultState": "off" },
+      "15,41": { "defaultState": "off" },
+      "17,42": { "defaultState": "off" },
+      "18,42": { "defaultState": "off" },
+      "2,40": { "defaultState": "off" },
+      "3,40": { "defaultState": "off" },
+      "4,40": { "defaultState": "off" },
+      "5,40": { "defaultState": "off" }
+    }
+
+
+  }

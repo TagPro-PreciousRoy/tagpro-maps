@@ -1,0 +1,14 @@
+{
+	"info": {
+		"name": "Mini TWP",
+		"author": "Grapefruit" 
+	},
+	"portals": {
+		"1,11": { "destination": { "x": 14, "y": 11}, "cooldown": 5000},
+		"9,6": { "destination": { "x": 6, "y": 11}, "cooldown": 5000},
+		"9,16": { "destination": { "x": 6, "y": 11}, "cooldown": 5000},
+		"45,11": { "destination": { "x": 32, "y": 11}, "cooldown": 5000},
+		"37,6": { "destination": { "x": 40, "y": 11}, "cooldown": 5000},
+		"37,16": { "destination": { "x": 40, "y": 11}, "cooldown": 5000}
+	}
+}

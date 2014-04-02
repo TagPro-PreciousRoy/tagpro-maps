@@ -1,0 +1,26 @@
+{
+
+    "info":
+    {
+      "name": "TUGWARS",
+      "author": "Pyopi"
+    },
+
+    "switches": {
+        "2,5": {
+            "toggle": [ { "pos": { "x": 6, "y": 19 } } ]
+        },
+
+        "37,5": {
+            "toggle": [ { "pos": { "x": 6, "y": 20 } } ]
+        },
+
+  "fields":
+  {
+          "3,48" : { "defaultState": "on" }
+  },   
+
+    "portals":
+	{
+	}
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "name": "Escape",
+        "author": "Danny"
+    },
+    "switches": {},
+    "fields": {},
+    "portals": {
+        "9,13": {
+            "destination": {
+                "x": 25,
+                "y": 19
+            }
+        },
+        "25,19": {
+            "destination": {
+                "x": 9,
+                "y": 13
+            }
+        }
+    }
+}

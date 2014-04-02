@@ -1,0 +1,82 @@
+{
+    "info": {
+        "name": "Ad Infinitum",
+        "author": "Squirrely"
+    },
+    "switches": {
+        "26,28": {
+            "toggle": [
+                { "pos": { "x": 28, "y": 22 } },
+                { "pos": { "x": 28, "y": 23 } },
+                { "pos": { "x": 28, "y": 24 } },
+                { "pos": { "x": 29, "y": 22 } },
+                { "pos": { "x": 29, "y": 23 } },
+                { "pos": { "x": 29, "y": 24 } },
+                { "pos": { "x": 30, "y": 22 } },
+                { "pos": { "x": 30, "y": 23 } },
+                { "pos": { "x": 30, "y": 24 } },
+                { "pos": { "x": 31, "y": 22 } },
+                { "pos": { "x": 31, "y": 23 } },
+                { "pos": { "x": 31, "y": 24 } }
+            ]
+        },
+        "37,18": {
+            "toggle": [
+                { "pos": { "x": 32, "y": 22 } },
+                { "pos": { "x": 32, "y": 23 } },
+                { "pos": { "x": 32, "y": 24 } },
+                { "pos": { "x": 33, "y": 22 } },
+                { "pos": { "x": 33, "y": 23 } },
+                { "pos": { "x": 33, "y": 24 } },
+                { "pos": { "x": 34, "y": 22 } },
+                { "pos": { "x": 34, "y": 23 } },
+                { "pos": { "x": 34, "y": 24 } },
+                { "pos": { "x": 35, "y": 22 } },
+                { "pos": { "x": 35, "y": 23 } },
+                { "pos": { "x": 35, "y": 24 } }
+            ]
+        },
+
+        "25,27": {
+            "toggle": [
+                { "pos": { "x": 25, "y": 17 } },
+                { "pos": { "x": 26, "y": 18 } },
+                { "pos": { "x": 27, "y": 19 } }
+	    ] 
+        },
+        "38,19": {
+            "toggle": [
+                { "pos": { "x": 36, "y": 27 } },
+                { "pos": { "x": 37, "y": 28 } },
+                { "pos": { "x": 38, "y": 29 } }
+	    ] 
+       }
+    },
+
+    "fields": {
+        "28,22": { "defaultState": "on" },
+        "28,23": { "defaultState": "on" },
+        "28,24": { "defaultState": "on" },
+        "29,22": { "defaultState": "on" },
+        "29,23": { "defaultState": "on" },
+        "29,24": { "defaultState": "on" },
+        "30,22": { "defaultState": "on" },
+        "30,23": { "defaultState": "on" },
+        "30,24": { "defaultState": "on" },
+        "31,22": { "defaultState": "on" },
+        "31,23": { "defaultState": "on" },
+        "31,24": { "defaultState": "on" },
+        "32,22": { "defaultState": "on" },
+        "32,23": { "defaultState": "on" },
+        "32,24": { "defaultState": "on" },
+        "33,22": { "defaultState": "on" },
+        "33,23": { "defaultState": "on" },
+        "33,24": { "defaultState": "on" },
+        "34,22": { "defaultState": "on" },
+        "34,23": { "defaultState": "on" },
+        "34,24": { "defaultState": "on" },
+        "35,22": { "defaultState": "on" },
+        "35,23": { "defaultState": "on" },
+        "35,24": { "defaultState": "on" }
+    }
+}

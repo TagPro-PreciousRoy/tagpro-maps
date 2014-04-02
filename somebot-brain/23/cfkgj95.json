@@ -1,0 +1,48 @@
+{
+	"info":{
+		"name":"Teamwork",
+		"author":"Mike"
+	},
+
+"switches":{
+	"22,15":{
+		"toggle":[
+			{"pos":{"x":24,"y":12}},
+			{"pos":{"x":24,"y":13}},
+			{"pos":{"x":24,"y":14}},
+			{"pos":{"x":24,"y":15}},
+			{"pos":{"x":24,"y":16}},
+			{"pos":{"x":24,"y":17}}
+		]
+	},
+	"27,5":{
+		"toggle":[
+			{"pos":{"x":25,"y":3}},
+			{"pos":{"x":25,"y":4}},
+			{"pos":{"x":25,"y":5}},
+			{"pos":{"x":25,"y":6}},
+			{"pos":{"x":25,"y":7}},
+			{"pos":{"x":25,"y":8}}
+		]
+	}
+
+},
+
+"fields":{
+	"24,12":{"defaultState":"on"},
+	"24,13":{"defaultState":"on"},
+	"24,14":{"defaultState":"on"},
+	"24,15":{"defaultState":"on"},
+	"24,16":{"defaultState":"on"},
+	"24,17":{"defaultState":"on"},
+	"25,3":{"defaultState":"on"},
+	"25,4":{"defaultState":"on"},
+	"25,5":{"defaultState":"on"},
+	"25,6":{"defaultState":"on"},
+	"25,7":{"defaultState":"on"},
+	"25,8":{"defaultState":"on"}
+},
+
+"portals":{
+}	
+}

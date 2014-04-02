@@ -1,0 +1,216 @@
+{
+    "info": {
+        "name": "Diagon Alley",
+        "author": "Squirrely"
+    },
+    "switches": {
+        "4,8": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 2,
+                        "y": 10
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 4,
+                        "y": 2
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 6,
+                        "y": 6
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 13,
+                        "y": 4
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 13,
+                        "y": 6
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 14,
+                        "y": 9
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 23,
+                        "y": 0
+                    }
+                }
+            ]
+        },
+        "29,33": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 27,
+                        "y": 35
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 28,
+                        "y": 23
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 31,
+                        "y": 24
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 31,
+                        "y": 31
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 33,
+                        "y": 24
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 35,
+                        "y": 33
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 37,
+                        "y": 14
+                    }
+                }
+            ]
+        }
+    },
+    "fields": {
+        "2,10": {
+            "defaultState": "red"
+        },
+        "4,2": {
+            "defaultState": "blue"
+        },
+        "6,6": {
+            "defaultState": "red"
+        },
+        "13,4": {
+            "defaultState": "red"
+        },
+        "13,6": {
+            "defaultState": "red"
+        },
+        "14,9": {
+            "defaultState": "blue"
+        },
+        "23,0": {
+            "defaultState": "red"
+        },
+        "27,35": {
+            "defaultState": "blue"
+        },
+        "28,23": {
+            "defaultState": "red"
+        },
+        "31,24": {
+            "defaultState": "blue"
+        },
+        "31,31": {
+            "defaultState": "blue"
+        },
+        "33,24": {
+            "defaultState": "blue"
+        },
+        "35,33": {
+            "defaultState": "red"
+        },
+        "37,14": {
+            "defaultState": "blue"
+        }
+    },
+    "portals": {
+        "4,15": {
+            "destination": {
+                "x": 27,
+                "y": 13
+            },
+            "cooldown": 0
+        },
+        "14,5": {
+            "destination": {
+                "x": 7,
+                "y": 6
+            },
+            "cooldown": 0
+        },
+        "15,8": {
+            "destination": {
+                "x": 4,
+                "y": 1
+            },
+            "cooldown": 0
+        },
+        "22,1": {
+            "destination": {
+                "x": 1,
+                "y": 10
+            },
+            "cooldown": 0
+        },
+        "22,33": {
+            "destination": {
+                "x": 24,
+                "y": 10
+            },
+            "cooldown": 0
+        },
+        "24,10": {
+            "destination": {
+                "x": 27,
+                "y": 13
+            },
+            "cooldown": 0
+        },
+        "27,13": {
+            "destination": {
+                "x": 24,
+                "y": 10
+            },
+            "cooldown": 0
+        },
+        "29,22": {
+            "destination": {
+                "x": 36,
+                "y": 33
+            },
+            "cooldown": 0
+        },
+        "32,23": {
+            "destination": {
+                "x": 31,
+                "y": 30
+            },
+            "cooldown": 0
+        },
+        "36,15": {
+            "destination": {
+                "x": 27,
+                "y": 36
+            },
+            "cooldown": 0
+        }
+    }
+}

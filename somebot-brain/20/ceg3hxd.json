@@ -1,0 +1,112 @@
+ {
+
+
+    "info":
+    {
+      "name": "PortauPrince",
+      "author": "FoxieBall"
+    },
+
+
+    "switches":
+    {
+
+      "4,3":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 11, "y": 4 } },
+          { "pos": { "x": 12, "y": 4 } },
+          { "pos": { "x": 10, "y": 5 } },
+          { "pos": { "x": 11, "y": 5 } },
+          { "pos": { "x": 9, "y": 6 } },
+          { "pos": { "x": 10, "y": 6 } },
+          { "pos": { "x": 8, "y": 7 } },
+          { "pos": { "x": 9, "y": 7 } },
+          { "pos": { "x": 7, "y": 8 } },
+          { "pos": { "x": 8, "y": 8 } },
+          { "pos": { "x": 6, "y": 9 } },
+          { "pos": { "x": 7, "y": 9 } },
+          { "pos": { "x": 5, "y": 10 } },
+          { "pos": { "x": 6, "y": 10 } },
+          { "pos": { "x": 5, "y": 11 } }
+        ]
+      },
+
+      "34,3":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 26, "y": 4 } },
+          { "pos": { "x": 27, "y": 4 } },
+          { "pos": { "x": 27, "y": 5 } },
+          { "pos": { "x": 28, "y": 5 } },
+          { "pos": { "x": 28, "y": 6 } },
+          { "pos": { "x": 29, "y": 6 } },
+          { "pos": { "x": 29, "y": 7 } },
+          { "pos": { "x": 30, "y": 7 } },
+          { "pos": { "x": 30, "y": 8 } },
+          { "pos": { "x": 31, "y": 8 } },
+          { "pos": { "x": 31, "y": 9 } },
+          { "pos": { "x": 32, "y": 9 } },
+          { "pos": { "x": 32, "y": 10 } },
+          { "pos": { "x": 33, "y": 10 } },
+          { "pos": { "x": 33, "y": 11 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "11,4": { "defaultState": "off" },
+      "12,4": { "defaultState": "off" },
+      "10,5": { "defaultState": "off" },
+      "11,5": { "defaultState": "off" },
+      "9,6": { "defaultState": "off" },
+      "10,6": { "defaultState": "off" },
+      "8,7": { "defaultState": "off" },
+      "9,7": { "defaultState": "off" },
+      "7,8": { "defaultState": "off" },
+      "8,8": { "defaultState": "off" },
+      "6,9": { "defaultState": "off" },
+      "7,9": { "defaultState": "off" },
+      "5,10": { "defaultState": "off" },
+      "6,10": { "defaultState": "off" },
+      "5,11": { "defaultState": "off" },
+      "26,4": { "defaultState": "off" },
+      "27,4": { "defaultState": "off" },
+      "27,5": { "defaultState": "off" },
+      "28,5": { "defaultState": "off" },
+      "28,6": { "defaultState": "off" },
+      "29,6": { "defaultState": "off" },
+      "29,7": { "defaultState": "off" },
+      "30,7": { "defaultState": "off" },
+      "30,8": { "defaultState": "off" },
+      "31,8": { "defaultState": "off" },
+      "31,9": { "defaultState": "off" },
+      "32,9": { "defaultState": "off" },
+      "32,10": { "defaultState": "off" },
+      "33,10": { "defaultState": "off" },
+      "33,11": { "defaultState": "off" }
+    },
+ "portals": {
+      "5,13": { "destination": { "x":13 , "y": 22 }, "cooldown": 5000 },
+      "16,25": { "destination": { "x":6 , "y": 42 }, "cooldown": 5000 },
+      "33,13": { "destination": { "x":16 , "y": 25 }, "cooldown": 5000 },
+      "13,22": { "destination": { "x":31 , "y": 42 }, "cooldown": 5000 },
+      "11,9": { "destination": { "x":33 , "y": 24 }, "cooldown": 5000 },
+      "15,4": { "destination": { "x":41 , "y": 21 }, "cooldown": 5000 },
+      "15,13": { "destination": { "x":39 , "y": 31 }, "cooldown": 5000 },
+      "27,9": { "destination": { "x":30 , "y": 34 }, "cooldown": 5000 },
+      "23,13": { "destination": { "x":16 , "y": 25 }, "cooldown": 5000 },
+      "23,4": { "destination": { "x":30 , "y": 34 }, "cooldown": 5000 },
+      "6,42": { "destination": { "x":33 , "y": 24 }, "cooldown": 5000 },
+      "31,42": { "destination": { "x":39 , "y": 31 }, "cooldown": 5000 },
+      "41,21": { "destination": { "x":15 , "y": 4 }, "cooldown": 5000 },
+      "33,24": { "destination": { "x": 13, "y": 22 }, "cooldown": 5000 },
+      "39,31": { "destination": { "x": 16, "y": 25 }, "cooldown": 5000 },
+      "30,34": { "destination": { "x":23 , "y": 4 }, "cooldown": 5000 }
+ }
+}

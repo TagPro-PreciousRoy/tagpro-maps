@@ -1,0 +1,50 @@
+{
+    "info": {
+        "name": "Berk's OG TT coop",
+        "author": "&Berk"
+    },
+
+    "switches": {
+        "70,9": {
+            "toggle": [
+                { "pos": { "x": 77, "y": 18 } },
+                { "pos": { "x": 79, "y": 1 } },
+                { "pos": { "x": 79, "y": 0 } },
+                { "pos": { "x": 78, "y": 0 } },
+                { "pos": { "x": 47, "y": 9 } },
+                { "pos": { "x": 45, "y": 9 } },
+                { "pos": { "x": 43, "y": 9 } },
+                { "pos": { "x": 37, "y": 13 } },
+                { "pos": { "x": 37, "y": 15 } },
+                { "pos": { "x": 37, "y": 5 } },
+                { "pos": { "x": 37, "y": 3 } },
+                { "pos": { "x": 6, "y": 3 } },
+                { "pos": { "x": 6, "y": 4 } },
+                { "pos": { "x": 5, "y": 4 } },
+                { "pos": { "x": 5, "y": 14 } },
+                { "pos": { "x": 6, "y": 14 } },
+                { "pos": { "x": 6, "y": 15 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "5,4" : { "defaultState": "on" },
+        "5,14" : { "defaultState": "on" },
+        "6,3" : { "defaultState": "on" },
+        "6,4" : { "defaultState": "on" },
+        "6,14" : { "defaultState": "on" },
+        "6,15" : { "defaultState": "on" },
+        "37,3" : { "defaultState": "on" },
+        "37,5" : { "defaultState": "on" },
+        "37,13" : { "defaultState": "on" },
+        "37,15" : { "defaultState": "on" },
+        "43,9" : { "defaultState": "on" },
+        "45,9" : { "defaultState": "on" },
+        "47,9" : { "defaultState": "on" },
+        "77,18" : { "defaultState": "on" },
+        "78,0" : { "defaultState": "on" },
+        "79,0" : { "defaultState": "on" },
+        "79,1" : { "defaultState": "on" }
+    }
+}

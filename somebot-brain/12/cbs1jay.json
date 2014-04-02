@@ -1,0 +1,64 @@
+  {
+
+
+    "info":
+    {
+      "name": "Highway",
+      "author": "Dethos"
+    },
+
+
+    "switches":
+    {
+
+      "26,10":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 9 } },
+          { "pos": { "x": 21, "y": 10 } },
+          { "pos": { "x": 22, "y": 10 } },
+          { "pos": { "x": 23, "y": 10 } },
+          { "pos": { "x": 24, "y": 10 } },
+          { "pos": { "x": 25, "y": 10 } },
+          { "pos": { "x": 40, "y": 40 } }
+        ]
+      },
+
+      "14,38":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 0, "y": 9 } },
+          { "pos": { "x": 15, "y": 38 } },
+          { "pos": { "x": 16, "y": 38 } },
+          { "pos": { "x": 17, "y": 38 } },
+          { "pos": { "x": 18, "y": 38 } },
+          { "pos": { "x": 19, "y": 38 } },
+          { "pos": { "x": 39, "y": 40 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "1,9": { "defaultState": "on" },
+      "21,10": { "defaultState": "on" },
+      "22,10": { "defaultState": "on" },
+      "23,10": { "defaultState": "on" },
+      "24,10": { "defaultState": "on" },
+      "25,10": { "defaultState": "on" },
+      "40,40": { "defaultState": "on" },
+      "0,9": { "defaultState": "on" },
+      "15,38": { "defaultState": "on" },
+      "16,38": { "defaultState": "on" },
+      "17,38": { "defaultState": "on" },
+      "18,38": { "defaultState": "on" },
+      "19,38": { "defaultState": "on" },
+      "39,40": { "defaultState": "on" }
+    }
+
+
+  }

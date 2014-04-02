@@ -1,0 +1,196 @@
+ {
+
+
+    "info":
+    {
+      "name": "hazles first map",
+      "author": "Hazlexnut//mom"
+    },
+
+
+    "switches":
+    {
+
+      "38,10":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 36, "y": 8 } },
+          { "pos": { "x": 36, "y": 9 } },
+          { "pos": { "x": 36, "y": 10 } }
+        ]
+      },
+
+      "28,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 8 } },
+          { "pos": { "x": 25, "y": 8 } },
+          { "pos": { "x": 26, "y": 8 } },
+          { "pos": { "x": 27, "y": 8 } },
+          { "pos": { "x": 28, "y": 8 } },
+          { "pos": { "x": 29, "y": 8 } },
+          { "pos": { "x": 30, "y": 8 } },
+          { "pos": { "x": 31, "y": 8 } },
+          { "pos": { "x": 25, "y": 9 } },
+          { "pos": { "x": 26, "y": 9 } },
+          { "pos": { "x": 27, "y": 9 } },
+          { "pos": { "x": 28, "y": 9 } },
+          { "pos": { "x": 29, "y": 9 } },
+          { "pos": { "x": 30, "y": 9 } },
+          { "pos": { "x": 31, "y": 9 } },
+          { "pos": { "x": 32, "y": 9 } },
+          { "pos": { "x": 26, "y": 10 } },
+          { "pos": { "x": 27, "y": 10 } },
+          { "pos": { "x": 28, "y": 10 } },
+          { "pos": { "x": 29, "y": 10 } },
+          { "pos": { "x": 30, "y": 10 } },
+          { "pos": { "x": 31, "y": 10 } },
+          { "pos": { "x": 32, "y": 10 } },
+          { "pos": { "x": 33, "y": 10 } }
+        ]
+      },
+
+      "15,14":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 15 } },
+          { "pos": { "x": 17, "y": 16 } },
+          { "pos": { "x": 31, "y": 16 } },
+          { "pos": { "x": 17, "y": 17 } },
+          { "pos": { "x": 31, "y": 17 } },
+          { "pos": { "x": 17, "y": 18 } },
+          { "pos": { "x": 31, "y": 18 } },
+          { "pos": { "x": 17, "y": 19 } }
+        ]
+      },
+
+      "33,20":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 15 } },
+          { "pos": { "x": 17, "y": 16 } },
+          { "pos": { "x": 31, "y": 16 } },
+          { "pos": { "x": 17, "y": 17 } },
+          { "pos": { "x": 31, "y": 17 } },
+          { "pos": { "x": 17, "y": 18 } },
+          { "pos": { "x": 31, "y": 18 } },
+          { "pos": { "x": 17, "y": 19 } }
+        ]
+      },
+
+      "20,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 24 } },
+          { "pos": { "x": 16, "y": 24 } },
+          { "pos": { "x": 17, "y": 24 } },
+          { "pos": { "x": 18, "y": 24 } },
+          { "pos": { "x": 19, "y": 24 } },
+          { "pos": { "x": 20, "y": 24 } },
+          { "pos": { "x": 21, "y": 24 } },
+          { "pos": { "x": 22, "y": 24 } },
+          { "pos": { "x": 16, "y": 25 } },
+          { "pos": { "x": 17, "y": 25 } },
+          { "pos": { "x": 18, "y": 25 } },
+          { "pos": { "x": 19, "y": 25 } },
+          { "pos": { "x": 20, "y": 25 } },
+          { "pos": { "x": 21, "y": 25 } },
+          { "pos": { "x": 22, "y": 25 } },
+          { "pos": { "x": 23, "y": 25 } },
+          { "pos": { "x": 17, "y": 26 } },
+          { "pos": { "x": 18, "y": 26 } },
+          { "pos": { "x": 19, "y": 26 } },
+          { "pos": { "x": 20, "y": 26 } },
+          { "pos": { "x": 21, "y": 26 } },
+          { "pos": { "x": 22, "y": 26 } },
+          { "pos": { "x": 23, "y": 26 } },
+          { "pos": { "x": 24, "y": 26 } }
+        ]
+      },
+
+      "10,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 12, "y": 24 } },
+          { "pos": { "x": 12, "y": 25 } },
+          { "pos": { "x": 12, "y": 26 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "36,8": { "defaultState": "off" },
+      "36,9": { "defaultState": "off" },
+      "36,10": { "defaultState": "off" },
+      "24,8": { "defaultState": "off" },
+      "25,8": { "defaultState": "off" },
+      "26,8": { "defaultState": "off" },
+      "27,8": { "defaultState": "off" },
+      "28,8": { "defaultState": "off" },
+      "29,8": { "defaultState": "off" },
+      "30,8": { "defaultState": "off" },
+      "31,8": { "defaultState": "off" },
+      "25,9": { "defaultState": "off" },
+      "26,9": { "defaultState": "off" },
+      "27,9": { "defaultState": "off" },
+      "28,9": { "defaultState": "off" },
+      "29,9": { "defaultState": "off" },
+      "30,9": { "defaultState": "off" },
+      "31,9": { "defaultState": "off" },
+      "32,9": { "defaultState": "off" },
+      "26,10": { "defaultState": "off" },
+      "27,10": { "defaultState": "off" },
+      "28,10": { "defaultState": "off" },
+      "29,10": { "defaultState": "off" },
+      "30,10": { "defaultState": "off" },
+      "31,10": { "defaultState": "off" },
+      "32,10": { "defaultState": "off" },
+      "33,10": { "defaultState": "off" },
+      "31,15": { "defaultState": "on" },
+      "17,16": { "defaultState": "on" },
+      "31,16": { "defaultState": "on" },
+      "17,17": { "defaultState": "on" },
+      "31,17": { "defaultState": "on" },
+      "17,18": { "defaultState": "on" },
+      "31,18": { "defaultState": "on" },
+      "17,19": { "defaultState": "on" },
+      "15,24": { "defaultState": "off" },
+      "16,24": { "defaultState": "off" },
+      "17,24": { "defaultState": "off" },
+      "18,24": { "defaultState": "off" },
+      "19,24": { "defaultState": "off" },
+      "20,24": { "defaultState": "off" },
+      "21,24": { "defaultState": "off" },
+      "22,24": { "defaultState": "off" },
+      "16,25": { "defaultState": "off" },
+      "17,25": { "defaultState": "off" },
+      "18,25": { "defaultState": "off" },
+      "19,25": { "defaultState": "off" },
+      "20,25": { "defaultState": "off" },
+      "21,25": { "defaultState": "off" },
+      "22,25": { "defaultState": "off" },
+      "23,25": { "defaultState": "off" },
+      "17,26": { "defaultState": "off" },
+      "18,26": { "defaultState": "off" },
+      "19,26": { "defaultState": "off" },
+      "20,26": { "defaultState": "off" },
+      "21,26": { "defaultState": "off" },
+      "22,26": { "defaultState": "off" },
+      "23,26": { "defaultState": "off" },
+      "24,26": { "defaultState": "off" },
+      "12,24": { "defaultState": "off" },
+      "12,25": { "defaultState": "off" },
+      "12,26": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,116 @@
+
+{
+
+    "info":
+    {
+      "name": "Moon Beam",
+      "author": "ppppow"
+    },
+
+	
+	"portals": {
+		"18,12": { "destination": { "x": 29, "y": 21 } },
+		"47,12": { "destination": { "x": 36, "y": 21 }}
+		},
+	
+	
+    "switches":
+    {
+
+	"29,8":
+      {
+        "toggle":
+        [
+		  { "pos": { "x": 32, "y": 10 } },
+		  { "pos": { "x": 32, "y": 11 } },
+		  { "pos": { "x": 32, "y": 12 } },
+		  { "pos": { "x": 32, "y": 13 } },
+		  { "pos": { "x": 32, "y": 14 } },
+		  { "pos": { "x": 32, "y": 15 } },
+		  { "pos": { "x": 32, "y": 16 } },
+		  { "pos": { "x": 32, "y": 17 } },
+		  { "pos": { "x": 33, "y": 10 } },
+		  { "pos": { "x": 33, "y": 11 } },
+		  { "pos": { "x": 33, "y": 12 } },
+		  { "pos": { "x": 33, "y": 13 } },
+		  { "pos": { "x": 33, "y": 14 } },
+		  { "pos": { "x": 33, "y": 15 } },
+		  { "pos": { "x": 33, "y": 16 } },
+		  { "pos": { "x": 33, "y": 17 } }
+        ]
+      },
+	 "36,8":
+      {
+        "toggle":
+        [
+		  { "pos": { "x": 32, "y": 10 } },
+		  { "pos": { "x": 32, "y": 11 } },
+		  { "pos": { "x": 32, "y": 12 } },
+		  { "pos": { "x": 32, "y": 13 } },
+		  { "pos": { "x": 32, "y": 14 } },
+		  { "pos": { "x": 32, "y": 15 } },
+		  { "pos": { "x": 32, "y": 16 } },
+		  { "pos": { "x": 32, "y": 17 } },
+		  { "pos": { "x": 33, "y": 10 } },
+		  { "pos": { "x": 33, "y": 11 } },
+		  { "pos": { "x": 33, "y": 12 } },
+		  { "pos": { "x": 33, "y": 13 } },
+		  { "pos": { "x": 33, "y": 14 } },
+		  { "pos": { "x": 33, "y": 15 } },
+		  { "pos": { "x": 33, "y": 16 } },
+		  { "pos": { "x": 33, "y": 17 } }
+        ]
+      },
+	  
+	  
+      "11,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 2, "y": 7 } },
+          { "pos": { "x": 6, "y": 3 } },
+		  { "pos": { "x": 7, "y": 14 } },
+		  { "pos": { "x": 12, "y": 9 } }
+        ]
+      },
+
+      "54,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 59, "y": 3 } },
+		  { "pos": { "x": 53, "y": 9 } },
+		  { "pos": { "x": 58, "y": 14 } },
+          { "pos": { "x": 63, "y": 7 } }
+        ]
+      }
+
+	},
+	
+    "fields":
+    {
+      "2,7": { "defaultState": "red" },
+      "6,3": { "defaultState": "red" },
+      "32,10": { "defaultState": "off" },
+      "32,11": { "defaultState": "off" },
+      "32,12": { "defaultState": "off" },
+	  "32,13": { "defaultState": "off" },
+      "32,14": { "defaultState": "off" },
+      "32,15": { "defaultState": "off" },
+      "32,16": { "defaultState": "off" },
+      "32,17": { "defaultState": "off" },
+	  "33,10": { "defaultState": "off" },
+      "33,11": { "defaultState": "off" },
+      "33,12": { "defaultState": "off" },
+	  "33,13": { "defaultState": "off" },
+      "33,14": { "defaultState": "off" },
+      "33,15": { "defaultState": "off" },
+      "33,16": { "defaultState": "off" },
+      "33,17": { "defaultState": "off" },
+	  "59,3": { "defaultState": "blue" },
+	  "63,7": { "defaultState": "blue" }
+    }
+	
+
+
+ }

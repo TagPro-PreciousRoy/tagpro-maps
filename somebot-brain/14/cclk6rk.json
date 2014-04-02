@@ -1,0 +1,116 @@
+  {
+
+
+    "info":
+    {
+      "name": "Colosseum",
+      "author": "Rambo"
+    },
+
+
+    "switches":
+    {
+
+      "22,17":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 19 } },
+          { "pos": { "x": 25, "y": 19 } },
+          { "pos": { "x": 26, "y": 19 } },
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 25, "y": 20 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 25, "y": 21 } },
+          { "pos": { "x": 26, "y": 21 } }
+        ]
+      },
+
+      "28,17":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 19 } },
+          { "pos": { "x": 25, "y": 19 } },
+          { "pos": { "x": 26, "y": 19 } },
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 25, "y": 20 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 25, "y": 21 } },
+          { "pos": { "x": 26, "y": 21 } }
+        ]
+      },
+
+      "22,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 28 } },
+          { "pos": { "x": 25, "y": 28 } },
+          { "pos": { "x": 26, "y": 28 } },
+          { "pos": { "x": 24, "y": 29 } },
+          { "pos": { "x": 25, "y": 29 } },
+          { "pos": { "x": 26, "y": 29 } },
+          { "pos": { "x": 24, "y": 30 } },
+          { "pos": { "x": 25, "y": 30 } },
+          { "pos": { "x": 26, "y": 30 } }
+        ]
+      },
+
+      "28,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 28 } },
+          { "pos": { "x": 25, "y": 28 } },
+          { "pos": { "x": 26, "y": 28 } },
+          { "pos": { "x": 24, "y": 29 } },
+          { "pos": { "x": 25, "y": 29 } },
+          { "pos": { "x": 26, "y": 29 } },
+          { "pos": { "x": 24, "y": 30 } },
+          { "pos": { "x": 25, "y": 30 } },
+          { "pos": { "x": 26, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "22,7": { "defaultState": "on" },
+      "28,7": { "defaultState": "on" },
+      "24,19": { "defaultState": "on" },
+      "25,19": { "defaultState": "on" },
+      "26,19": { "defaultState": "on" },
+      "24,20": { "defaultState": "on" },
+      "25,20": { "defaultState": "on" },
+      "26,20": { "defaultState": "on" },
+      "24,21": { "defaultState": "on" },
+      "25,21": { "defaultState": "on" },
+      "26,21": { "defaultState": "on" },
+      "6,20": { "defaultState": "on" },
+      "44,20": { "defaultState": "on" },
+      "6,23": { "defaultState": "on" },
+      "44,23": { "defaultState": "on" },
+      "6,26": { "defaultState": "on" },
+      "44,26": { "defaultState": "on" },
+      "6,29": { "defaultState": "on" },
+      "44,29": { "defaultState": "on" },
+      "24,28": { "defaultState": "on" },
+      "25,28": { "defaultState": "on" },
+      "26,28": { "defaultState": "on" },
+      "24,29": { "defaultState": "on" },
+      "25,29": { "defaultState": "on" },
+      "26,29": { "defaultState": "on" },
+      "24,30": { "defaultState": "on" },
+      "25,30": { "defaultState": "on" },
+      "26,30": { "defaultState": "on" },
+      "22,42": { "defaultState": "on" },
+      "28,42": { "defaultState": "on" }
+    }
+
+
+  }

@@ -1,0 +1,64 @@
+  {
+
+
+    "info":
+    {
+      "name": "Doughnut",
+      "author": "matrixclown"
+    },
+
+
+    "switches":
+    {
+
+      "24,10":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 12 } },
+          { "pos": { "x": 22, "y": 12 } },
+          { "pos": { "x": 23, "y": 12 } },
+          { "pos": { "x": 24, "y": 12 } },
+          { "pos": { "x": 25, "y": 12 } },
+          { "pos": { "x": 26, "y": 12 } },
+          { "pos": { "x": 27, "y": 12 } }
+        ]
+      },
+
+      "24,36":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 34 } },
+          { "pos": { "x": 22, "y": 34 } },
+          { "pos": { "x": 23, "y": 34 } },
+          { "pos": { "x": 24, "y": 34 } },
+          { "pos": { "x": 25, "y": 34 } },
+          { "pos": { "x": 26, "y": 34 } },
+          { "pos": { "x": 27, "y": 34 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "21,12": { "defaultState": "off" },
+      "22,12": { "defaultState": "off" },
+      "23,12": { "defaultState": "off" },
+      "24,12": { "defaultState": "off" },
+      "25,12": { "defaultState": "off" },
+      "26,12": { "defaultState": "off" },
+      "27,12": { "defaultState": "off" },
+      "21,34": { "defaultState": "off" },
+      "22,34": { "defaultState": "off" },
+      "23,34": { "defaultState": "off" },
+      "24,34": { "defaultState": "off" },
+      "25,34": { "defaultState": "off" },
+      "26,34": { "defaultState": "off" },
+      "27,34": { "defaultState": "off" }
+    }
+
+
+  }

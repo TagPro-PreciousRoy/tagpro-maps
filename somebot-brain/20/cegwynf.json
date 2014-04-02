@@ -1,0 +1,90 @@
+{
+ 
+ 
+    "info":
+    {
+      "name": "Elimination2",
+      "author": "NewCompte (mod by Jesus)"
+    },
+ 
+ 
+    "switches":
+    {
+ 
+    },
+ 
+ 
+    "fields":
+    {
+                "2,11": { "defaultState": "blue" },
+                "2,12": { "defaultState": "blue" },
+                "2,13": { "defaultState": "blue" },
+                "44,11": { "defaultState": "red" },
+                "44,12": { "defaultState": "red" },
+                "44,13": { "defaultState": "red" }
+    },
+ 
+        "portals":
+        {
+                "2,9": { "destination": { "x": 32, "y": 16 }, "cooldown": 720000},
+                "3,9": { "destination": { "x": 32, "y": 16 }, "cooldown": 720000},
+                "4,9": { "destination": { "x": 32, "y": 16 }, "cooldown": 720000},
+                "5,9": { "destination": { "x": 32, "y": 16 }, "cooldown": 720000},
+                "6,9": { "destination": { "x": 32, "y": 16 }, "cooldown": 720000},
+                "8,3": { "destination": { "x": 27, "y": 21 }, "cooldown": 720000},
+                "8,4": { "destination": { "x": 27, "y": 21 }, "cooldown": 720000},
+                "8,5": { "destination": { "x": 27, "y": 21 }, "cooldown": 720000},
+                "8,6": { "destination": { "x": 27, "y": 21 }, "cooldown": 720000},
+                "8,7": { "destination": { "x": 27, "y": 21 }, "cooldown": 720000},
+                "2,15": { "destination": { "x": 32, "y": 8 }, "cooldown": 720000},
+                "3,15": { "destination": { "x": 32, "y": 8 }, "cooldown": 720000},
+                "4,15": { "destination": { "x": 32, "y": 8 }, "cooldown": 720000},
+                "5,15": { "destination": { "x": 32, "y": 8 }, "cooldown": 720000},
+                "6,15": { "destination": { "x": 32, "y": 8 }, "cooldown": 720000},
+                "8,17": { "destination": { "x": 27, "y": 3 }, "cooldown": 720000},
+                "8,18": { "destination": { "x": 27, "y": 3 }, "cooldown": 720000},
+                "8,19": { "destination": { "x": 27, "y": 3 }, "cooldown": 720000},
+                "8,20": { "destination": { "x": 27, "y": 3 }, "cooldown": 720000},
+                "8,21": { "destination": { "x": 27, "y": 3 }, "cooldown": 720000},
+                "44,9": { "destination": { "x": 14, "y": 16 }, "cooldown": 720000},
+                "43,9": { "destination": { "x": 14, "y": 16 }, "cooldown": 720000},
+                "42,9": { "destination": { "x": 14, "y": 16 }, "cooldown": 720000},
+                "41,9": { "destination": { "x": 14, "y": 16 }, "cooldown": 720000},
+                "40,9": { "destination": { "x": 14, "y": 16 }, "cooldown": 720000},
+                "38,3": { "destination": { "x": 19, "y": 21 }, "cooldown": 720000},
+                "38,4": { "destination": { "x": 19, "y": 21 }, "cooldown": 720000},
+                "38,5": { "destination": { "x": 19, "y": 21 }, "cooldown": 720000},
+                "38,6": { "destination": { "x": 19, "y": 21 }, "cooldown": 720000},
+                "38,7": { "destination": { "x": 19, "y": 21 }, "cooldown": 720000},
+                "44,15": { "destination": { "x": 14, "y": 8 }, "cooldown": 720000},
+                "43,15": { "destination": { "x": 14, "y": 8 }, "cooldown": 720000},
+                "42,15": { "destination": { "x": 14, "y": 8 }, "cooldown": 720000},
+                "41,15": { "destination": { "x": 14, "y": 8 }, "cooldown": 720000},
+                "40,15": { "destination": { "x": 14, "y": 8 }, "cooldown": 720000},
+                "38,17": { "destination": { "x": 19, "y": 3 }, "cooldown": 720000},
+                "38,18": { "destination": { "x": 19, "y": 3 }, "cooldown": 720000},
+                "38,19": { "destination": { "x": 19, "y": 3 }, "cooldown": 720000},
+                "38,20": { "destination": { "x": 19, "y": 3 }, "cooldown": 720000},
+                "38,21": { "destination": { "x": 19, "y": 3 }, "cooldown": 720000},
+                "19,3": {"cooldown": 0 },
+                "14,8": {"cooldown": 0 },
+                "14,16": {"cooldown": 0 },
+                "19,21": {"cooldown": 0 },
+                "27,3": {"cooldown": 0 },
+                "32,8": {"cooldown": 0 },
+                "32,16": {"cooldown": 0 },
+                "27,21": {"cooldown": 0 },
+                "0,10": { "destination": { "x": 11, "y": 2 }, "cooldown": 0},
+                "11,2": { "destination": { "x": 0, "y": 10 }, "cooldown": 0},
+                "13,0": { "destination": { "x": 33, "y": 0 }, "cooldown": 0},
+                "33,0": { "destination": { "x": 13, "y": 0 }, "cooldown": 0},
+                "35,2": { "destination": { "x": 46, "y": 10 }, "cooldown": 0},
+                "46,10": { "destination": { "x": 35, "y": 2 }, "cooldown": 0},
+                "46,14": { "destination": { "x": 35, "y": 22 }, "cooldown": 0},
+                "35,22": { "destination": { "x": 46, "y": 14 }, "cooldown": 0},
+                "33,24": { "destination": { "x": 13, "y": 24 }, "cooldown": 0},
+                "13,24": { "destination": { "x": 33, "y": 24 }, "cooldown": 0},
+                "11,22": { "destination": { "x": 0, "y": 14 }, "cooldown": 0},
+                "0,14": { "destination": { "x": 11, "y": 22 }, "cooldown": 0}
+        }
+  }

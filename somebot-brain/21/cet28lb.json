@@ -1,0 +1,78 @@
+  {
+
+
+    "info":
+    {
+      "name": "Small Box - Center View",
+      "author": "Vasectomizer"
+    },
+
+
+    "switches":
+    {
+
+      "16,6":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 14, "y": 4 } },
+          { "pos": { "x": 14, "y": 6 } },
+          { "pos": { "x": 13, "y": 7 } },
+          { "pos": { "x": 14, "y": 7 } },
+          { "pos": { "x": 13, "y": 8 } },
+          { "pos": { "x": 14, "y": 8 } },
+          { "pos": { "x": 15, "y": 8 } },
+          { "pos": { "x": 13, "y": 9 } },
+          { "pos": { "x": 14, "y": 9 } },
+          { "pos": { "x": 15, "y": 9 } },
+          { "pos": { "x": 14, "y": 10 } },
+          { "pos": { "x": 15, "y": 10 } },
+          { "pos": { "x": 14, "y": 11 } },
+          { "pos": { "x": 14, "y": 13 } }
+        ]
+      },
+
+      "12,11":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 14, "y": 4 } },
+          { "pos": { "x": 14, "y": 6 } },
+          { "pos": { "x": 13, "y": 7 } },
+          { "pos": { "x": 14, "y": 7 } },
+          { "pos": { "x": 13, "y": 8 } },
+          { "pos": { "x": 14, "y": 8 } },
+          { "pos": { "x": 15, "y": 8 } },
+          { "pos": { "x": 13, "y": 9 } },
+          { "pos": { "x": 14, "y": 9 } },
+          { "pos": { "x": 15, "y": 9 } },
+          { "pos": { "x": 14, "y": 10 } },
+          { "pos": { "x": 15, "y": 10 } },
+          { "pos": { "x": 14, "y": 11 } },
+          { "pos": { "x": 14, "y": 13 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "14,4": { "defaultState": "off" },
+      "14,6": { "defaultState": "off" },
+      "13,7": { "defaultState": "off" },
+      "14,7": { "defaultState": "off" },
+      "13,8": { "defaultState": "off" },
+      "14,8": { "defaultState": "off" },
+      "15,8": { "defaultState": "off" },
+      "13,9": { "defaultState": "off" },
+      "14,9": { "defaultState": "off" },
+      "15,9": { "defaultState": "off" },
+      "14,10": { "defaultState": "off" },
+      "15,10": { "defaultState": "off" },
+      "14,11": { "defaultState": "off" },
+      "14,13": { "defaultState": "off" }
+    }
+
+
+  }

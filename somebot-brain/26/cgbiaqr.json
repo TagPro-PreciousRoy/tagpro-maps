@@ -1,0 +1,23 @@
+ {
+
+
+    "info":
+    {
+      "name": "Cydonia",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "": {
+            "toggle": [
+
+             ] 
+       }
+    },
+    "fields": {
+
+    },
+
+    "portals": {
+   
+    }
+}

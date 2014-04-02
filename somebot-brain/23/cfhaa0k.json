@@ -1,0 +1,91 @@
+{
+    "info": {
+        "name": "Team Is Key",
+        "author": "zack24635"
+    },
+    "switches":
+        {
+    
+          "3,8":
+          {
+            "toggle":
+            [
+              { "pos": { "x": 8, "y": 6 } },
+              { "pos": { "x": 7, "y": 7 } },
+              { "pos": { "x": 6, "y": 8 } }
+            ]
+          },
+    
+          "17,14":
+          {
+            "toggle":
+            [
+              { "pos": { "x": 17, "y": 16 } },
+              { "pos": { "x": 16, "y": 17 } }
+            ]
+          },
+    
+          "31,34":
+          {
+            "toggle":
+            [
+              { "pos": { "x": 32, "y": 31 } },
+              { "pos": { "x": 31, "y": 32 } }
+            ]
+          },
+    
+          "45,40":
+          {
+            "toggle":
+            [
+              { "pos": { "x": 42, "y": 40 } },
+              { "pos": { "x": 41, "y": 41 } },
+              { "pos": { "x": 40, "y": 42 } }
+            ]
+          }
+    
+        },
+    
+    
+        "fields":
+        {
+          "8,6": { "defaultState": "off" },
+          "7,7": { "defaultState": "off" },
+          "6,8": { "defaultState": "off" },
+          "17,16": { "defaultState": "on" },
+          "16,17": { "defaultState": "on" },
+          "32,31": { "defaultState": "on" },
+          "31,32": { "defaultState": "on" },
+          "42,40": { "defaultState": "off" },
+          "41,41": { "defaultState": "off" },
+          "40,42": { "defaultState": "off" }
+        },
+            "portals": {
+        "7,28": {
+            "destination": {
+                "x": 41,
+                "y": 20
+            }
+        },
+        "41,20": {
+            "destination": {
+                "x": 7,
+                "y": 28
+            }
+        },    
+        "11,11": {
+            "destination": {
+                "x": 37,
+                "y": 37
+            }
+        },    
+          "37,37": {
+              "destination": {
+                  "x": 11,
+                  "y": 11
+              }
+          }    
+               
+               
+                }
+}

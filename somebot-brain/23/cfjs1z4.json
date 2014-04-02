@@ -1,0 +1,26 @@
+    {
+         
+         
+            "info":
+            {
+              "name": "Wavey",
+              "author": "Squirrely"
+            },
+            "switches": {
+                "": {
+                    "toggle": [
+         
+                     ]
+               }
+            },
+            "fields": {
+         
+            },
+         
+            "portals": {
+            "2,26": { "destination": { "x": 8, "y": 16 }, "cooldown": 30000 },
+            "47,23": { "destination": { "x": 41, "y": 33 }, "cooldown": 30000 },
+            "16,2": { "destination": { "x": 38, "y": 12 }, "cooldown": 30000 },
+            "33,47": { "destination": { "x": 11, "y": 37 }, "cooldown": 30000 }
+            }
+        }

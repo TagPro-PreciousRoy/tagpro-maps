@@ -1,0 +1,30 @@
+{
+  "info":
+  {
+    "name": "Flashlight",
+    "author": "Chalksy"
+  },
+
+  "switches":
+  {
+  },
+
+  "fields":
+  {
+  },
+
+  "portals": {
+    "9,11": { "destination": { "x": 11, "y": 13 }, "cooldown": 0 },
+    "9,12": { "destination": { "x": 11, "y": 13 }, "cooldown": 0 },
+    "9,13": { "destination": { "x": 11, "y": 13 }, "cooldown": 0 },
+    "9,14": { "destination": { "x": 11, "y": 13 }, "cooldown": 0 },
+    "9,15": { "destination": { "x": 11, "y": 13 }, "cooldown": 0 },
+    "9,19": { "destination": { "x": 11, "y": 21 }, "cooldown": 0 },
+    "9,20": { "destination": { "x": 11, "y": 21 }, "cooldown": 0 },
+    "9,21": { "destination": { "x": 11, "y": 21 }, "cooldown": 0 },
+    "9,22": { "destination": { "x": 11, "y": 21 }, "cooldown": 0 },
+    "9,23": { "destination": { "x": 11, "y": 21 }, "cooldown": 0 },
+    "43,15": { "destination": { "x": 60, "y": 3 }, "cooldown": 0 },
+    "43,19": { "destination": { "x": 60, "y": 31 }, "cooldown": 0 }
+  }
+}

@@ -1,0 +1,70 @@
+  {
+
+
+    "info":
+    {
+      "name": "Hour",
+      "author": "Turtlemansam"
+    },
+
+
+    "switches":
+    {
+
+      "17,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 19, "y": 15 } },
+          { "pos": { "x": 19, "y": 18 } },
+          { "pos": { "x": 19, "y": 19 } }
+        ]
+      },
+
+      "38,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 36, "y": 15 } },
+          { "pos": { "x": 36, "y": 16 } },
+          { "pos": { "x": 36, "y": 19 } }
+        ]
+      },
+
+      "25,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 29 } },
+          { "pos": { "x": 25, "y": 30 } }
+        ]
+      },
+
+      "30,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 30, "y": 29 } },
+          { "pos": { "x": 30, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "19,15": { "defaultState": "on" },
+      "19,18": { "defaultState": "on" },
+      "19,19": { "defaultState": "on" },
+      "36,15": { "defaultState": "on" },
+      "36,16": { "defaultState": "on" },
+      "36,19": { "defaultState": "on" },
+      "25,29": { "defaultState": "off" },
+      "25,30": { "defaultState": "off" },
+      "30,29": { "defaultState": "off" },
+      "30,30": { "defaultState": "off" }
+    }
+
+
+  }

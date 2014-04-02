@@ -1,0 +1,31 @@
+{
+  "info":
+  {
+    "name": "Boulders",
+    "author": "Chalksy"
+  },
+
+  "switches":
+  {
+    "7,8": { "toggle": [
+      { "pos": { "x": 16, "y": 9 }},
+      { "pos": { "x": 16, "y": 10 }},
+      { "pos": { "x": 16, "y": 11 }},
+      { "pos": { "x": 16, "y": 12 }},
+      { "pos": { "x": 16, "y": 13 }},
+      { "pos": { "x": 16, "y": 14 }},
+      { "pos": { "x": 16, "y": 15 }}
+    ]}
+  },
+
+  "fields":
+  {
+    "16,9" : { "defaultState": "off" },
+    "16,10" : { "defaultState": "off" },
+    "16,11" : { "defaultState": "off" },
+    "16,12" : { "defaultState": "off" },
+    "16,13" : { "defaultState": "off" },
+    "16,14" : { "defaultState": "off" },
+    "16,15" : { "defaultState": "off" }
+  }
+}

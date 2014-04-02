@@ -1,0 +1,152 @@
+{
+
+
+    "info":
+    {
+      "name": "FacePro",
+      "author": "ThaBoosh"
+    },
+
+
+    "switches":
+    {
+
+      "37,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 30, "y": 9 } },
+          { "pos": { "x": 31, "y": 9 } },
+          { "pos": { "x": 32, "y": 9 } },
+          { "pos": { "x": 33, "y": 9 } },
+          { "pos": { "x": 30, "y": 10 } },
+          { "pos": { "x": 31, "y": 10 } },
+          { "pos": { "x": 32, "y": 10 } },
+          { "pos": { "x": 33, "y": 10 } },
+          { "pos": { "x": 30, "y": 11 } },
+          { "pos": { "x": 31, "y": 11 } },
+          { "pos": { "x": 32, "y": 11 } },
+          { "pos": { "x": 33, "y": 11 } },
+          { "pos": { "x": 30, "y": 12 } },
+          { "pos": { "x": 31, "y": 12 } },
+          { "pos": { "x": 32, "y": 12 } },
+          { "pos": { "x": 33, "y": 12 } },
+          { "pos": { "x": 6, "y": 30 } }
+        ]
+      },
+
+      "26,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 30, "y": 9 } },
+          { "pos": { "x": 31, "y": 9 } },
+          { "pos": { "x": 32, "y": 9 } },
+          { "pos": { "x": 33, "y": 9 } },
+          { "pos": { "x": 30, "y": 10 } },
+          { "pos": { "x": 31, "y": 10 } },
+          { "pos": { "x": 32, "y": 10 } },
+          { "pos": { "x": 33, "y": 10 } },
+          { "pos": { "x": 30, "y": 11 } },
+          { "pos": { "x": 31, "y": 11 } },
+          { "pos": { "x": 32, "y": 11 } },
+          { "pos": { "x": 33, "y": 11 } },
+          { "pos": { "x": 30, "y": 12 } },
+          { "pos": { "x": 31, "y": 12 } },
+          { "pos": { "x": 32, "y": 12 } },
+          { "pos": { "x": 33, "y": 12 } },
+          { "pos": { "x": 6, "y": 30 } }
+        ]
+      },
+
+      "23,36":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 19 } },
+          { "pos": { "x": 16, "y": 37 } },
+          { "pos": { "x": 17, "y": 37 } },
+          { "pos": { "x": 18, "y": 37 } },
+          { "pos": { "x": 19, "y": 37 } },
+          { "pos": { "x": 16, "y": 38 } },
+          { "pos": { "x": 17, "y": 38 } },
+          { "pos": { "x": 18, "y": 38 } },
+          { "pos": { "x": 19, "y": 38 } },
+          { "pos": { "x": 16, "y": 39 } },
+          { "pos": { "x": 17, "y": 39 } },
+          { "pos": { "x": 18, "y": 39 } },
+          { "pos": { "x": 19, "y": 39 } },
+          { "pos": { "x": 16, "y": 40 } },
+          { "pos": { "x": 17, "y": 40 } },
+          { "pos": { "x": 18, "y": 40 } },
+          { "pos": { "x": 19, "y": 40 } }
+        ]
+      },
+
+      "12,41":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 19 } },
+          { "pos": { "x": 16, "y": 37 } },
+          { "pos": { "x": 17, "y": 37 } },
+          { "pos": { "x": 18, "y": 37 } },
+          { "pos": { "x": 19, "y": 37 } },
+          { "pos": { "x": 16, "y": 38 } },
+          { "pos": { "x": 17, "y": 38 } },
+          { "pos": { "x": 18, "y": 38 } },
+          { "pos": { "x": 19, "y": 38 } },
+          { "pos": { "x": 16, "y": 39 } },
+          { "pos": { "x": 17, "y": 39 } },
+          { "pos": { "x": 18, "y": 39 } },
+          { "pos": { "x": 19, "y": 39 } },
+          { "pos": { "x": 16, "y": 40 } },
+          { "pos": { "x": 17, "y": 40 } },
+          { "pos": { "x": 18, "y": 40 } },
+          { "pos": { "x": 19, "y": 40 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "30,9": { "defaultState": "off" },
+      "31,9": { "defaultState": "off" },
+      "32,9": { "defaultState": "off" },
+      "33,9": { "defaultState": "off" },
+      "30,10": { "defaultState": "off" },
+      "31,10": { "defaultState": "off" },
+      "32,10": { "defaultState": "off" },
+      "33,10": { "defaultState": "off" },
+      "30,11": { "defaultState": "off" },
+      "31,11": { "defaultState": "off" },
+      "32,11": { "defaultState": "off" },
+      "33,11": { "defaultState": "off" },
+      "30,12": { "defaultState": "off" },
+      "31,12": { "defaultState": "off" },
+      "32,12": { "defaultState": "off" },
+      "33,12": { "defaultState": "off" },
+      "6,30": { "defaultState": "off" },
+      "43,19": { "defaultState": "off" },
+      "16,37": { "defaultState": "off" },
+      "17,37": { "defaultState": "off" },
+      "18,37": { "defaultState": "off" },
+      "19,37": { "defaultState": "off" },
+      "16,38": { "defaultState": "off" },
+      "17,38": { "defaultState": "off" },
+      "18,38": { "defaultState": "off" },
+      "19,38": { "defaultState": "off" },
+      "16,39": { "defaultState": "off" },
+      "17,39": { "defaultState": "off" },
+      "18,39": { "defaultState": "off" },
+      "19,39": { "defaultState": "off" },
+      "16,40": { "defaultState": "off" },
+      "17,40": { "defaultState": "off" },
+      "18,40": { "defaultState": "off" },
+      "19,40": { "defaultState": "off" }
+    }
+
+
+  }

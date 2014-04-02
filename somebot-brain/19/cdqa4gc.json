@@ -1,0 +1,120 @@
+{
+
+
+    "info":
+    {
+      "name": "Some Map",
+      "author": ""
+    },
+
+
+    "switches":
+    {
+
+      "14,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 19, "y": 40 } },
+          { "pos": { "x": 18, "y": 41 } },
+          { "pos": { "x": 19, "y": 41 } },
+          { "pos": { "x": 17, "y": 42 } },
+          { "pos": { "x": 18, "y": 42 } },
+          { "pos": { "x": 19, "y": 42 } },
+          { "pos": { "x": 16, "y": 43 } },
+          { "pos": { "x": 17, "y": 43 } },
+          { "pos": { "x": 18, "y": 43 } },
+          { "pos": { "x": 15, "y": 44 } },
+          { "pos": { "x": 16, "y": 44 } },
+          { "pos": { "x": 17, "y": 44 } },
+          { "pos": { "x": 14, "y": 45 } },
+          { "pos": { "x": 15, "y": 45 } },
+          { "pos": { "x": 16, "y": 45 } },
+          { "pos": { "x": 13, "y": 46 } },
+          { "pos": { "x": 14, "y": 46 } },
+          { "pos": { "x": 15, "y": 46 } },
+          { "pos": { "x": 12, "y": 47 } },
+          { "pos": { "x": 13, "y": 47 } },
+          { "pos": { "x": 14, "y": 47 } }
+        ]
+      },
+
+      "33,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 28, "y": 40 } },
+          { "pos": { "x": 28, "y": 41 } },
+          { "pos": { "x": 29, "y": 41 } },
+          { "pos": { "x": 28, "y": 42 } },
+          { "pos": { "x": 29, "y": 42 } },
+          { "pos": { "x": 30, "y": 42 } },
+          { "pos": { "x": 29, "y": 43 } },
+          { "pos": { "x": 30, "y": 43 } },
+          { "pos": { "x": 31, "y": 43 } },
+          { "pos": { "x": 30, "y": 44 } },
+          { "pos": { "x": 31, "y": 44 } },
+          { "pos": { "x": 32, "y": 44 } },
+          { "pos": { "x": 31, "y": 45 } },
+          { "pos": { "x": 32, "y": 45 } },
+          { "pos": { "x": 33, "y": 45 } },
+          { "pos": { "x": 32, "y": 46 } },
+          { "pos": { "x": 33, "y": 46 } },
+          { "pos": { "x": 34, "y": 46 } },
+          { "pos": { "x": 33, "y": 47 } },
+          { "pos": { "x": 34, "y": 47 } },
+          { "pos": { "x": 35, "y": 47 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "19,40": { "defaultState": "off" },
+      "18,41": { "defaultState": "off" },
+      "19,41": { "defaultState": "off" },
+      "17,42": { "defaultState": "off" },
+      "18,42": { "defaultState": "off" },
+      "19,42": { "defaultState": "off" },
+      "16,43": { "defaultState": "off" },
+      "17,43": { "defaultState": "off" },
+      "18,43": { "defaultState": "off" },
+      "15,44": { "defaultState": "off" },
+      "16,44": { "defaultState": "off" },
+      "17,44": { "defaultState": "off" },
+      "14,45": { "defaultState": "off" },
+      "15,45": { "defaultState": "off" },
+      "16,45": { "defaultState": "off" },
+      "13,46": { "defaultState": "off" },
+      "14,46": { "defaultState": "off" },
+      "15,46": { "defaultState": "off" },
+      "12,47": { "defaultState": "off" },
+      "13,47": { "defaultState": "off" },
+      "14,47": { "defaultState": "off" },
+      "28,40": { "defaultState": "off" },
+      "28,41": { "defaultState": "off" },
+      "29,41": { "defaultState": "off" },
+      "28,42": { "defaultState": "off" },
+      "29,42": { "defaultState": "off" },
+      "30,42": { "defaultState": "off" },
+      "29,43": { "defaultState": "off" },
+      "30,43": { "defaultState": "off" },
+      "31,43": { "defaultState": "off" },
+      "30,44": { "defaultState": "off" },
+      "31,44": { "defaultState": "off" },
+      "32,44": { "defaultState": "off" },
+      "31,45": { "defaultState": "off" },
+      "32,45": { "defaultState": "off" },
+      "33,45": { "defaultState": "off" },
+      "32,46": { "defaultState": "off" },
+      "33,46": { "defaultState": "off" },
+      "34,46": { "defaultState": "off" },
+      "33,47": { "defaultState": "off" },
+      "34,47": { "defaultState": "off" },
+      "35,47": { "defaultState": "off" }
+    }
+
+
+  }

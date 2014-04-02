@@ -1,0 +1,115 @@
+  {
+
+
+    "info":
+    {
+      "name": "Watchtower",
+      "author": "MKo"
+    },
+
+
+    "switches":
+    {
+
+      "25,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 10 } },
+          { "pos": { "x": 21, "y": 10 } },
+          { "pos": { "x": 29, "y": 10 } },
+          { "pos": { "x": 33, "y": 10 } },
+          { "pos": { "x": 21, "y": 11 } },
+          { "pos": { "x": 29, "y": 11 } },
+          { "pos": { "x": 21, "y": 12 } },
+          { "pos": { "x": 22, "y": 12 } },
+          { "pos": { "x": 23, "y": 12 } },
+          { "pos": { "x": 24, "y": 12 } },
+          { "pos": { "x": 25, "y": 12 } },
+          { "pos": { "x": 26, "y": 12 } },
+          { "pos": { "x": 27, "y": 12 } },
+          { "pos": { "x": 28, "y": 12 } },
+          { "pos": { "x": 29, "y": 12 } },
+          { "pos": { "x": 22, "y": 13 } },
+          { "pos": { "x": 25, "y": 13 } },
+          { "pos": { "x": 28, "y": 13 } },
+          { "pos": { "x": 22, "y": 14 } },
+          { "pos": { "x": 25, "y": 14 } },
+          { "pos": { "x": 28, "y": 14 } },
+          { "pos": { "x": 25, "y": 15 } },
+          { "pos": { "x": 25, "y": 16 } },
+          { "pos": { "x": 25, "y": 17 } },
+          { "pos": { "x": 25, "y": 18 } },
+          { "pos": { "x": 21, "y": 19 } },
+          { "pos": { "x": 25, "y": 19 } },
+          { "pos": { "x": 29, "y": 19 } },
+          { "pos": { "x": 21, "y": 20 } },
+          { "pos": { "x": 22, "y": 20 } },
+          { "pos": { "x": 23, "y": 20 } },
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 25, "y": 20 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 27, "y": 20 } },
+          { "pos": { "x": 28, "y": 20 } },
+          { "pos": { "x": 29, "y": 20 } },
+          { "pos": { "x": 22, "y": 21 } },
+          { "pos": { "x": 28, "y": 21 } },
+          { "pos": { "x": 22, "y": 22 } },
+          { "pos": { "x": 28, "y": 22 } },
+          { "pos": { "x": 20, "y": 23 } },
+          { "pos": { "x": 30, "y": 23 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "17,10": { "defaultState": "on" },
+      "21,10": { "defaultState": "off" },
+      "29,10": { "defaultState": "off" },
+      "33,10": { "defaultState": "on" },
+      "21,11": { "defaultState": "off" },
+      "29,11": { "defaultState": "off" },
+      "21,12": { "defaultState": "off" },
+      "22,12": { "defaultState": "off" },
+      "23,12": { "defaultState": "off" },
+      "24,12": { "defaultState": "off" },
+      "25,12": { "defaultState": "off" },
+      "26,12": { "defaultState": "off" },
+      "27,12": { "defaultState": "off" },
+      "28,12": { "defaultState": "off" },
+      "29,12": { "defaultState": "off" },
+      "22,13": { "defaultState": "off" },
+      "25,13": { "defaultState": "off" },
+      "28,13": { "defaultState": "off" },
+      "22,14": { "defaultState": "off" },
+      "25,14": { "defaultState": "off" },
+      "28,14": { "defaultState": "off" },
+      "25,15": { "defaultState": "off" },
+      "25,16": { "defaultState": "off" },
+      "25,17": { "defaultState": "off" },
+      "25,18": { "defaultState": "off" },
+      "21,19": { "defaultState": "off" },
+      "25,19": { "defaultState": "off" },
+      "29,19": { "defaultState": "off" },
+      "21,20": { "defaultState": "off" },
+      "22,20": { "defaultState": "off" },
+      "23,20": { "defaultState": "off" },
+      "24,20": { "defaultState": "off" },
+      "25,20": { "defaultState": "off" },
+      "26,20": { "defaultState": "off" },
+      "27,20": { "defaultState": "off" },
+      "28,20": { "defaultState": "off" },
+      "29,20": { "defaultState": "off" },
+      "22,21": { "defaultState": "off" },
+      "28,21": { "defaultState": "off" },
+      "22,22": { "defaultState": "off" },
+      "28,22": { "defaultState": "off" },
+      "20,23": { "defaultState": "on" },
+      "30,23": { "defaultState": "on" }
+    }
+
+
+  }

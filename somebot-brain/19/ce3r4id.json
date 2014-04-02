@@ -1,0 +1,56 @@
+  {
+
+
+    "info":
+    {
+      "name": "AAron",
+      "author": ""
+    },
+
+
+    "switches":
+    {
+
+      "10,11":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 8, "y": 18 } },
+          { "pos": { "x": 9, "y": 18 } },
+          { "pos": { "x": 10, "y": 18 } },
+          { "pos": { "x": 11, "y": 18 } },
+          { "pos": { "x": 12, "y": 18 } }
+        ]
+      },
+
+      "42,11":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 40, "y": 18 } },
+          { "pos": { "x": 41, "y": 18 } },
+          { "pos": { "x": 42, "y": 18 } },
+          { "pos": { "x": 43, "y": 18 } },
+          { "pos": { "x": 44, "y": 18 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "8,18": { "defaultState": "off" },
+      "9,18": { "defaultState": "off" },
+      "10,18": { "defaultState": "off" },
+      "11,18": { "defaultState": "off" },
+      "12,18": { "defaultState": "off" },
+      "40,18": { "defaultState": "off" },
+      "41,18": { "defaultState": "off" },
+      "42,18": { "defaultState": "off" },
+      "43,18": { "defaultState": "off" },
+      "44,18": { "defaultState": "off" }
+    }
+
+
+  }

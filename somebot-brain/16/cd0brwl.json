@@ -1,0 +1,14 @@
+{
+    "switches": {
+    },
+
+    "fields": {
+        "6,15" : { "defaultState": "red" },
+        "7,14" : { "defaultState": "red" },
+        "7,16" : { "defaultState": "red" },
+        "17,15" : { "defaultState": "blue" },
+        "21,15" : { "defaultState": "blue" },
+        "25,15" : { "defaultState": "blue" },
+        "29,15" : { "defaultState": "blue" }
+    }
+}

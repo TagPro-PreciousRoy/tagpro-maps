@@ -1,0 +1,70 @@
+    {
+     
+     
+        "info":
+        {
+          "name": "Sneizure",
+          "author": "Nevermind"
+        },
+     
+     
+        "switches":
+        {
+     
+          "7,12":
+          {
+            "toggle":
+            [
+              { "pos": { "x": 10, "y": 14 } },
+              { "pos": { "x": 11, "y": 14 } },
+              { "pos": { "x": 12, "y": 14 } },
+              { "pos": { "x": 13, "y": 14 } },
+              { "pos": { "x": 10, "y": 15 } },
+              { "pos": { "x": 11, "y": 15 } },
+              { "pos": { "x": 12, "y": 15 } },
+              { "pos": { "x": 13, "y": 15 } }
+            ]
+          },
+     
+          "51,28":
+          {
+            "toggle":
+            [
+              { "pos": { "x": 48, "y": 26 } },
+              { "pos": { "x": 47, "y": 26 } },
+              { "pos": { "x": 46, "y": 26 } },
+              { "pos": { "x": 45, "y": 26 } },
+              { "pos": { "x": 48, "y": 25 } },
+              { "pos": { "x": 47, "y": 25 } },
+              { "pos": { "x": 46, "y": 25 } },
+              { "pos": { "x": 45, "y": 25 } }
+            ]
+          }
+     
+        },
+     
+      "fields": {
+        "10,14": { "defaultState": "off" },
+        "11,14": { "defaultState": "off" },
+        "12,14": { "defaultState": "off" },
+        "13,14": { "defaultState": "off" },
+        "10,15": { "defaultState": "off" },
+        "11,15": { "defaultState": "off" },
+        "12,15": { "defaultState": "off" },
+        "13,15": { "defaultState": "off" },
+        "48,26": { "defaultState": "off" },
+        "47,26": { "defaultState": "off" },
+        "46,26": { "defaultState": "off" },
+        "45,26": { "defaultState": "off" },
+        "48,25": { "defaultState": "off" },
+        "47,25": { "defaultState": "off" },
+        "46,25": { "defaultState": "off" },
+        "45,25": { "defaultState": "off" }
+      },
+           
+            "portals": {
+                    "29,10": { "destination": { "x": 24, "y": 1 }, "cooldown": 5000 },
+                    "29,30": { "destination": { "x": 34, "y": 39 }, "cooldown": 5000 }
+            }
+           
+      }

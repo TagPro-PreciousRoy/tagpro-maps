@@ -1,0 +1,74 @@
+  {
+
+
+    "info":
+    {
+      "name": "Highways",
+      "author": "Aleowk"
+    },
+
+
+    "switches":
+    {
+
+      "23,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 19, "y": 9 } },
+          { "pos": { "x": 20, "y": 10 } },
+          { "pos": { "x": 21, "y": 11 } }
+        ]
+      },
+
+      "27,22":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 24 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 25, "y": 25 } }
+        ]
+      },
+
+      "22,27":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 24 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 25, "y": 25 } }
+        ]
+      },
+
+      "26,37":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 28, "y": 38 } },
+          { "pos": { "x": 29, "y": 39 } },
+          { "pos": { "x": 30, "y": 40 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "19,9": { "defaultState": "on" },
+      "20,10": { "defaultState": "on" },
+      "21,11": { "defaultState": "on" },
+      "24,24": { "defaultState": "on" },
+      "25,24": { "defaultState": "on" },
+      "24,25": { "defaultState": "on" },
+      "25,25": { "defaultState": "on" },
+      "28,38": { "defaultState": "on" },
+      "29,39": { "defaultState": "on" },
+      "30,40": { "defaultState": "on" }
+    }
+
+
+  }

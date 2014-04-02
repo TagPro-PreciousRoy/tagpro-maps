@@ -1,0 +1,172 @@
+{
+    "info": {
+        "name": "Core",
+        "author": "Squirrely"
+    },
+    "switches": {
+        "2,8": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 3,
+                        "y": 10
+                    }
+                }
+            ]
+        },
+        "2,20": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 3,
+                        "y": 18
+                    }
+                }
+            ]
+        },
+        "38,8": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 37,
+                        "y": 10
+                    }
+                }
+            ]
+        },
+        "38,20": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 37,
+                        "y": 18
+                    }
+                }
+            ]
+        }
+    },
+    "fields": {
+        "25,0": {
+            "defaultState": "on"
+        },
+        "24,0": {
+            "defaultState": "on"
+        },
+        "23,1": {
+            "defaultState": "on"
+        },
+        "24,1": {
+            "defaultState": "on"
+        },
+        "25,1": {
+            "defaultState": "on"
+        },
+        "26,1": {
+            "defaultState": "on"
+        },
+        "22,2": {
+            "defaultState": "on"
+        },
+        "23,2": {
+            "defaultState": "on"
+        },
+        "24,2": {
+            "defaultState": "on"
+        },
+        "25,2": {
+            "defaultState": "on"
+        },
+        "21,3": {
+            "defaultState": "on"
+        },
+        "22,3": {
+            "defaultState": "on"
+        },
+        "23,3": {
+            "defaultState": "on"
+        },
+        "24,3": {
+            "defaultState": "on"
+        },
+        "22,4": {
+            "defaultState": "on"
+        },
+        "23,4": {
+            "defaultState": "on"
+        }
+    },
+    "portals":{ 
+        "14,8": {
+            "destination": {
+                "x": 15,
+                "y": 7
+            }, "cooldown": 0 
+        },
+        "15,14": {
+            "destination": {
+                "x": 20,
+                "y": 8
+            }, "cooldown": 0 
+        },
+        "14,20": {
+            "destination": {
+                "x": 25,
+                "y": 7
+            }, "cooldown": 0 
+        },
+        "15,7": {
+            "destination": {
+                "x": 14,
+                "y": 8
+            }, "cooldown": 0 
+        },
+        "20,8": {
+            "destination": {
+                "x": 15,
+                "y": 14
+            }, "cooldown": 0 
+        },
+        "25,7": {
+            "destination": {
+                "x": 14,
+                "y": 20
+            }, "cooldown": 0 
+        },
+        "26,8": {
+            "destination": {
+                "x": 15,
+                "y": 21
+            }, "cooldown": 0 
+        },
+        "25,14": {
+            "destination": {
+                "x": 20,
+                "y": 20
+            }, "cooldown": 0 
+        },
+        "26,20": {
+            "destination": {
+                "x": 25,
+                "y": 21
+            }, "cooldown": 0 
+        },
+        "15,21": {
+            "destination": {
+                "x": 26,
+                "y": 8
+            }, "cooldown": 0 
+        },
+        "20,20": {
+            "destination": {
+                "x": 25,
+                "y": 14
+            }, "cooldown": 0 
+        },
+        "25,21": {
+            "destination": {
+                "x": 26,
+                "y": 20
+            }, "cooldown": 0 
+        }
+    }
+}

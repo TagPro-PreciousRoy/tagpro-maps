@@ -1,0 +1,155 @@
+{
+
+    "info":
+    {
+      "name": "Heaven's Gate",
+      "author": "GeckoPie"
+    },
+	
+	"switches": {
+		"27,3": {
+			"toggle": [
+				{ "pos": { "x": 26, "y": 12 } },
+				{ "pos": { "x": 27, "y": 12 } },
+				{ "pos": { "x": 28, "y": 12 } },
+				{ "pos": { "x": 26, "y": 22 } },
+				{ "pos": { "x": 27, "y": 22 } },
+				{ "pos": { "x": 28, "y": 22 } },
+				{ "pos": { "x": 22, "y": 16 } },
+				{ "pos": { "x": 22, "y": 17 } },
+				{ "pos": { "x": 22, "y": 18 } },
+				{ "pos": { "x": 32, "y": 16 } },
+				{ "pos": { "x": 32, "y": 17 } },
+				{ "pos": { "x": 32, "y": 18 } },
+				{ "pos": { "x": 23, "y": 15 } },
+				{ "pos": { "x": 24, "y": 14 } },
+				{ "pos": { "x": 25, "y": 13 } },
+				{ "pos": { "x": 31, "y": 15 } },
+				{ "pos": { "x": 30, "y": 14 } },
+				{ "pos": { "x": 29, "y": 13 } },
+				{ "pos": { "x": 23, "y": 19 } },
+				{ "pos": { "x": 24, "y": 20 } },
+				{ "pos": { "x": 25, "y": 21 } },
+				{ "pos": { "x": 31, "y": 19 } },
+				{ "pos": { "x": 30, "y": 20 } },
+				{ "pos": { "x": 29, "y": 21 } },
+				{ "pos": { "x": 27, "y": 1 } }
+			]
+		},
+		
+		"15,31": {
+			"toggle": [
+				{ "pos": { "x": 26, "y": 14 } },
+				{ "pos": { "x": 27, "y": 14 } },
+				{ "pos": { "x": 28, "y": 14 } },
+				{ "pos": { "x": 26, "y": 20 } },
+				{ "pos": { "x": 27, "y": 20 } },
+				{ "pos": { "x": 28, "y": 20 } },
+				{ "pos": { "x": 24, "y": 16 } },
+				{ "pos": { "x": 24, "y": 17 } },
+				{ "pos": { "x": 24, "y": 18 } },
+				{ "pos": { "x": 30, "y": 16 } },
+				{ "pos": { "x": 30, "y": 17 } },
+				{ "pos": { "x": 30, "y": 18 } },
+				{ "pos": { "x": 25, "y": 15 } },
+				{ "pos": { "x": 29, "y": 15 } },
+				{ "pos": { "x": 25, "y": 19 } },
+				{ "pos": { "x": 29, "y": 19 } },
+				{ "pos": { "x": 15, "y": 33 } }
+			]
+		},
+		
+		"39,31": {
+			"toggle": [
+				{ "pos": { "x": 26, "y": 16 } },
+				{ "pos": { "x": 27, "y": 16 } },
+				{ "pos": { "x": 28, "y": 16 } },
+				{ "pos": { "x": 26, "y": 18 } },
+				{ "pos": { "x": 27, "y": 18 } },
+				{ "pos": { "x": 28, "y": 18 } },
+				{ "pos": { "x": 26, "y": 17 } },
+				{ "pos": { "x": 28, "y": 17 } },
+				{ "pos": { "x": 39, "y": 33 } }
+			]
+		},
+		
+		"2,32": {
+			"toggle": [
+				{ "pos": { "x": 1, "y": 15 } },
+				{ "pos": { "x": 1, "y": 16 } },
+				{ "pos": { "x": 1, "y": 17 } },
+				{ "pos": { "x": 1, "y": 18 } },
+				{ "pos": { "x": 1, "y": 19 } }
+			]
+		},
+		
+		"52,32": {
+			"toggle": [
+				{ "pos": { "x": 53, "y": 15 } },
+				{ "pos": { "x": 53, "y": 16 } },
+				{ "pos": { "x": 53, "y": 17 } },
+				{ "pos": { "x": 53, "y": 18 } },
+				{ "pos": { "x": 53, "y": 19 } }
+			]
+		}
+	},
+	
+	"portals": {
+		"27,17": { "destination": { "x": 27, "y": 58 }, "cooldown": 0 }
+	},
+	
+	"fields": {
+		"26,12" : { "defaultState": "on" },
+		"27,12" : { "defaultState": "on" },
+		"28,12" : { "defaultState": "on" },
+		"26,14" : { "defaultState": "on" },
+		"27,14" : { "defaultState": "on" },
+		"28,14" : { "defaultState": "on" },
+		"26,20" : { "defaultState": "on" },
+		"27,20" : { "defaultState": "on" },
+		"28,20" : { "defaultState": "on" },
+		"26,22" : { "defaultState": "on" },
+		"27,22" : { "defaultState": "on" },
+		"28,22" : { "defaultState": "on" },
+		"22,16" : { "defaultState": "on" },
+		"22,17" : { "defaultState": "on" },
+		"22,18" : { "defaultState": "on" },
+		"24,16" : { "defaultState": "on" },
+		"24,17" : { "defaultState": "on" },
+		"24,18" : { "defaultState": "on" },
+		"30,16" : { "defaultState": "on" },
+		"30,17" : { "defaultState": "on" },
+		"30,18" : { "defaultState": "on" },
+		"32,16" : { "defaultState": "on" },
+		"32,17" : { "defaultState": "on" },
+		"32,18" : { "defaultState": "on" },
+		"25,13" : { "defaultState": "on" },
+		"29,13" : { "defaultState": "on" },
+		"25,21" : { "defaultState": "on" },
+		"29,21" : { "defaultState": "on" },
+		"24,14" : { "defaultState": "on" },
+		"30,14" : { "defaultState": "on" },
+		"24,20" : { "defaultState": "on" },
+		"30,20" : { "defaultState": "on" },
+		"26,16" : { "defaultState": "on" },
+		"28,16" : { "defaultState": "on" },
+		"26,18" : { "defaultState": "on" },
+		"28,18" : { "defaultState": "on" },
+		"26,17" : { "defaultState": "on" },
+		"28,17" : { "defaultState": "on" },
+		"23,15" : { "defaultState": "on" },
+		"25,15" : { "defaultState": "on" },
+		"27,16" : { "defaultState": "on" },
+		"29,15" : { "defaultState": "on" },
+		"31,15" : { "defaultState": "on" },
+		"23,19" : { "defaultState": "on" },
+		"25,19" : { "defaultState": "on" },
+		"27,18" : { "defaultState": "on" },
+		"29,19" : { "defaultState": "on" },
+		"31,19" : { "defaultState": "on" },
+		"27,1" : { "defaultState": "on" },
+		"15,33" : { "defaultState": "on" },
+		"39,33" : { "defaultState": "on" }
+	}
+
+}

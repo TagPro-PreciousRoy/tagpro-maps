@@ -1,0 +1,15 @@
+{
+
+"info":
+{"name":"Mill","author":"jegs"},
+
+"switches":{},
+
+"fields":{},
+
+"portals":{
+"3,31":{"destination":{"x":31,"y":3}, "cooldown": 0 },
+"31,3":{"destination":{"x":3,"y":31}, "cooldown": 0 }
+}
+
+}

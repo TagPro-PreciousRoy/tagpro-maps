@@ -1,0 +1,104 @@
+  {
+
+
+    "info":
+    {
+      "name": "The Rift",
+      "author": "Grygon"
+    },
+
+
+    "switches":
+    {
+
+      "28,5":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 27, "y": 3 } },
+          { "pos": { "x": 27, "y": 4 } },
+          { "pos": { "x": 27, "y": 5 } },
+          { "pos": { "x": 28, "y": 8 } }
+        ]
+      },
+
+      "32,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 29, "y": 9 } },
+          { "pos": { "x": 32, "y": 10 } },
+          { "pos": { "x": 33, "y": 10 } },
+          { "pos": { "x": 34, "y": 10 } }
+        ]
+      },
+
+      "24,11":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 23, "y": 11 } },
+          { "pos": { "x": 24, "y": 12 } }
+        ]
+      },
+
+      "13,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 25 } },
+          { "pos": { "x": 14, "y": 26 } }
+        ]
+      },
+
+      "5,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 3, "y": 27 } },
+          { "pos": { "x": 4, "y": 27 } },
+          { "pos": { "x": 5, "y": 27 } },
+          { "pos": { "x": 8, "y": 28 } }
+        ]
+      },
+
+      "9,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 9, "y": 29 } },
+          { "pos": { "x": 10, "y": 32 } },
+          { "pos": { "x": 10, "y": 33 } },
+          { "pos": { "x": 10, "y": 34 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "27,3": { "defaultState": "off" },
+      "27,4": { "defaultState": "off" },
+      "27,5": { "defaultState": "off" },
+      "28,8": { "defaultState": "off" },
+      "29,9": { "defaultState": "off" },
+      "32,10": { "defaultState": "off" },
+      "33,10": { "defaultState": "off" },
+      "34,10": { "defaultState": "off" },
+      "23,11": { "defaultState": "off" },
+      "24,12": { "defaultState": "off" },
+      "13,25": { "defaultState": "off" },
+      "14,26": { "defaultState": "off" },
+      "3,27": { "defaultState": "off" },
+      "4,27": { "defaultState": "off" },
+      "5,27": { "defaultState": "off" },
+      "8,28": { "defaultState": "off" },
+      "9,29": { "defaultState": "off" },
+      "10,32": { "defaultState": "off" },
+      "10,33": { "defaultState": "off" },
+      "10,34": { "defaultState": "off" }
+    }
+
+
+  }

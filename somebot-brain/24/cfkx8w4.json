@@ -1,0 +1,31 @@
+{
+
+
+    "info":
+    {
+      "name": "Scroll",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "": {
+            "toggle": [
+
+             ] 
+       }
+    },
+    "fields": {
+
+    },
+
+    "portals": {
+    
+    "4,24": { "destination": { "x": 10, "y": 14 }, "cooldown": 10000 },
+    "45,25": { "destination": { "x": 39, "y": 35 }, "cooldown": 10000 },
+    "14,4": { "destination": { "x": 18, "y": 14 }, "cooldown": 10000 },
+    "35,45": { "destination": { "x": 31, "y": 35 }, "cooldown": 10000 },
+    "2,30": { "destination": { "x": 19, "y": 27 }, "cooldown": 10000 },
+    "47,19": { "destination": { "x": 30, "y": 22 }, "cooldown": 10000 },
+    "16,46": { "destination": { "x": 13, "y": 35 }, "cooldown": 10000 },
+    "33,3": { "destination": { "x": 36, "y": 14 }, "cooldown": 10000 }
+    }
+}

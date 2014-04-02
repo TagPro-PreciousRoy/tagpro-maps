@@ -1,0 +1,43 @@
+{
+    "info": {
+        "name": "Glory Hole v2.0",
+        "author": "LuckySpammer + Sun Tzu"
+    },
+    "switches": {
+        "4,15": {
+            "toggle": [
+                { "pos": { "x": 12, "y": 12 } },
+                { "pos": { "x": 12, "y": 13 } },
+                { "pos": { "x": 12, "y": 14 } },
+                { "pos": { "x": 12, "y": 15 } },
+                { "pos": { "x": 12, "y": 16 } }
+            ]
+        },
+        "42,15": {
+            "toggle": [
+                { "pos": { "x": 34, "y": 12 } },
+                { "pos": { "x": 34, "y": 13 } },
+                { "pos": { "x": 34, "y": 14 } },
+                { "pos": { "x": 34, "y": 15 } },
+                { "pos": { "x": 34, "y": 16 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "12,12" : { "defaultState": "off" },
+        "12,13" : { "defaultState": "off" },
+        "12,14" : { "defaultState": "off" },
+        "12,15" : { "defaultState": "off" },
+        "12,16" : { "defaultState": "off" },
+        "34,12" : { "defaultState": "off" },
+        "34,13" : { "defaultState": "off" },
+        "34,14" : { "defaultState": "off" },
+        "34,15" : { "defaultState": "off" },
+        "34,16" : { "defaultState": "off" },
+		"18,2" : { "defaultState": "on" },
+		"28,2" : { "defaultState": "on" },
+		"23,11" : { "defaultState": "on" },
+		"23,17" : { "defaultState": "on" }
+    }
+}

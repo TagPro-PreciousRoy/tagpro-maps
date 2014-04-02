@@ -1,0 +1,89 @@
+  {
+
+
+    "info":
+    {
+      "name": "Gatedome",
+      "author": "Fortɧ"
+    },
+
+
+    "switches":
+    {
+
+      "4,4":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 1 } },
+          { "pos": { "x": 2, "y": 1 } },
+          { "pos": { "x": 3, "y": 1 } },
+          { "pos": { "x": 4, "y": 1 } },
+          { "pos": { "x": 5, "y": 1 } },
+          { "pos": { "x": 6, "y": 1 } },
+          { "pos": { "x": 7, "y": 1 } },
+          { "pos": { "x": 1, "y": 2 } },
+          { "pos": { "x": 2, "y": 2 } },
+          { "pos": { "x": 3, "y": 2 } },
+          { "pos": { "x": 7, "y": 2 } },
+          { "pos": { "x": 1, "y": 3 } },
+          { "pos": { "x": 2, "y": 3 } },
+          { "pos": { "x": 7, "y": 3 } },
+          { "pos": { "x": 1, "y": 4 } },
+          { "pos": { "x": 7, "y": 4 } },
+          { "pos": { "x": 1, "y": 5 } },
+          { "pos": { "x": 6, "y": 5 } },
+          { "pos": { "x": 7, "y": 5 } },
+          { "pos": { "x": 1, "y": 6 } },
+          { "pos": { "x": 5, "y": 6 } },
+          { "pos": { "x": 6, "y": 6 } },
+          { "pos": { "x": 7, "y": 6 } },
+          { "pos": { "x": 1, "y": 7 } },
+          { "pos": { "x": 2, "y": 7 } },
+          { "pos": { "x": 3, "y": 7 } },
+          { "pos": { "x": 4, "y": 7 } },
+          { "pos": { "x": 5, "y": 7 } },
+          { "pos": { "x": 6, "y": 7 } },
+          { "pos": { "x": 7, "y": 7 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "1,1": { "defaultState": "off" },
+      "2,1": { "defaultState": "off" },
+      "3,1": { "defaultState": "off" },
+      "4,1": { "defaultState": "off" },
+      "5,1": { "defaultState": "off" },
+      "6,1": { "defaultState": "off" },
+      "7,1": { "defaultState": "off" },
+      "1,2": { "defaultState": "off" },
+      "2,2": { "defaultState": "off" },
+      "3,2": { "defaultState": "off" },
+      "7,2": { "defaultState": "off" },
+      "1,3": { "defaultState": "off" },
+      "2,3": { "defaultState": "off" },
+      "7,3": { "defaultState": "off" },
+      "1,4": { "defaultState": "off" },
+      "7,4": { "defaultState": "off" },
+      "1,5": { "defaultState": "off" },
+      "6,5": { "defaultState": "off" },
+      "7,5": { "defaultState": "off" },
+      "1,6": { "defaultState": "off" },
+      "5,6": { "defaultState": "off" },
+      "6,6": { "defaultState": "off" },
+      "7,6": { "defaultState": "off" },
+      "1,7": { "defaultState": "off" },
+      "2,7": { "defaultState": "off" },
+      "3,7": { "defaultState": "off" },
+      "4,7": { "defaultState": "off" },
+      "5,7": { "defaultState": "off" },
+      "6,7": { "defaultState": "off" },
+      "7,7": { "defaultState": "off" }
+    }
+
+
+  }

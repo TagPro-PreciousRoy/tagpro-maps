@@ -1,0 +1,30 @@
+{
+    "info": {
+        "name": "SpartanHelm",
+        "author": "Squirrely"
+    },
+    "switches": {
+        "16,20": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 18,
+                        "y": 19
+                    }
+                }
+            ]
+        },
+        "23,20": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 21,
+                        "y": 19
+                    }
+                }
+            ]
+        }
+    },
+    "fields": {},
+    "portals": {}
+}

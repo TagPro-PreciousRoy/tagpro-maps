@@ -1,0 +1,30 @@
+{
+    "info": {
+        "name": "Thrillho",
+        "author": "BMO"
+    },
+    "switches": {
+        "9,27": {
+            "toggle": [
+                { "pos": { "x": 4, "y": 26 } },
+                { "pos": { "x": 5, "y": 26 } },
+                { "pos": { "x": 6, "y": 26 } }
+            ]
+        },
+        "44,8": {
+            "toggle": [
+            	{ "pos": { "x": 47, "y": 9 } },
+                { "pos": { "x": 48, "y": 9 } },
+                { "pos": { "x": 49, "y": 9 } }
+            ]
+        }
+    },
+    "fields": {
+    	"4,26" : { "defaultState": "off" },
+        "5,26" : { "defaultState": "off" },
+        "6,26" : { "defaultState": "off" },
+        "47,9" : { "defaultState": "off" },
+        "48,9" : { "defaultState": "off" },
+        "49,9" : { "defaultState": "off" }
+    }
+}

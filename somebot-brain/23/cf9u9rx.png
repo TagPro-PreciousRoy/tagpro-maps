@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="en" xmlns="http://www.w3.org/1999/xhtml"> <head>
+    <title>imgur: the simple overloaded page</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="robots" content="follow,index" />
+    <meta name="keywords" content="images, funny pictures, image host, image upload, image sharing, image resize" />
+    <meta name="description" content="Imgur is used to share photos with social networks and online communities, and has the funniest pictures from all over the Internet." />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge;" />
+    <link rel="alternate" type="application/rss+xml" title="Imgur Gallery" href="http://feeds.feedburner.com/ImgurGallery?format=xml" />
+    <link rel="stylesheet" href="http://s.imgur.com/include/css/overloaded.css?1361994242" type="text/css" /> </head> <body>
+    <div class="nodisplay">
+        Imgur is used to share photos with social networks and online
+        communities, and has the funniest pictures from all over the Internet.
+    </div>
+    
+    <div class="fullwidth-row">
+        <div class="error-textrow">
+            <h1>Imgur is over capacity!</h1>
+            <p>Sorry! We're busy running around with our hair on fire because Imgur
+                is over capacity! This can happen when the site is under a very heavy
+                load, or while we're doing maintenance.
+                <br /><br />
+                Please <a href="/">try again</a> in a few minutes.
+            </p>
+        </div>
+        <div class="giraffe"></div>
+        <div class="nodisplay">
+            ::CLOUDFLARE_ERROR_500S_BOX::
+        </div>
+    </div> </body>
+</html>

@@ -1,0 +1,114 @@
+  {
+
+
+    "info":
+    {
+      "name": "The Eye",
+      "author": "rainmaker"
+    },
+
+
+    "switches":
+    {
+
+      "41,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 38, "y": 14 } },
+          { "pos": { "x": 39, "y": 14 } },
+          { "pos": { "x": 40, "y": 14 } },
+          { "pos": { "x": 41, "y": 14 } },
+          { "pos": { "x": 38, "y": 15 } },
+          { "pos": { "x": 39, "y": 15 } },
+          { "pos": { "x": 40, "y": 15 } },
+          { "pos": { "x": 41, "y": 15 } }
+        ]
+      },
+
+      "37,16":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 37, "y": 9 } },
+          { "pos": { "x": 38, "y": 9 } },
+          { "pos": { "x": 39, "y": 9 } },
+          { "pos": { "x": 40, "y": 9 } },
+          { "pos": { "x": 37, "y": 10 } },
+          { "pos": { "x": 38, "y": 10 } },
+          { "pos": { "x": 39, "y": 10 } },
+          { "pos": { "x": 40, "y": 10 } }
+        ]
+      },
+
+      "5,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 2, "y": 32 } },
+          { "pos": { "x": 3, "y": 32 } },
+          { "pos": { "x": 4, "y": 32 } },
+          { "pos": { "x": 5, "y": 32 } },
+          { "pos": { "x": 2, "y": 33 } },
+          { "pos": { "x": 3, "y": 33 } },
+          { "pos": { "x": 4, "y": 33 } },
+          { "pos": { "x": 5, "y": 33 } }
+        ]
+      },
+
+      "1,34":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 27 } },
+          { "pos": { "x": 2, "y": 27 } },
+          { "pos": { "x": 3, "y": 27 } },
+          { "pos": { "x": 4, "y": 27 } },
+          { "pos": { "x": 1, "y": 28 } },
+          { "pos": { "x": 2, "y": 28 } },
+          { "pos": { "x": 3, "y": 28 } },
+          { "pos": { "x": 4, "y": 28 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "38,14": { "defaultState": "off" },
+      "39,14": { "defaultState": "off" },
+      "40,14": { "defaultState": "off" },
+      "41,14": { "defaultState": "off" },
+      "38,15": { "defaultState": "off" },
+      "39,15": { "defaultState": "off" },
+      "40,15": { "defaultState": "off" },
+      "41,15": { "defaultState": "off" },
+      "37,9": { "defaultState": "off" },
+      "38,9": { "defaultState": "off" },
+      "39,9": { "defaultState": "off" },
+      "40,9": { "defaultState": "off" },
+      "37,10": { "defaultState": "off" },
+      "38,10": { "defaultState": "off" },
+      "39,10": { "defaultState": "off" },
+      "40,10": { "defaultState": "off" },
+      "2,32": { "defaultState": "off" },
+      "3,32": { "defaultState": "off" },
+      "4,32": { "defaultState": "off" },
+      "5,32": { "defaultState": "off" },
+      "2,33": { "defaultState": "off" },
+      "3,33": { "defaultState": "off" },
+      "4,33": { "defaultState": "off" },
+      "5,33": { "defaultState": "off" },
+      "1,27": { "defaultState": "off" },
+      "2,27": { "defaultState": "off" },
+      "3,27": { "defaultState": "off" },
+      "4,27": { "defaultState": "off" },
+      "1,28": { "defaultState": "off" },
+      "2,28": { "defaultState": "off" },
+      "3,28": { "defaultState": "off" },
+      "4,28": { "defaultState": "off" }
+    }
+
+
+  }

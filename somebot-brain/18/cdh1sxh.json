@@ -1,0 +1,84 @@
+  {
+
+
+    "info":
+    {
+      "name": "X2",
+      "author": "Jet2"
+    },
+
+
+    "switches":
+    {
+
+      "23,18":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 23, "y": 22 } },
+          { "pos": { "x": 24, "y": 22 } },
+          { "pos": { "x": 25, "y": 22 } },
+          { "pos": { "x": 26, "y": 22 } },
+          { "pos": { "x": 23, "y": 23 } },
+          { "pos": { "x": 24, "y": 23 } },
+          { "pos": { "x": 25, "y": 23 } },
+          { "pos": { "x": 26, "y": 23 } },
+          { "pos": { "x": 23, "y": 24 } },
+          { "pos": { "x": 24, "y": 24 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 26, "y": 24 } },
+          { "pos": { "x": 23, "y": 25 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 25, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } }
+        ]
+      },
+
+      "26,29":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 23, "y": 22 } },
+          { "pos": { "x": 24, "y": 22 } },
+          { "pos": { "x": 25, "y": 22 } },
+          { "pos": { "x": 26, "y": 22 } },
+          { "pos": { "x": 23, "y": 23 } },
+          { "pos": { "x": 24, "y": 23 } },
+          { "pos": { "x": 25, "y": 23 } },
+          { "pos": { "x": 26, "y": 23 } },
+          { "pos": { "x": 23, "y": 24 } },
+          { "pos": { "x": 24, "y": 24 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 26, "y": 24 } },
+          { "pos": { "x": 23, "y": 25 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 25, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "23,22": { "defaultState": "off" },
+      "24,22": { "defaultState": "off" },
+      "25,22": { "defaultState": "off" },
+      "26,22": { "defaultState": "off" },
+      "23,23": { "defaultState": "off" },
+      "24,23": { "defaultState": "off" },
+      "25,23": { "defaultState": "off" },
+      "26,23": { "defaultState": "off" },
+      "23,24": { "defaultState": "off" },
+      "24,24": { "defaultState": "off" },
+      "25,24": { "defaultState": "off" },
+      "26,24": { "defaultState": "off" },
+      "23,25": { "defaultState": "off" },
+      "24,25": { "defaultState": "off" },
+      "25,25": { "defaultState": "off" },
+      "26,25": { "defaultState": "off" }
+    }
+
+
+  }

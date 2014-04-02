@@ -1,0 +1,65 @@
+{
+    "info": {
+        "name": "JukeBone",
+        "author": "Squirrely"
+    },
+    "switches": {
+        "13,6": {
+            "toggle": [
+                { "pos": { "x": 11, "y": 1 } },
+                { "pos": { "x": 12, "y": 2 } },
+                { "pos": { "x": 13, "y": 3 } }
+            ]
+        },
+        "13,20": {
+            "toggle": [
+                { "pos": { "x": 6, "y": 26 } },
+                { "pos": { "x": 7, "y": 26 } },
+                { "pos": { "x": 8, "y": 26 } }
+            ]
+        },
+
+        "55,44": {
+            "toggle": [
+                { "pos": { "x": 55, "y": 47 } },
+                { "pos": { "x": 56, "y": 48 } },
+                { "pos": { "x": 57, "y": 49 } }
+	    ] 
+        },
+        "55,30": {
+            "toggle": [
+                { "pos": { "x": 60, "y": 24 } },
+                { "pos": { "x": 61, "y": 24 } },
+                { "pos": { "x": 62, "y": 24 } }
+	    ] 
+       },
+        "10,13": {
+            "toggle": [
+               
+                { "pos": { "x": 4, "y": 12 } },
+                { "pos": { "x": 4, "y": 14 } }
+	    ] 
+       },
+        "58,37": {
+            "toggle": [
+                { "pos": { "x": 64, "y": 36 } },
+                { "pos": { "x": 64, "y": 38 } }
+	    ] 
+       }
+    },
+
+    "fields": {
+        "11,1": { "defaultState": "off" },
+        "12,2": { "defaultState": "off" },
+        "13,3": { "defaultState": "off" },
+        "6,26": { "defaultState": "off" },
+        "7,26": { "defaultState": "off" },
+        "8,26": { "defaultState": "off" },
+        "55,47": { "defaultState": "off" },
+        "56,48": { "defaultState": "off" },
+        "57,49": { "defaultState": "off" },      
+        "60,24": { "defaultState": "off" },
+        "61,24": { "defaultState": "off" },
+        "62,24": { "defaultState": "off" }
+    }
+}

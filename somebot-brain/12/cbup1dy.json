@@ -1,0 +1,60 @@
+  {
+
+
+    "info":
+    {
+      "name": "The Three Paths",
+      "author": "Danny"
+    },
+
+
+    "switches":
+    {
+
+      "26,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 28, "y": 13 } },
+          { "pos": { "x": 24, "y": 14 } },
+          { "pos": { "x": 28, "y": 14 } },
+          { "pos": { "x": 24, "y": 15 } },
+          { "pos": { "x": 28, "y": 15 } }
+        ]
+      },
+
+      "26,27":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 28, "y": 21 } },
+          { "pos": { "x": 24, "y": 22 } },
+          { "pos": { "x": 28, "y": 22 } },
+          { "pos": { "x": 24, "y": 23 } },
+          { "pos": { "x": 28, "y": 23 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "24,13": { "defaultState": "on" },
+      "28,13": { "defaultState": "on" },
+      "24,14": { "defaultState": "on" },
+      "28,14": { "defaultState": "on" },
+      "24,15": { "defaultState": "on" },
+      "28,15": { "defaultState": "on" },
+      "24,21": { "defaultState": "on" },
+      "28,21": { "defaultState": "on" },
+      "24,22": { "defaultState": "on" },
+      "28,22": { "defaultState": "on" },
+      "24,23": { "defaultState": "on" },
+      "28,23": { "defaultState": "on" }
+    }
+
+
+  }

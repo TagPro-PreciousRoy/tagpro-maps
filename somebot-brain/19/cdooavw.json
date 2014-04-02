@@ -1,0 +1,106 @@
+{
+
+
+    "info":
+    {
+      "name": "eX",
+      "author": "FUCKING LAG"
+    },
+
+
+    "switches":
+    {
+
+      "16,16":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 12, "y": 11 } },
+          { "pos": { "x": 13, "y": 11 } },
+          { "pos": { "x": 12, "y": 12 } },
+          { "pos": { "x": 13, "y": 12 } },
+          { "pos": { "x": 12, "y": 13 } },
+          { "pos": { "x": 13, "y": 13 } },
+          { "pos": { "x": 13, "y": 14 } }
+        ]
+      },
+
+      "28,16":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 11 } },
+          { "pos": { "x": 32, "y": 11 } },
+          { "pos": { "x": 31, "y": 12 } },
+          { "pos": { "x": 32, "y": 12 } },
+          { "pos": { "x": 31, "y": 13 } },
+          { "pos": { "x": 32, "y": 13 } },
+          { "pos": { "x": 31, "y": 14 } }
+        ]
+      },
+
+      "16,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 26 } },
+          { "pos": { "x": 12, "y": 27 } },
+          { "pos": { "x": 13, "y": 27 } },
+          { "pos": { "x": 12, "y": 28 } },
+          { "pos": { "x": 13, "y": 28 } },
+          { "pos": { "x": 12, "y": 29 } },
+          { "pos": { "x": 13, "y": 29 } }
+        ]
+      },
+
+      "28,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 26 } },
+          { "pos": { "x": 31, "y": 27 } },
+          { "pos": { "x": 32, "y": 27 } },
+          { "pos": { "x": 31, "y": 28 } },
+          { "pos": { "x": 32, "y": 28 } },
+          { "pos": { "x": 31, "y": 29 } },
+          { "pos": { "x": 32, "y": 29 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "12,11": { "defaultState": "off" },
+      "13,11": { "defaultState": "off" },
+      "12,12": { "defaultState": "off" },
+      "13,12": { "defaultState": "off" },
+      "12,13": { "defaultState": "off" },
+      "13,13": { "defaultState": "off" },
+      "13,14": { "defaultState": "off" },
+      "31,11": { "defaultState": "off" },
+      "32,11": { "defaultState": "off" },
+      "31,12": { "defaultState": "off" },
+      "32,12": { "defaultState": "off" },
+      "31,13": { "defaultState": "off" },
+      "32,13": { "defaultState": "off" },
+      "31,14": { "defaultState": "off" },
+      "13,26": { "defaultState": "off" },
+      "12,27": { "defaultState": "off" },
+      "13,27": { "defaultState": "off" },
+      "12,28": { "defaultState": "off" },
+      "13,28": { "defaultState": "off" },
+      "12,29": { "defaultState": "off" },
+      "13,29": { "defaultState": "off" },
+      "31,26": { "defaultState": "off" },
+      "31,27": { "defaultState": "off" },
+      "32,27": { "defaultState": "off" },
+      "31,28": { "defaultState": "off" },
+      "32,28": { "defaultState": "off" },
+      "31,29": { "defaultState": "off" },
+      "32,29": { "defaultState": "off" }
+    }
+
+
+  }

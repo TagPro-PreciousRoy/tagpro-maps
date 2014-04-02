@@ -1,0 +1,138 @@
+{
+
+
+    "info":
+    {
+      "name": "Dorian.3",
+      "author": "Fank1"
+    },
+
+
+    "switches":
+    {
+
+      "46,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 45, "y": 15 } },
+          { "pos": { "x": 46, "y": 15 } },
+          { "pos": { "x": 41, "y": 33 } },
+          { "pos": { "x": 42, "y": 33 } },
+          { "pos": { "x": 43, "y": 33 } },
+          { "pos": { "x": 41, "y": 34 } },
+          { "pos": { "x": 42, "y": 34 } },
+          { "pos": { "x": 43, "y": 34 } }
+        ]
+      },
+
+      "17,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 16, "y": 4 } },
+          { "pos": { "x": 17, "y": 4 } },
+          { "pos": { "x": 18, "y": 4 } },
+          { "pos": { "x": 16, "y": 5 } },
+          { "pos": { "x": 17, "y": 5 } },
+          { "pos": { "x": 18, "y": 5 } },
+          { "pos": { "x": 19, "y": 5 } },
+          { "pos": { "x": 16, "y": 6 } },
+          { "pos": { "x": 17, "y": 6 } },
+          { "pos": { "x": 13, "y": 7 } },
+          { "pos": { "x": 14, "y": 7 } },
+          { "pos": { "x": 15, "y": 7 } },
+          { "pos": { "x": 16, "y": 7 } },
+          { "pos": { "x": 17, "y": 7 } },
+          { "pos": { "x": 13, "y": 8 } },
+          { "pos": { "x": 14, "y": 8 } },
+          { "pos": { "x": 15, "y": 8 } }
+        ]
+      },
+
+      "39,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 41, "y": 33 } },
+          { "pos": { "x": 42, "y": 33 } },
+          { "pos": { "x": 43, "y": 33 } },
+          { "pos": { "x": 39, "y": 34 } },
+          { "pos": { "x": 40, "y": 34 } },
+          { "pos": { "x": 41, "y": 34 } },
+          { "pos": { "x": 42, "y": 34 } },
+          { "pos": { "x": 43, "y": 34 } },
+          { "pos": { "x": 39, "y": 35 } },
+          { "pos": { "x": 40, "y": 35 } },
+          { "pos": { "x": 37, "y": 36 } },
+          { "pos": { "x": 38, "y": 36 } },
+          { "pos": { "x": 39, "y": 36 } },
+          { "pos": { "x": 40, "y": 36 } },
+          { "pos": { "x": 38, "y": 37 } },
+          { "pos": { "x": 39, "y": 37 } },
+          { "pos": { "x": 40, "y": 37 } }
+        ]
+      },
+
+      "10,33":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 7 } },
+          { "pos": { "x": 14, "y": 7 } },
+          { "pos": { "x": 15, "y": 7 } },
+          { "pos": { "x": 13, "y": 8 } },
+          { "pos": { "x": 14, "y": 8 } },
+          { "pos": { "x": 15, "y": 8 } },
+          { "pos": { "x": 10, "y": 26 } },
+          { "pos": { "x": 11, "y": 26 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "45,15": { "defaultState": "off" },
+      "46,15": { "defaultState": "on" },
+      "41,33": { "defaultState": "off" },
+      "42,33": { "defaultState": "off" },
+      "43,33": { "defaultState": "off" },
+      "41,34": { "defaultState": "off" },
+      "42,34": { "defaultState": "off" },
+      "43,34": { "defaultState": "off" },
+      "16,4": { "defaultState": "off" },
+      "17,4": { "defaultState": "off" },
+      "18,4": { "defaultState": "off" },
+      "16,5": { "defaultState": "off" },
+      "17,5": { "defaultState": "off" },
+      "18,5": { "defaultState": "off" },
+      "19,5": { "defaultState": "off" },
+      "16,6": { "defaultState": "off" },
+      "17,6": { "defaultState": "off" },
+      "13,7": { "defaultState": "off" },
+      "14,7": { "defaultState": "off" },
+      "15,7": { "defaultState": "off" },
+      "16,7": { "defaultState": "off" },
+      "17,7": { "defaultState": "off" },
+      "13,8": { "defaultState": "off" },
+      "14,8": { "defaultState": "off" },
+      "15,8": { "defaultState": "off" },
+      "39,34": { "defaultState": "off" },
+      "40,34": { "defaultState": "off" },
+      "39,35": { "defaultState": "off" },
+      "40,35": { "defaultState": "off" },
+      "37,36": { "defaultState": "off" },
+      "38,36": { "defaultState": "off" },
+      "39,36": { "defaultState": "off" },
+      "40,36": { "defaultState": "off" },
+      "38,37": { "defaultState": "off" },
+      "39,37": { "defaultState": "off" },
+      "40,37": { "defaultState": "off" },
+      "10,26": { "defaultState": "on" },
+      "11,26": { "defaultState": "off" }
+    }
+
+
+  }

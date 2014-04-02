@@ -1,0 +1,69 @@
+{
+    "info": {
+        "name": "CONCENTRIC",
+        "author": "CRUSADERBEAR"
+    },
+    "switches": {
+        "32,14": {
+            "toggle": [
+                { "pos": { "x": 7, "y": 5 } },
+                { "pos": { "x": 41, "y": 39 } },
+                
+                { "pos": { "x": 38, "y": 7 } },
+                { "pos": { "x": 39, "y": 7 } },
+                { "pos": { "x": 37, "y": 8 } },
+                { "pos": { "x": 38, "y": 8 } },
+                { "pos": { "x": 39, "y": 8 } },
+                { "pos": { "x": 36, "y": 9 } },
+                { "pos": { "x": 38, "y": 9 } },
+                { "pos": { "x": 37, "y": 10 } }
+            ]
+        },
+        "14,32": {
+            "toggle": [
+            	{ "pos": { "x": 5, "y": 7 } },
+                { "pos": { "x": 39, "y": 41 } },
+                
+                { "pos": { "x": 7, "y": 38 } },
+                { "pos": { "x": 7, "y": 39 } },
+                { "pos": { "x": 8, "y": 37 } },
+                { "pos": { "x": 8, "y": 38 } },
+                { "pos": { "x": 8, "y": 39 } },
+                { "pos": { "x": 9, "y": 36 } },
+                { "pos": { "x": 9, "y": 38 } },
+                { "pos": { "x": 10, "y": 37 } }
+            ]
+        }
+    },
+    "fields": {
+    	"5,7" : { "defaultState": "on" },
+        "7,5" : { "defaultState": "on" },
+        "39,41" : { "defaultState": "on" },
+        "41,39" : { "defaultState": "on" },
+    	
+        "38,7" : { "defaultState": "on" },
+        "39,7" : { "defaultState": "on" },
+        "37,8" : { "defaultState": "on" },
+        "38,8" : { "defaultState": "on" },
+        "39,8" : { "defaultState": "on" },
+        "36,9" : { "defaultState": "on" },
+        "38,9" : { "defaultState": "on" },
+        "37,10" : { "defaultState": "on" },
+        
+        "7,38" : { "defaultState": "on" },
+        "7,39" : { "defaultState": "on" },
+        "8,37" : { "defaultState": "on" },
+        "8,38" : { "defaultState": "on" },
+        "8,39" : { "defaultState": "on" },
+        "9,36" : { "defaultState": "on" },
+        "9,38" : { "defaultState": "on" },
+        "10,37" : { "defaultState": "on" }
+    },
+    "portals": {
+    "7,7": { "destination": { "x": 28, "y": 28 }, "cooldown": 0 },
+    "28,28": { "destination": { "x": 7, "y": 7 }, "cooldown": 0 },
+    
+    "18,18": { "destination": { "x": 39, "y": 39 }, "cooldown": 0 },
+    "39,39": { "destination": { "x": 18, "y": 18 }, "cooldown": 0 }
+	}
+}

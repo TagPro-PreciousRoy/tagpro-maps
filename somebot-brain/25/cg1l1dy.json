@@ -1,0 +1,10 @@
+{
+	"info": {
+		"name": "Mini Oval",
+		"author": "Grapefruit" 
+	},
+	"portals": {
+		"24,4": { "destination": { "x": 24, "y": 14}, "cooldown": 7000},
+		"24,14": { "destination": { "x": 24, "y": 4}, "cooldown": 7000}
+	}
+}

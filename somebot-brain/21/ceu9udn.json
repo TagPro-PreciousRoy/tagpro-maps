@@ -1,0 +1,117 @@
+  {
+
+
+    "info":
+    {
+      "name": "Mouse",
+      "author": "Love"
+    },
+
+
+    "switches":
+    {
+
+      "22,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 23, "y": 12 } },
+          { "pos": { "x": 24, "y": 12 } },
+          { "pos": { "x": 25, "y": 12 } },
+          { "pos": { "x": 26, "y": 12 } },
+          { "pos": { "x": 27, "y": 12 } },
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 25, "y": 13 } },
+          { "pos": { "x": 26, "y": 13 } },
+          { "pos": { "x": 25, "y": 14 } }
+        ]
+      },
+
+      "28,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 23, "y": 12 } },
+          { "pos": { "x": 24, "y": 12 } },
+          { "pos": { "x": 25, "y": 12 } },
+          { "pos": { "x": 26, "y": 12 } },
+          { "pos": { "x": 27, "y": 12 } },
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 25, "y": 13 } },
+          { "pos": { "x": 26, "y": 13 } },
+          { "pos": { "x": 25, "y": 14 } }
+        ]
+      },
+
+      "17,16":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 11 } },
+          { "pos": { "x": 19, "y": 16 } },
+          { "pos": { "x": 30, "y": 16 } },
+          { "pos": { "x": 20, "y": 17 } },
+          { "pos": { "x": 29, "y": 17 } },
+          { "pos": { "x": 21, "y": 18 } },
+          { "pos": { "x": 22, "y": 18 } },
+          { "pos": { "x": 23, "y": 18 } },
+          { "pos": { "x": 24, "y": 18 } },
+          { "pos": { "x": 25, "y": 18 } },
+          { "pos": { "x": 26, "y": 18 } },
+          { "pos": { "x": 27, "y": 18 } },
+          { "pos": { "x": 28, "y": 18 } }
+        ]
+      },
+
+      "32,16":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 11 } },
+          { "pos": { "x": 19, "y": 16 } },
+          { "pos": { "x": 30, "y": 16 } },
+          { "pos": { "x": 20, "y": 17 } },
+          { "pos": { "x": 29, "y": 17 } },
+          { "pos": { "x": 21, "y": 18 } },
+          { "pos": { "x": 22, "y": 18 } },
+          { "pos": { "x": 23, "y": 18 } },
+          { "pos": { "x": 24, "y": 18 } },
+          { "pos": { "x": 25, "y": 18 } },
+          { "pos": { "x": 26, "y": 18 } },
+          { "pos": { "x": 27, "y": 18 } },
+          { "pos": { "x": 28, "y": 18 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "23,12": { "defaultState": "off" },
+      "24,12": { "defaultState": "off" },
+      "25,12": { "defaultState": "off" },
+      "26,12": { "defaultState": "off" },
+      "27,12": { "defaultState": "off" },
+      "24,13": { "defaultState": "off" },
+      "25,13": { "defaultState": "off" },
+      "26,13": { "defaultState": "off" },
+      "25,14": { "defaultState": "off" },
+      "18,11": { "defaultState": "on" },
+      "19,16": { "defaultState": "off" },
+      "30,16": { "defaultState": "off" },
+      "20,17": { "defaultState": "off" },
+      "29,17": { "defaultState": "off" },
+      "21,18": { "defaultState": "off" },
+      "22,18": { "defaultState": "off" },
+      "23,18": { "defaultState": "off" },
+      "24,18": { "defaultState": "off" },
+      "25,18": { "defaultState": "off" },
+      "26,18": { "defaultState": "off" },
+      "27,18": { "defaultState": "off" },
+      "28,18": { "defaultState": "off" },
+      "31,11": { "defaultState": "on" }
+    }
+
+
+  }

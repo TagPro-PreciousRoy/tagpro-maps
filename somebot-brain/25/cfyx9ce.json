@@ -1,0 +1,23 @@
+{
+
+
+    "info":
+    {
+      "name": "Masochisoknot lite",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "": {
+            "toggle": [
+
+             ] 
+       }
+    },
+    "fields": {
+
+    },
+
+    "portals": {
+    "45,2": { "destination": { "x": 1, "y": 1 }, "cooldown": 0 }
+    }
+}

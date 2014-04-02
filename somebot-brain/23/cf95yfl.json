@@ -1,0 +1,46 @@
+{
+ 
+ 
+    "info":
+    {
+      "name": "Pretzel 2",
+      "author": "ppppow"
+    },
+ 
+ 
+    "switches":
+    {
+ 
+      "29,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 11 } },
+          { "pos": { "x": 31, "y": 12 } },
+          { "pos": { "x": 31, "y": 13 } },
+                  { "pos": { "x": 31, "y": 14 } }
+        ]
+      },
+ 
+      "33,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 11 } },
+          { "pos": { "x": 31, "y": 12 } },
+          { "pos": { "x": 31, "y": 13 } },
+                  { "pos": { "x": 31, "y": 14 } }
+        ]
+      }
+ 
+        },
+    "fields":
+    {
+      "31,11": { "defaultState": "off" },
+      "31,12": { "defaultState": "off" },
+      "31,13": { "defaultState": "off" },
+          "31,14": { "defaultState": "off" }
+    }
+ 
+ 
+  }

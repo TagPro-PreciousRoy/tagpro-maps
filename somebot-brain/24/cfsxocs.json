@@ -1,0 +1,18 @@
+{
+    "info":
+    {
+      "name": "TWP 2.0",
+      "author": "WreckingBall (modified by GeckoPie)"
+    },
+	
+	"portals": {
+		"1,18": { "destination": { "x": 17, "y": 18 }, "cooldown": 5000 },
+		"17,18": { "destination": { "x": 1, "y": 18 }, "cooldown": 5000 },
+		"41,18": { "destination": { "x": 57, "y": 18 }, "cooldown": 5000 },
+		"57,18": { "destination": { "x": 41, "y": 18 }, "cooldown": 5000 },
+		"11,11": { "destination": { "x": 6, "y": 18 }, "cooldown": 5000 },
+		"11,25": { "destination": { "x": 6, "y": 18 }, "cooldown": 5000 },
+		"47,11": { "destination": { "x":52, "y": 18 }, "cooldown": 5000 },
+		"47,25": { "destination": { "x":52, "y": 18 }, "cooldown": 5000 }
+	}
+}

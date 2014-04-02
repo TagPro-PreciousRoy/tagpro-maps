@@ -1,0 +1,124 @@
+  {
+
+
+    "info":
+    {
+      "name": "5 MIN. MAP",
+      "author": "MRCOW"
+    },
+
+
+    "switches":
+    {
+
+      "16,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 7 } },
+          { "pos": { "x": 15, "y": 8 } },
+          { "pos": { "x": 15, "y": 9 } },
+          { "pos": { "x": 15, "y": 10 } },
+          { "pos": { "x": 15, "y": 11 } },
+          { "pos": { "x": 15, "y": 12 } }
+        ]
+      },
+
+      "10,19":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 12, "y": 16 } },
+          { "pos": { "x": 11, "y": 17 } },
+          { "pos": { "x": 10, "y": 18 } }
+        ]
+      },
+
+      "7,22":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 21 } },
+          { "pos": { "x": 2, "y": 21 } },
+          { "pos": { "x": 3, "y": 21 } },
+          { "pos": { "x": 4, "y": 21 } },
+          { "pos": { "x": 5, "y": 21 } },
+          { "pos": { "x": 6, "y": 21 } }
+        ]
+      },
+
+      "36,33":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 37, "y": 34 } },
+          { "pos": { "x": 38, "y": 34 } },
+          { "pos": { "x": 39, "y": 34 } },
+          { "pos": { "x": 40, "y": 34 } },
+          { "pos": { "x": 41, "y": 34 } },
+          { "pos": { "x": 42, "y": 34 } }
+        ]
+      },
+
+      "33,36":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 33, "y": 37 } },
+          { "pos": { "x": 32, "y": 38 } },
+          { "pos": { "x": 31, "y": 39 } }
+        ]
+      },
+
+      "27,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 28, "y": 43 } },
+          { "pos": { "x": 28, "y": 44 } },
+          { "pos": { "x": 28, "y": 45 } },
+          { "pos": { "x": 28, "y": 46 } },
+          { "pos": { "x": 28, "y": 47 } },
+          { "pos": { "x": 28, "y": 48 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "15,7": { "defaultState": "off" },
+      "15,8": { "defaultState": "off" },
+      "15,9": { "defaultState": "off" },
+      "15,10": { "defaultState": "off" },
+      "15,11": { "defaultState": "off" },
+      "15,12": { "defaultState": "off" },
+      "12,16": { "defaultState": "on" },
+      "11,17": { "defaultState": "on" },
+      "10,18": { "defaultState": "on" },
+      "1,21": { "defaultState": "off" },
+      "2,21": { "defaultState": "off" },
+      "3,21": { "defaultState": "off" },
+      "4,21": { "defaultState": "off" },
+      "5,21": { "defaultState": "off" },
+      "6,21": { "defaultState": "off" },
+      "37,34": { "defaultState": "off" },
+      "38,34": { "defaultState": "off" },
+      "39,34": { "defaultState": "off" },
+      "40,34": { "defaultState": "off" },
+      "41,34": { "defaultState": "off" },
+      "42,34": { "defaultState": "off" },
+      "33,37": { "defaultState": "on" },
+      "32,38": { "defaultState": "on" },
+      "31,39": { "defaultState": "on" },
+      "28,43": { "defaultState": "off" },
+      "28,44": { "defaultState": "off" },
+      "28,45": { "defaultState": "off" },
+      "28,46": { "defaultState": "off" },
+      "28,47": { "defaultState": "off" },
+      "28,48": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,58 @@
+  {
+
+
+    "info":
+    {
+      "name": "The Diagonal Way",
+      "author": "Danny"
+    },
+
+
+    "switches":
+    {
+
+      "26,10":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 27, "y": 7 } },
+          { "pos": { "x": 28, "y": 7 } },
+          { "pos": { "x": 29, "y": 8 } },
+          { "pos": { "x": 29, "y": 9 } },
+          { "pos": { "x": 25, "y": 11 } },
+          { "pos": { "x": 26, "y": 19 } }
+        ]
+      },
+
+      "25,20":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 11 } },
+          { "pos": { "x": 26, "y": 19 } },
+          { "pos": { "x": 22, "y": 21 } },
+          { "pos": { "x": 22, "y": 22 } },
+          { "pos": { "x": 23, "y": 23 } },
+          { "pos": { "x": 24, "y": 23 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "27,7": { "defaultState": "off" },
+      "28,7": { "defaultState": "off" },
+      "29,8": { "defaultState": "off" },
+      "29,9": { "defaultState": "off" },
+      "25,11": { "defaultState": "off" },
+      "26,19": { "defaultState": "off" },
+      "22,21": { "defaultState": "off" },
+      "22,22": { "defaultState": "off" },
+      "23,23": { "defaultState": "off" },
+      "24,23": { "defaultState": "off" }
+    }
+
+
+  }

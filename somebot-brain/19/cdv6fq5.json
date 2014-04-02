@@ -1,0 +1,37 @@
+{
+
+	"info":
+    	{
+      	"name": "Tsu's Time Trial",
+      	"author": "Smiley_Tsu"
+    	},
+
+    "switches": {
+	
+        },
+
+    "fields": {
+      "10,29": { "defaultState": "on" },
+	  "10,30": { "defaultState": "on" },
+	  "10,31": { "defaultState": "on" },
+	  "10,32": { "defaultState": "on" },
+	  "10,33": { "defaultState": "on" },
+	  "10,34": { "defaultState": "on" },
+	  "10,35": { "defaultState": "on" },
+	  "10,36": { "defaultState": "on" },
+	  "10,37": { "defaultState": "on" },
+	  "10,38": { "defaultState": "on" },
+	  "10,39": { "defaultState": "on" },
+	  "10,40": { "defaultState": "on" },
+      "11,40": { "defaultState": "on" },
+	  "12,40": { "defaultState": "on" },
+	  "13,39": { "defaultState": "on" },
+	  "14,38": { "defaultState": "on" },
+	  "15,37": { "defaultState": "on" },
+	  "16,37": { "defaultState": "on" },
+	  "17,37": { "defaultState": "on" },
+	  "18,37": { "defaultState": "on" },
+	  "35,16": { "defaultState": "on" },
+	  "35,18": { "defaultState": "on" }
+    }
+}

@@ -1,0 +1,40 @@
+{
+
+    "info":
+    {
+      "name": "Facing Worlds v2",
+      "author": "GeckoPie"
+    },
+
+    "switches": {
+		"16,7": {
+			"toggle": [
+				{ "pos": { "x": 13, "y": 13 } },
+				{ "pos": { "x": 13, "y": 17 } }
+			]
+		},
+
+		"66,23": {
+			"toggle": [
+				{ "pos": { "x": 69, "y": 13 } },
+				{ "pos": { "x": 69, "y": 17 } }
+			]
+		}
+	},
+	
+	"portals": {
+		"11,15": { "destination": { "x": 24, "y": 15 }, "cooldown": 0 },
+		"24,15": { "destination": { "x": 11, "y": 15 }, "cooldown": 0 },
+		"58,15": { "destination": { "x": 71, "y": 15 }, "cooldown": 0 },
+		"71,15": { "destination": { "x": 58, "y": 15 }, "cooldown": 0 },
+		"3,15": { "destination": { "x": 8, "y": 23 }, "cooldown": 0 },
+		"8,23": { "destination": { "x": 3, "y": 15 }, "cooldown": 0 },
+		"79,15": { "destination": { "x": 74, "y": 7 }, "cooldown": 0 },
+		"74,7": { "destination": { "x": 79, "y": 15 }, "cooldown": 0 },
+		"16,23": { "destination": { "x": 20, "y": 20 }, "cooldown": 0 },
+		"20,20": { "destination": { "x": 16, "y": 23 }, "cooldown": 0 },
+		"66,7": { "destination": { "x": 62, "y": 10 }, "cooldown": 0 },
+		"62,10": { "destination": { "x": 66, "y": 7 }, "cooldown": 0 }
+	}
+
+}

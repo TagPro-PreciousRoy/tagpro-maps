@@ -1,0 +1,113 @@
+ {
+
+
+    "info":
+    {
+      "name": "Jeffrey",
+      "author": "Butter Churn"
+    },
+
+
+    "switches":
+    {
+
+      "10,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 22 } },
+          { "pos": { "x": 13, "y": 23 } },
+          { "pos": { "x": 13, "y": 24 } },
+          { "pos": { "x": 13, "y": 25 } },
+          { "pos": { "x": 13, "y": 26 } },
+          { "pos": { "x": 14, "y": 22 } },
+          { "pos": { "x": 14, "y": 23 } },
+          { "pos": { "x": 14, "y": 24 } },
+          { "pos": { "x": 14, "y": 25 } },
+          { "pos": { "x": 14, "y": 26 } }
+        ]
+      },
+
+      "17,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 22 } },
+          { "pos": { "x": 13, "y": 23 } },
+          { "pos": { "x": 13, "y": 24 } },
+          { "pos": { "x": 13, "y": 25 } },
+          { "pos": { "x": 13, "y": 26 } },
+          { "pos": { "x": 14, "y": 22 } },
+          { "pos": { "x": 14, "y": 23 } },
+          { "pos": { "x": 14, "y": 24 } },
+          { "pos": { "x": 14, "y": 25 } },
+          { "pos": { "x": 14, "y": 26 } }
+        ]
+      },
+
+      "41,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 44, "y": 22 } },
+          { "pos": { "x": 44, "y": 23 } },
+          { "pos": { "x": 44, "y": 24 } },
+          { "pos": { "x": 44, "y": 25 } },
+          { "pos": { "x": 44, "y": 26 } },
+          { "pos": { "x": 45, "y": 22 } },
+          { "pos": { "x": 45, "y": 23 } },
+          { "pos": { "x": 45, "y": 24 } },
+          { "pos": { "x": 45, "y": 25 } },
+          { "pos": { "x": 45, "y": 26 } }
+        ]
+      },
+
+      "48,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 44, "y": 22 } },
+          { "pos": { "x": 44, "y": 23 } },
+          { "pos": { "x": 44, "y": 24 } },
+          { "pos": { "x": 44, "y": 25 } },
+          { "pos": { "x": 44, "y": 26 } },
+          { "pos": { "x": 45, "y": 22 } },
+          { "pos": { "x": 45, "y": 23 } },
+          { "pos": { "x": 45, "y": 24 } },
+          { "pos": { "x": 45, "y": 25 } },
+          { "pos": { "x": 45, "y": 26 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "13,22": { "defaultState": "off" },
+      "13,23": { "defaultState": "off" },
+      "13,24": { "defaultState": "off" },
+      "13,25": { "defaultState": "off" },
+      "13,26": { "defaultState": "off" },
+      "14,22": { "defaultState": "off" },
+      "14,23": { "defaultState": "off" },
+      "14,24": { "defaultState": "off" },
+      "14,25": { "defaultState": "off" },
+      "14,26": { "defaultState": "off" },
+      "44,22": { "defaultState": "off" },
+      "44,23": { "defaultState": "off" },
+      "44,24": { "defaultState": "off" },
+      "44,25": { "defaultState": "off" },
+      "44,26": { "defaultState": "off" },
+      "45,22": { "defaultState": "off" },
+      "45,23": { "defaultState": "off" },
+      "45,24": { "defaultState": "off" },
+      "45,25": { "defaultState": "off" },
+      "45,26": { "defaultState": "off" }
+    },
+    "portals": {
+            "29,17": { "destination": { "x": 29, "y": 12 } },
+            "29,31": { "destination": { "x": 29, "y": 36 } }
+    }
+
+  }

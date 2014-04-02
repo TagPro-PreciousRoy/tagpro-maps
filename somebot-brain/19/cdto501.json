@@ -1,0 +1,108 @@
+  {
+
+
+    "info":
+    {
+      "name": "Space Ship2.0",
+      "author": ""
+    },
+
+
+    "switches":
+    {
+
+      "24,23":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 12 } },
+          { "pos": { "x": 26, "y": 12 } },
+          { "pos": { "x": 27, "y": 12 } },
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 25, "y": 13 } },
+          { "pos": { "x": 26, "y": 13 } },
+          { "pos": { "x": 27, "y": 13 } },
+          { "pos": { "x": 28, "y": 13 } },
+          { "pos": { "x": 24, "y": 14 } },
+          { "pos": { "x": 25, "y": 14 } },
+          { "pos": { "x": 27, "y": 14 } },
+          { "pos": { "x": 28, "y": 14 } },
+          { "pos": { "x": 24, "y": 15 } },
+          { "pos": { "x": 25, "y": 15 } },
+          { "pos": { "x": 26, "y": 15 } },
+          { "pos": { "x": 27, "y": 15 } },
+          { "pos": { "x": 28, "y": 15 } },
+          { "pos": { "x": 25, "y": 16 } },
+          { "pos": { "x": 26, "y": 16 } },
+          { "pos": { "x": 27, "y": 16 } },
+          { "pos": { "x": 26, "y": 19 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 26, "y": 21 } },
+          { "pos": { "x": 26, "y": 22 } }
+        ]
+      },
+
+      "28,23":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 12 } },
+          { "pos": { "x": 26, "y": 12 } },
+          { "pos": { "x": 27, "y": 12 } },
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 25, "y": 13 } },
+          { "pos": { "x": 26, "y": 13 } },
+          { "pos": { "x": 27, "y": 13 } },
+          { "pos": { "x": 28, "y": 13 } },
+          { "pos": { "x": 24, "y": 14 } },
+          { "pos": { "x": 25, "y": 14 } },
+          { "pos": { "x": 27, "y": 14 } },
+          { "pos": { "x": 28, "y": 14 } },
+          { "pos": { "x": 24, "y": 15 } },
+          { "pos": { "x": 25, "y": 15 } },
+          { "pos": { "x": 26, "y": 15 } },
+          { "pos": { "x": 27, "y": 15 } },
+          { "pos": { "x": 28, "y": 15 } },
+          { "pos": { "x": 25, "y": 16 } },
+          { "pos": { "x": 26, "y": 16 } },
+          { "pos": { "x": 27, "y": 16 } },
+          { "pos": { "x": 26, "y": 19 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 26, "y": 21 } },
+          { "pos": { "x": 26, "y": 22 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "25,12": { "defaultState": "off" },
+      "26,12": { "defaultState": "off" },
+      "27,12": { "defaultState": "off" },
+      "24,13": { "defaultState": "off" },
+      "25,13": { "defaultState": "off" },
+      "26,13": { "defaultState": "off" },
+      "27,13": { "defaultState": "off" },
+      "28,13": { "defaultState": "off" },
+      "24,14": { "defaultState": "off" },
+      "25,14": { "defaultState": "off" },
+      "27,14": { "defaultState": "off" },
+      "28,14": { "defaultState": "off" },
+      "24,15": { "defaultState": "off" },
+      "25,15": { "defaultState": "off" },
+      "26,15": { "defaultState": "off" },
+      "27,15": { "defaultState": "off" },
+      "28,15": { "defaultState": "off" },
+      "25,16": { "defaultState": "off" },
+      "26,16": { "defaultState": "off" },
+      "27,16": { "defaultState": "off" },
+      "26,19": { "defaultState": "on" },
+      "26,20": { "defaultState": "on" },
+      "26,21": { "defaultState": "on" },
+      "26,22": { "defaultState": "on" }
+    }
+
+
+  }

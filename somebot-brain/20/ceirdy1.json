@@ -1,0 +1,52 @@
+  {
+
+
+    "info":
+    {
+      "name": "Tetris",
+      "author": "MRCOW"
+    },
+
+
+    "switches":
+    {
+
+      "5,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 10 } },
+          { "pos": { "x": 2, "y": 10 } },
+          { "pos": { "x": 3, "y": 10 } },
+          { "pos": { "x": 4, "y": 10 } }
+        ]
+      },
+
+      "5,40":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 39 } },
+          { "pos": { "x": 2, "y": 39 } },
+          { "pos": { "x": 3, "y": 39 } },
+          { "pos": { "x": 4, "y": 39 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "1,10": { "defaultState": "off" },
+      "2,10": { "defaultState": "off" },
+      "3,10": { "defaultState": "off" },
+      "4,10": { "defaultState": "off" },
+      "1,39": { "defaultState": "off" },
+      "2,39": { "defaultState": "off" },
+      "3,39": { "defaultState": "off" },
+      "4,39": { "defaultState": "off" }
+    }
+
+
+  }

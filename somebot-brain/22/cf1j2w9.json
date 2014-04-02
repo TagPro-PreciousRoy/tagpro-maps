@@ -1,0 +1,19 @@
+{
+    "info": {
+        "name": "Blunder",
+        "author": "bad"
+    },
+ 
+    "switches": {
+
+    },
+ 
+    "fields": {
+ 
+    },
+       
+    "portals": {
+        "16,6": { "destination": { "x": 14, "y": 9 }, "cooldown": 0 },
+        "52,18": { "destination": { "x": 54, "y": 15 }, "cooldown": 0 }
+    }
+}

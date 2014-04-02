@@ -1,0 +1,52 @@
+  {
+
+
+    "info":
+    {
+      "name": "Diagonal Way",
+      "author": "Danny"
+    },
+
+
+    "switches":
+    {
+
+      "27,10":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 28, "y": 7 } },
+          { "pos": { "x": 29, "y": 7 } },
+          { "pos": { "x": 30, "y": 8 } },
+          { "pos": { "x": 30, "y": 9 } }
+        ]
+      },
+
+      "25,20":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 22, "y": 21 } },
+          { "pos": { "x": 22, "y": 22 } },
+          { "pos": { "x": 23, "y": 23 } },
+          { "pos": { "x": 24, "y": 23 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "28,7": { "defaultState": "off" },
+      "29,7": { "defaultState": "off" },
+      "30,8": { "defaultState": "off" },
+      "30,9": { "defaultState": "off" },
+      "22,21": { "defaultState": "off" },
+      "22,22": { "defaultState": "off" },
+      "23,23": { "defaultState": "off" },
+      "24,23": { "defaultState": "off" }
+    }
+
+
+  }

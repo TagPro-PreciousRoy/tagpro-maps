@@ -1,0 +1,56 @@
+  {
+
+
+    "info":
+    {
+      "name": "Interference",
+      "author": ""
+    },
+
+
+    "switches":
+    {
+
+      "9,16":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 7, "y": 18 } },
+          { "pos": { "x": 8, "y": 18 } },
+          { "pos": { "x": 9, "y": 18 } },
+          { "pos": { "x": 10, "y": 18 } },
+          { "pos": { "x": 11, "y": 18 } }
+        ]
+      },
+
+      "39,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 37, "y": 30 } },
+          { "pos": { "x": 38, "y": 30 } },
+          { "pos": { "x": 39, "y": 30 } },
+          { "pos": { "x": 40, "y": 30 } },
+          { "pos": { "x": 41, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "7,18": { "defaultState": "off" },
+      "8,18": { "defaultState": "off" },
+      "9,18": { "defaultState": "off" },
+      "10,18": { "defaultState": "off" },
+      "11,18": { "defaultState": "off" },
+      "37,30": { "defaultState": "off" },
+      "38,30": { "defaultState": "off" },
+      "39,30": { "defaultState": "off" },
+      "40,30": { "defaultState": "off" },
+      "41,30": { "defaultState": "off" }
+    }
+
+
+  }

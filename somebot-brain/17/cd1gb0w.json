@@ -1,0 +1,117 @@
+  {
+
+
+    "info":
+    {
+      "name": "japan",
+      "author": "chiincat"
+    },
+
+
+    "switches":
+    {
+
+      "12,2":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 1 } },
+          { "pos": { "x": 16, "y": 1 } },
+          { "pos": { "x": 16, "y": 2 } },
+          { "pos": { "x": 17, "y": 2 } },
+          { "pos": { "x": 17, "y": 3 } }
+        ]
+      },
+
+      "37,2":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 33, "y": 1 } },
+          { "pos": { "x": 34, "y": 1 } },
+          { "pos": { "x": 32, "y": 2 } },
+          { "pos": { "x": 33, "y": 2 } },
+          { "pos": { "x": 32, "y": 3 } }
+        ]
+      },
+
+      "21,39":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 41 } },
+          { "pos": { "x": 22, "y": 41 } },
+          { "pos": { "x": 23, "y": 41 } },
+          { "pos": { "x": 24, "y": 41 } },
+          { "pos": { "x": 25, "y": 41 } },
+          { "pos": { "x": 26, "y": 41 } },
+          { "pos": { "x": 27, "y": 41 } },
+          { "pos": { "x": 28, "y": 41 } }
+        ]
+      },
+
+      "28,39":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 41 } },
+          { "pos": { "x": 22, "y": 41 } },
+          { "pos": { "x": 23, "y": 41 } },
+          { "pos": { "x": 24, "y": 41 } },
+          { "pos": { "x": 25, "y": 41 } },
+          { "pos": { "x": 26, "y": 41 } },
+          { "pos": { "x": 27, "y": 41 } },
+          { "pos": { "x": 28, "y": 41 } }
+        ]
+      },
+
+      "25,46":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 42 } },
+          { "pos": { "x": 28, "y": 42 } },
+          { "pos": { "x": 21, "y": 43 } },
+          { "pos": { "x": 28, "y": 43 } },
+          { "pos": { "x": 21, "y": 44 } },
+          { "pos": { "x": 28, "y": 44 } },
+          { "pos": { "x": 21, "y": 45 } },
+          { "pos": { "x": 28, "y": 45 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "15,1": { "defaultState": "off" },
+      "16,1": { "defaultState": "off" },
+      "16,2": { "defaultState": "off" },
+      "17,2": { "defaultState": "off" },
+      "17,3": { "defaultState": "off" },
+      "33,1": { "defaultState": "off" },
+      "34,1": { "defaultState": "off" },
+      "32,2": { "defaultState": "off" },
+      "33,2": { "defaultState": "off" },
+      "32,3": { "defaultState": "off" },
+      "21,41": { "defaultState": "on" },
+      "22,41": { "defaultState": "on" },
+      "23,41": { "defaultState": "on" },
+      "24,41": { "defaultState": "on" },
+      "25,41": { "defaultState": "on" },
+      "26,41": { "defaultState": "on" },
+      "27,41": { "defaultState": "on" },
+      "28,41": { "defaultState": "on" },
+      "21,42": { "defaultState": "off" },
+      "28,42": { "defaultState": "off" },
+      "21,43": { "defaultState": "off" },
+      "28,43": { "defaultState": "off" },
+      "21,44": { "defaultState": "off" },
+      "28,44": { "defaultState": "off" },
+      "21,45": { "defaultState": "off" },
+      "28,45": { "defaultState": "off" }
+    }
+
+
+  }

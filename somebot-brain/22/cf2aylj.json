@@ -1,0 +1,86 @@
+  {
+
+
+    "info":
+    {
+      "name": "Roost",
+      "author": "Raven"
+    },
+
+
+    "switches":
+    {
+
+      "20,18":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 23, "y": 15 } },
+          { "pos": { "x": 24, "y": 15 } },
+          { "pos": { "x": 25, "y": 15 } },
+          { "pos": { "x": 26, "y": 15 } },
+          { "pos": { "x": 27, "y": 15 } },
+          { "pos": { "x": 25, "y": 16 } },
+          { "pos": { "x": 25, "y": 18 } },
+          { "pos": { "x": 25, "y": 19 } }
+        ]
+      },
+
+      "29,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 31 } },
+          { "pos": { "x": 25, "y": 32 } },
+          { "pos": { "x": 25, "y": 34 } },
+          { "pos": { "x": 23, "y": 35 } },
+          { "pos": { "x": 24, "y": 35 } },
+          { "pos": { "x": 25, "y": 35 } },
+          { "pos": { "x": 26, "y": 35 } },
+          { "pos": { "x": 27, "y": 35 } }
+        ]
+      },
+	
+	"23,25":
+	{
+		"toggle":
+		[
+			{ "pos": { "x": 27, "y": 23 } },
+			{ "pos": { "x": 27, "y": 27 } }
+		]
+	},
+
+	"27,25":
+	{
+		"toggle":
+		[
+			{ "pos": { "x": 23, "y": 23 } },
+			{ "pos": { "x": 23, "y": 27 } }
+		]
+	}
+
+    },
+
+
+    "fields":
+    {
+      "23,15": { "defaultState": "on" },
+      "24,15": { "defaultState": "on" },
+      "25,15": { "defaultState": "on" },
+      "26,15": { "defaultState": "on" },
+      "27,15": { "defaultState": "on" },
+      "25,16": { "defaultState": "on" },
+      "25,18": { "defaultState": "on" },
+      "25,19": { "defaultState": "on" },
+      "25,31": { "defaultState": "on" },
+      "25,32": { "defaultState": "on" },
+      "25,34": { "defaultState": "on" },
+      "23,35": { "defaultState": "on" },
+      "24,35": { "defaultState": "on" },
+      "25,35": { "defaultState": "on" },
+      "26,35": { "defaultState": "on" },
+      "27,35": { "defaultState": "on" }
+    }
+
+
+  }

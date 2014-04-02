@@ -1,0 +1,48 @@
+{
+    "info": {
+        "name": "Reactor",
+        "author": "bad"
+    },
+ 
+    "switches": {
+        "25,1": {
+            "toggle": [
+                { "pos": { "x": 27, "y": 1 } }
+            ]
+        },
+		"26,2": {
+            "toggle": [
+                { "pos": { "x": 27, "y": 1 } }
+            ]
+        },
+		"28,2": {
+            "toggle": [
+                { "pos": { "x": 27, "y": 1 } }
+            ]
+        },
+		"29,1": {
+            "toggle": [
+                { "pos": { "x": 27, "y": 1 } }
+            ]
+        },
+		"26,10": {
+            "toggle": [
+                { "pos": { "x": 27, "y": 11 } }
+            ]
+        },
+		"28,10": {
+            "toggle": [
+                { "pos": { "x": 27, "y": 11 } }
+            ]
+        }
+    },
+ 
+    "fields": {
+ 
+    },
+	
+	"portals": {
+		"21,29": { "destination": { "x": 27, "y": 25 }, "cooldown": 0 },
+		"33,29": { "destination": { "x": 27, "y": 25 }, "cooldown": 0 }
+	}
+}

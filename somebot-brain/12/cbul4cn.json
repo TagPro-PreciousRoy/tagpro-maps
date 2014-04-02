@@ -1,0 +1,223 @@
+{
+
+	"info":
+    	{
+      	"name": "Sal's Time Trial",
+      	"author": "Salamander"
+    	},
+
+    "switches": {
+        "8,199": {
+            "toggle": [
+            ]
+        },
+        "8,198": {
+            "toggle": [
+            ]
+        },
+        "8,197": {
+            "toggle": [
+            ]
+        },
+        "8,196": {
+            "toggle": [
+            ]
+        },
+        "5,197": {
+            "toggle": [
+            ]
+        },
+        "5,196": {
+            "toggle": [
+            ]
+        },
+        "5,194": {
+            "toggle": [
+            ]
+        },
+        "5,193": {
+            "toggle": [
+            ]
+        },
+        "3,195": {
+            "toggle": [
+            ]
+        },
+        "5,192": {
+            "toggle": [
+            ]
+        },
+        "5,191": {
+            "toggle": [
+            ]
+        },
+        "1,198": {
+            "toggle": [
+            ]
+        },
+        "1,197": {
+            "toggle": [
+            ]
+        },
+        "4,195": {
+            "toggle": [
+            ]
+        },
+        "1,196": {
+            "toggle": [
+            ]
+        },
+        "4,196": {
+            "toggle": [
+            ]
+        },
+        "1,195": {
+            "toggle": [
+            ]
+        },
+        "2,195": {
+            "toggle": [
+            ]
+        },
+        "6,194": {
+            "toggle": [
+            ]
+        },
+        "7,199": {
+            "toggle": [
+            ]
+        },
+        "6,195": {
+            "toggle": [
+            ]
+        },
+        "7,198": {
+            "toggle": [
+            ]
+        },
+        "7,196": {
+            "toggle": [
+            ]
+        },
+        "7,195": {
+            "toggle": [
+            ]
+        },
+        "6,197": {
+            "toggle": [
+            ]
+        },
+        "6,198": {
+            "toggle": [
+            ]
+        },
+        "5,189": {
+            "toggle": [
+            ]
+        },
+        "6,189": {
+            "toggle": [
+            ]
+        },
+        "6,190": {
+            "toggle": [
+            ]
+        },
+        "5,190": {
+            "toggle": [
+            ]
+        },
+        "4,190": {
+            "toggle": [
+            ]
+        },
+        "4,189": {
+            "toggle": [
+            ]
+        },
+        "3,189": {
+            "toggle": [
+            ]
+        }
+    },
+
+    "fields": {
+        "0,48" : { "defaultState": "on" },
+        "0,60" : { "defaultState": "on" },
+        "0,61" : { "defaultState": "on" },
+        "0,62" : { "defaultState": "on" },
+        "0,63" : { "defaultState": "on" },
+        "0,64" : { "defaultState": "on" },
+        "0,65" : { "defaultState": "on" },
+        "1,58" : { "defaultState": "on" },
+        "1,59" : { "defaultState": "on" },
+        "1,65" : { "defaultState": "on" },
+        "1,91" : { "defaultState": "on" },
+        "1,92" : { "defaultState": "on" },
+        "1,93" : { "defaultState": "on" },
+        "1,94" : { "defaultState": "on" },
+        "1,95" : { "defaultState": "on" },
+        "1,96" : { "defaultState": "on" },
+        "1,97" : { "defaultState": "on" },
+        "1,101" : { "defaultState": "on" },
+        "1,102" : { "defaultState": "on" },
+        "1,103" : { "defaultState": "on" },
+        "1,104" : { "defaultState": "on" },
+        "2,58" : { "defaultState": "on" },
+        "2,59" : { "defaultState": "on" },
+        "2,65" : { "defaultState": "on" },
+        "2,98" : { "defaultState": "on" },
+        "2,101" : { "defaultState": "on" },
+        "2,112" : { "defaultState": "on" },
+        "3,58" : { "defaultState": "on" },
+        "3,59" : { "defaultState": "on" },
+        "3,62" : { "defaultState": "on" },
+        "3,65" : { "defaultState": "on" },
+        "3,99" : { "defaultState": "on" },
+        "3,101" : { "defaultState": "on" },
+        "4,62" : { "defaultState": "on" },
+        "4,65" : { "defaultState": "on" },
+        "4,91" : { "defaultState": "on" },
+        "4,92" : { "defaultState": "on" },
+        "4,93" : { "defaultState": "on" },
+        "4,94" : { "defaultState": "on" },
+        "4,95" : { "defaultState": "on" },
+        "4,96" : { "defaultState": "on" },
+        "4,100" : { "defaultState": "on" },
+        "4,101" : { "defaultState": "on" },
+        "4,104" : { "defaultState": "on" },
+        "4,110" : { "defaultState": "on" },
+        "4,155" : { "defaultState": "on" },
+        "5,62" : { "defaultState": "on" },
+        "5,65" : { "defaultState": "on" },
+        "5,97" : { "defaultState": "on" },
+        "5,101" : { "defaultState": "on" },
+        "5,104" : { "defaultState": "on" },
+        "5,107" : { "defaultState": "on" },
+        "5,156" : { "defaultState": "on" },
+	"6,1" : { "defaultState": "on" },
+        "6,3" : { "defaultState": "on" },
+        "6,62" : { "defaultState": "on" },
+        "6,65" : { "defaultState": "on" },
+        "6,98" : { "defaultState": "on" },
+        "6,104" : { "defaultState": "on" },
+        "6,157" : { "defaultState": "on" },
+        "7,60" : { "defaultState": "on" },
+        "7,61" : { "defaultState": "on" },
+        "7,62" : { "defaultState": "on" },
+        "7,99" : { "defaultState": "on" },
+        "7,104" : { "defaultState": "on" },
+        "7,109" : { "defaultState": "on" },
+        "7,119" : { "defaultState": "on" },
+        "8,62" : { "defaultState": "on" },
+        "8,100" : { "defaultState": "on" },
+        "8,101" : { "defaultState": "on" },
+        "8,106" : { "defaultState": "on" },
+        "9,46" : { "defaultState": "on" },
+        "9,63" : { "defaultState": "on" },
+        "9,64" : { "defaultState": "on" },
+        "9,65" : { "defaultState": "on" },
+        "9,66" : { "defaultState": "on" },
+        "9,67" : { "defaultState": "on" }
+    }
+}

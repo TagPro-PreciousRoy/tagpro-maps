@@ -1,0 +1,48 @@
+  {
+
+
+    "info":
+    {
+      "name": "Boosts",
+      "author": "Danny"
+    },
+
+
+    "switches":
+    {
+
+      "17,3":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 28, "y": 1 } },
+          { "pos": { "x": 30, "y": 2 } },
+          { "pos": { "x": 30, "y": 3 } }
+        ]
+      },
+
+      "31,31":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 31 } },
+          { "pos": { "x": 18, "y": 32 } },
+          { "pos": { "x": 20, "y": 33 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "28,1": { "defaultState": "on" },
+      "30,2": { "defaultState": "off" },
+      "30,3": { "defaultState": "off" },
+      "18,31": { "defaultState": "off" },
+      "18,32": { "defaultState": "off" },
+      "20,33": { "defaultState": "on" }
+    }
+
+
+  }

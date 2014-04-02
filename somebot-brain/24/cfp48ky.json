@@ -1,0 +1,31 @@
+{
+
+
+    "info":
+    {
+      "name": "2jukeornot2juke ",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "": {
+            "toggle": [
+
+             ] 
+       }
+    },
+    "fields": {
+
+    },
+
+    "portals": {
+    
+    "4,24": { "destination": { "x": 10, "y": 14 }, "cooldown": 0 },
+    "45,25": { "destination": { "x": 39, "y": 35 }, "cooldown": 0 },
+    "14,5": { "destination": { "x": 18, "y": 14 }, "cooldown": 0 },
+    "35,44": { "destination": { "x": 31, "y": 35 }, "cooldown": 0 },
+    "2,30": { "destination": { "x": 19, "y": 27 }, "cooldown": 0 },
+    "47,19": { "destination": { "x": 30, "y": 22 }, "cooldown": 0 },
+    "16,46": { "destination": { "x": 13, "y": 35 }, "cooldown": 0 },
+    "33,3": { "destination": { "x": 36, "y": 14 }, "cooldown": 0 }
+    }
+}

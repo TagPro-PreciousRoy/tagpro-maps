@@ -1,0 +1,48 @@
+  {
+
+
+    "info":
+    {
+      "name": "JukeJuice",
+      "author": "Stalin"
+    },
+
+
+    "switches":
+    {
+
+      "23,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 24, "y": 22 } },
+          { "pos": { "x": 24, "y": 23 } }
+        ]
+      },
+
+      "25,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 24, "y": 22 } },
+          { "pos": { "x": 24, "y": 23 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "24,20": { "defaultState": "on" },
+      "24,21": { "defaultState": "on" },
+      "24,22": { "defaultState": "on" },
+      "24,23": { "defaultState": "on" }
+    }
+
+
+  }

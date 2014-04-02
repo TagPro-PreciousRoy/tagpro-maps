@@ -1,0 +1,93 @@
+{
+
+    "info":
+    {
+      "name": "Mary Wanna",
+      "author": "ppppow"
+    },
+
+	
+	"portals": {
+		"4,16": { "destination": { "x": 4, "y": 13 }, "cooldown": 0 },
+		"4,13": { "destination": { "x": 4, "y": 16 }, "cooldown": 0 },
+		"16,4": { "destination": { "x": 19, "y": 4 }, "cooldown": 0 },
+		"19,4": { "destination": { "x": 16, "y": 4 }, "cooldown": 0 },
+		"36,5": { "destination": { "x": 36, "y": 21 }, "cooldown": 0 },
+		"36,9": { "destination": { "x": 36, "y": 25 }, "cooldown": 0 },
+		"36,13": { "destination": { "x": 36, "y": 29 }, "cooldown": 0 },
+		"36,21": { "destination": { "x": 36, "y": 5 }, "cooldown": 0 },
+		"36,25": { "destination": { "x": 36, "y": 9 }, "cooldown": 0 },
+		"36,29": { "destination": { "x": 36, "y": 13 }, "cooldown": 0 },
+		"68,18": { "destination": { "x": 68, "y": 21 }, "cooldown": 0 },
+		"68,21": { "destination": { "x": 68, "y": 18 }, "cooldown": 0 },
+		"53,30": { "destination": { "x": 56, "y": 30 }, "cooldown": 0 },
+		"56,30": { "destination": { "x": 53, "y": 30 }, "cooldown": 0 }
+		
+		},
+	
+	
+    "switches":
+    {
+
+	"41,19":
+      {
+        "toggle":
+        [
+		  { "pos": { "x": 35, "y": 15 } },
+		  { "pos": { "x": 34, "y": 16 } },
+		  { "pos": { "x": 35, "y": 16 } },
+		  { "pos": { "x": 37, "y": 18 } },
+		  { "pos": { "x": 38, "y": 18 } },
+		  { "pos": { "x": 37, "y": 19 } }
+        ]
+      },
+	  
+	 "31,15":
+	  {
+		"toggle":
+		[
+		  { "pos": { "x": 35, "y": 15 } },
+		  { "pos": { "x": 34, "y": 16 } },
+		  { "pos": { "x": 35, "y": 16 } },
+		  { "pos": { "x": 37, "y": 18 } },
+		  { "pos": { "x": 38, "y": 18 } },
+		  { "pos": { "x": 37, "y": 19 } }
+        ]	
+	   },
+	   
+	 "1,18":
+	  {
+		"toggle":
+		[
+		  { "pos": { "x": 6, "y": 17 } }
+        ]	
+	   },
+	
+	 "71,16":
+	  {
+		"toggle":
+		[
+		  { "pos": { "x": 66, "y": 17 } }
+        ]	
+	   }
+	   
+
+	},
+	
+    "fields":
+    {
+      "35,15": { "defaultState": "off" },
+      "34,16": { "defaultState": "off" },
+      "35,16": { "defaultState": "off" },
+      "37,18": { "defaultState": "off" },
+	  "38,18": { "defaultState": "off" },
+      "37,19": { "defaultState": "off" },
+	  "6,17": { "defaultState": "blue" },
+	  "66,17": { "defaultState": "red" }
+	  
+	  
+    }
+	
+
+
+ }

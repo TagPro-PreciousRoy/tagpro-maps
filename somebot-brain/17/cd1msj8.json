@@ -1,0 +1,108 @@
+ {
+
+
+    "info":
+    {
+      "name": "boosties",
+      "author": "DICK_LICKER"
+    },
+
+
+    "switches":
+    {
+
+      "28,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 10 } },
+          { "pos": { "x": 27, "y": 10 } },
+          { "pos": { "x": 25, "y": 11 } },
+          { "pos": { "x": 26, "y": 11 } },
+          { "pos": { "x": 27, "y": 11 } }
+        ]
+      },
+
+      "24,19":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 16 } },
+          { "pos": { "x": 26, "y": 16 } },
+          { "pos": { "x": 25, "y": 17 } },
+          { "pos": { "x": 26, "y": 17 } },
+          { "pos": { "x": 25, "y": 18 } },
+          { "pos": { "x": 26, "y": 18 } },
+          { "pos": { "x": 25, "y": 20 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 25, "y": 22 } },
+          { "pos": { "x": 26, "y": 22 } }
+        ]
+      },
+
+      "27,25":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 22 } },
+          { "pos": { "x": 26, "y": 22 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 26, "y": 24 } },
+          { "pos": { "x": 25, "y": 26 } },
+          { "pos": { "x": 26, "y": 26 } },
+          { "pos": { "x": 25, "y": 27 } },
+          { "pos": { "x": 26, "y": 27 } },
+          { "pos": { "x": 25, "y": 28 } },
+          { "pos": { "x": 26, "y": 28 } }
+        ]
+      },
+
+      "23,33":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 34 } },
+          { "pos": { "x": 25, "y": 34 } },
+          { "pos": { "x": 26, "y": 34 } },
+          { "pos": { "x": 24, "y": 35 } },
+          { "pos": { "x": 26, "y": 35 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "25,10": { "defaultState": "off" },
+      "27,10": { "defaultState": "off" },
+      "25,11": { "defaultState": "off" },
+      "26,11": { "defaultState": "off" },
+      "27,11": { "defaultState": "off" },
+      "25,16": { "defaultState": "off" },
+      "26,16": { "defaultState": "off" },
+      "25,17": { "defaultState": "off" },
+      "26,17": { "defaultState": "off" },
+      "25,18": { "defaultState": "off" },
+      "26,18": { "defaultState": "off" },
+      "25,20": { "defaultState": "off" },
+      "26,20": { "defaultState": "off" },
+      "25,22": { "defaultState": "off" },
+      "26,22": { "defaultState": "off" },
+      "25,24": { "defaultState": "off" },
+      "26,24": { "defaultState": "off" },
+      "25,26": { "defaultState": "off" },
+      "26,26": { "defaultState": "off" },
+      "25,27": { "defaultState": "off" },
+      "26,27": { "defaultState": "off" },
+      "25,28": { "defaultState": "off" },
+      "26,28": { "defaultState": "off" },
+      "24,34": { "defaultState": "off" },
+      "25,34": { "defaultState": "off" },
+      "26,34": { "defaultState": "off" },
+      "24,35": { "defaultState": "off" },
+      "26,35": { "defaultState": "off" }
+    }
+
+
+  }

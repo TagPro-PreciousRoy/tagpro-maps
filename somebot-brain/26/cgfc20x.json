@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="Content-language" content="en-us"/>
+<meta name="robots" content="index,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<meta name="author" content="Paste"/>
+<meta name="description" content="iPASTE.org is a code snippet in JavaScript,HTML,PHP,CSS,Java.It’s a way for you to keep your code snippets organized and easily accessible from any computer."/>
+<meta name="keywords" content="pastebin,api,programming, code, repository, organize, share, store, source code, html,code Snippet, TextMate,java code Snippet,iphone code Snippet,ajax code Snippet,jQuery code Snippet,android  code Snippet,php code Snippet,css code Snippet"/>
+<link rel="stylesheet" href="http://ipaste.org/templates/paste/css/jquery-ui.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="http://ipaste.org/templates/paste/css/style.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="http://ipaste.org/templates/paste/css/chosen.css" type="text/css" media="screen"/>
+<link rel="icon" href="http://ipaste.org/favicon.png"/>
+<link rel="shortcut icon" href="http://ipaste.org/favicon.png"/>
+<style type="text/css">.text .de1,.text .de2{font:normal normal 1em/1.2em monospace;margin:0;padding:0;background:none;vertical-align:top;}.text{font-family:monospace;}.text .imp{font-weight:bold;color:red;}.text li,.text .li1{background:#ffffff;}.text .ln{width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}.text .li2{background:#f4f4f4;}.text span.xtra{display:block;}</style>
+<title>[TEXT] Push_it map json file for tagpro map submission - Posted by Skinny Lizzy - iPASTE.org - Code Paste Snippet and Code Store.</title>
+</head>
+<body>
+<div id="page">
+ 
+<div id="header">
+<div id="logo">
+<a href="http://ipaste.org/"><img src="http://ipaste.org/templates/paste/css/images/logo.png" alt="Logo" width="200" height="75"/></a>
+</div>
+<div id="headerAds">
+<script type="text/javascript"><!--
+					google_ad_client = "pub-5613914601213865";
+					/* 468x60, created 1/19/10 */
+					google_ad_slot = "6620949493";
+					google_ad_width = 468;
+					google_ad_height = 60;
+					//-->
+					</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+					</script>
+</div>
+<div id="menu">
+<a href="http://ipaste.org/">New post</a>
+<span></span>
+<a href="http://ipaste.org/comment/" title="List all recent comment">Comment</a>
+<span></span>
+<a href="http://ipaste.org/archive/all/" title="List all public pastes">Archive</a>
+</div>
+<div id="submenu">
+<a href="#">Services </a> |
+<a href="http://www.ipaste.org/api.html">Api</a> |
+<a href="#">Help</a> |
+<a href="http://ipaste.org/?login&oauth_provider=google"><b>Login</b></a> </div>
+</div>
+ 
+<div id="content">
+<div class="ads728">
+<script type="text/javascript"><!--
+								google_ad_client = "ca-pub-5613914601213865";
+								/* 728x90, created 5/29/09 */
+								google_ad_slot = "8073993399";
+								google_ad_width = 728;
+								google_ad_height = 90;
+								//-->
+								</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+								</script>
+</div>
+<div class="formated_input">
+<div class='post_info'><div class='wrapper'><h1>Push_it map json file for tagpro map submission</h1>Posted by <em> Skinny Lizzy </em> on March Sat 29th 6:17 PM - Never Expires| View : 1342<br/><input type="text" value="http://ipaste.org/cHj" name="post_url" size="40"/> Syntax: <b><a href='http://www.ipaste.org/archive/text/'>TEXT</a></b></div></div><div class='finput_header'>4534 characters | 1 lines | 4.43 KB<div><a href="http://ipaste.org/download/cHj" title="Download this paste">DOWNLOAD</a> | <a href="http://ipaste.org/raw/cHj" title="View Raw this paste">RAW</a> | <a href='http://ipaste.org/embed/cHj'>EMBED</a> | <a href='http://ipaste.org/new/cHj'>CREATE NEW VERSION OF THIS PASTE</a> | <a href='http://ipaste.org/abuse/cHj' id='reportabuse'>REPORT ABUSE</a> | <a href='http://ipaste.org/delete/cHj' onclick="return confirm('Are you sure you want to delete?')" title="Delete">x</a></div></div><div class='finput_body'><div id='content_code'><div class="text"><ol><li class="li1"><div class="de1">{&quot;info&quot;:{&quot;name&quot;:&quot;Push_It&quot;,&quot;author&quot;:&quot;Skinny Lizzy&quot;},&quot;switches&quot;:{&quot;6,15&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:2,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:3,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:4,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:5,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:6,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:7,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:8,&quot;y&quot;:19}}]},&quot;12,27&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:9,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:9,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:25}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:25}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:25}}]},&quot;15,15&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:18,&quot;y&quot;:18}},{&quot;pos&quot;:{&quot;x&quot;:18,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:19,&quot;y&quot;:14}},{&quot;pos&quot;:{&quot;x&quot;:19,&quot;y&quot;:18}},{&quot;pos&quot;:{&quot;x&quot;:20,&quot;y&quot;:14}},{&quot;pos&quot;:{&quot;x&quot;:20,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:20,&quot;y&quot;:16}}]},&quot;19,23&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:13,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:13,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:14,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:14,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:15,&quot;y&quot;:18}},{&quot;pos&quot;:{&quot;x&quot;:15,&quot;y&quot;:20}},{&quot;pos&quot;:{&quot;x&quot;:16,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:16,&quot;y&quot;:21}},{&quot;pos&quot;:{&quot;x&quot;:16,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:17,&quot;y&quot;:20}}]},&quot;21,18&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:13,&quot;y&quot;:13}}]},&quot;31,16&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:39,&quot;y&quot;:21}}]},&quot;33,11&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:39,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:39,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:38,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:38,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:37,&quot;y&quot;:16}},{&quot;pos&quot;:{&quot;x&quot;:37,&quot;y&quot;:14}},{&quot;pos&quot;:{&quot;x&quot;:36,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:36,&quot;y&quot;:13}},{&quot;pos&quot;:{&quot;x&quot;:36,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:35,&quot;y&quot;:14}}]},&quot;37,19&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:34,&quot;y&quot;:16}},{&quot;pos&quot;:{&quot;x&quot;:34,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:33,&quot;y&quot;:20}},{&quot;pos&quot;:{&quot;x&quot;:33,&quot;y&quot;:16}},{&quot;pos&quot;:{&quot;x&quot;:32,&quot;y&quot;:20}},{&quot;pos&quot;:{&quot;x&quot;:32,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:32,&quot;y&quot;:18}}]},&quot;40,7&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:9}},{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:11}},{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:9}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:11}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:9}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:11}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:43,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:43,&quot;y&quot;:11}}]},&quot;46,19&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:50,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:49,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:48,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:47,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:46,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:45,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:44,&quot;y&quot;:15}}]}},&quot;fields&quot;:{&quot;2,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;3,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;4,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;5,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;6,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;7,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;8,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;9,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;9,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,22&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,25&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,22&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,25&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,22&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,25&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;13,13&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;13,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;13,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;14,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;14,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;15,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;15,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;16,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;16,21&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;16,22&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;17,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;18,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;18,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;19,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;19,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;20,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;20,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;20,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;32,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;32,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;32,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;33,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;33,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;34,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;34,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;35,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;36,12&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;36,13&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;36,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;37,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;37,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;38,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;38,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;39,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;39,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;39,21&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;40,9&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;40,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;40,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;40,12&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,9&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,12&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,9&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,12&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;43,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;43,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;44,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;45,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;46,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;47,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;48,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;49,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;50,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;}},&quot;portals&quot;:{}}</div></li>
+</ol></div></div></div> &nbsp;
+<div class="ads728">
+<script type="text/javascript"><!--
+								google_ad_client = "ca-pub-5613914601213865";
+								/* 728x90, created 5/29/09 */
+								google_ad_slot = "8073993399";
+								google_ad_width = 728;
+								google_ad_height = 90;
+								//-->
+								</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+								</script>
+</div>
+&nbsp;
+<div id="new_post">
+<form action="/" method="post">
+<div id="type_tabs">
+&nbsp;
+<ul>
+ 
+ 
+<li class="type_paste"><a href="#type_paste">RAW Paste Data</a></li>
+</ul>
+<div class="delim ui-corner-tl">&nbsp;</div>
+<div id="type_paste">
+<div id="textarea_wrapper">
+<textarea rows="1" cols="1" name="input" id="paste_code">{&quot;info&quot;:{&quot;name&quot;:&quot;Push_It&quot;,&quot;author&quot;:&quot;Skinny Lizzy&quot;},&quot;switches&quot;:{&quot;6,15&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:2,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:3,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:4,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:5,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:6,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:7,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:8,&quot;y&quot;:19}}]},&quot;12,27&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:9,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:9,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:10,&quot;y&quot;:25}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:11,&quot;y&quot;:25}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:23}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:24}},{&quot;pos&quot;:{&quot;x&quot;:12,&quot;y&quot;:25}}]},&quot;15,15&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:18,&quot;y&quot;:18}},{&quot;pos&quot;:{&quot;x&quot;:18,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:19,&quot;y&quot;:14}},{&quot;pos&quot;:{&quot;x&quot;:19,&quot;y&quot;:18}},{&quot;pos&quot;:{&quot;x&quot;:20,&quot;y&quot;:14}},{&quot;pos&quot;:{&quot;x&quot;:20,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:20,&quot;y&quot;:16}}]},&quot;19,23&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:13,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:13,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:14,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:14,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:15,&quot;y&quot;:18}},{&quot;pos&quot;:{&quot;x&quot;:15,&quot;y&quot;:20}},{&quot;pos&quot;:{&quot;x&quot;:16,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:16,&quot;y&quot;:21}},{&quot;pos&quot;:{&quot;x&quot;:16,&quot;y&quot;:22}},{&quot;pos&quot;:{&quot;x&quot;:17,&quot;y&quot;:20}}]},&quot;21,18&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:13,&quot;y&quot;:13}}]},&quot;31,16&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:39,&quot;y&quot;:21}}]},&quot;33,11&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:39,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:39,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:38,&quot;y&quot;:17}},{&quot;pos&quot;:{&quot;x&quot;:38,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:37,&quot;y&quot;:16}},{&quot;pos&quot;:{&quot;x&quot;:37,&quot;y&quot;:14}},{&quot;pos&quot;:{&quot;x&quot;:36,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:36,&quot;y&quot;:13}},{&quot;pos&quot;:{&quot;x&quot;:36,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:35,&quot;y&quot;:14}}]},&quot;37,19&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:34,&quot;y&quot;:16}},{&quot;pos&quot;:{&quot;x&quot;:34,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:33,&quot;y&quot;:20}},{&quot;pos&quot;:{&quot;x&quot;:33,&quot;y&quot;:16}},{&quot;pos&quot;:{&quot;x&quot;:32,&quot;y&quot;:20}},{&quot;pos&quot;:{&quot;x&quot;:32,&quot;y&quot;:19}},{&quot;pos&quot;:{&quot;x&quot;:32,&quot;y&quot;:18}}]},&quot;40,7&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:9}},{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:11}},{&quot;pos&quot;:{&quot;x&quot;:40,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:9}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:11}},{&quot;pos&quot;:{&quot;x&quot;:41,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:9}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:11}},{&quot;pos&quot;:{&quot;x&quot;:42,&quot;y&quot;:12}},{&quot;pos&quot;:{&quot;x&quot;:43,&quot;y&quot;:10}},{&quot;pos&quot;:{&quot;x&quot;:43,&quot;y&quot;:11}}]},&quot;46,19&quot;:{&quot;toggle&quot;:[{&quot;pos&quot;:{&quot;x&quot;:50,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:49,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:48,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:47,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:46,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:45,&quot;y&quot;:15}},{&quot;pos&quot;:{&quot;x&quot;:44,&quot;y&quot;:15}}]}},&quot;fields&quot;:{&quot;2,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;3,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;4,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;5,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;6,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;7,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;8,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;9,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;9,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,22&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;10,25&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,22&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;11,25&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,22&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,23&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,24&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;12,25&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;13,13&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;13,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;13,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;14,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;14,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;15,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;15,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;16,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;16,21&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;16,22&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;17,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;18,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;18,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;19,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;19,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;20,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;20,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;20,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;32,18&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;32,19&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;32,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;33,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;33,20&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;34,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;34,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;35,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;36,12&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;36,13&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;36,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;37,14&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;37,16&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;38,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;38,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;39,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;39,17&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;39,21&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;40,9&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;40,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;40,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;40,12&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,9&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;41,12&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,9&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;42,12&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;43,10&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;43,11&quot;:{&quot;defaultState&quot;:&quot;on&quot;},&quot;44,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;45,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;46,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;47,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;48,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;49,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;},&quot;50,15&quot;:{&quot;defaultState&quot;:&quot;off&quot;}},&quot;portals&quot;:{}}</textarea>
+</div>
+</div>
+ 
+</div>
+</form>
+<br/>
+</div>
+<br/><div id="disqus_thread"></div> </div>
+ 
+ 
+<div id="footer">
+<div id="footer_bar">
+<div id="footer_pad">
+<div id="copyright" class="right">&copy; iPASTE.org</div>
+<div id="footer_links" class="right">
+<a href="http://ipaste.org/contact/">Contact</a> ·
+<a href="http://ipaste.org/api.html">API</a> ·
+<a href="http://ipaste.org/terms/">Terms of Service</a> ·
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ipaste.org/templates/paste/js/jquery-ui.js"></script>
+<script type="text/javascript" src="http://ipaste.org/templates/paste/js/jquery_plugins.js"></script>
+<script type="text/javascript" src="http://ipaste.org/templates/paste/js/jquery.autosize-min.js"></script>
+<script type="text/javascript" src="http://ipaste.org/templates/paste/js/basic.js"></script>
+<script type="text/javascript" src="http://ipaste.org/templates/paste/js/common.js"></script>
+<script type="text/javascript" src="http://ipaste.org/templates/paste/js/chosen.jquery.min.js"></script>
+<script type="text/javascript">
+            var disqus_shortname = 'ipaste';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+<script type="text/javascript">	
+		 $(document).ready(function() {
+                        $(".chzn-select").chosen();
+                    });
+		</script>
+<script type="text/javascript">		  var _gaq = _gaq || [];		  _gaq.push(['_setAccount', 'UA-36594951-1']);		  _gaq.push(['_setDomainName', 'ipaste.org']);		  _gaq.push(['_trackPageview']);		  (function() {			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);		  })();		</script>
+</body>
+</html>

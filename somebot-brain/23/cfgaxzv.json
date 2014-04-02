@@ -1,0 +1,136 @@
+  {
+
+
+    "info":
+    {
+      "name": "Jukers' Paradise",
+      "author": "ja_"
+    },
+
+
+    "switches":
+    {
+
+      "7,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 7, "y": 11 } },
+          { "pos": { "x": 7, "y": 12 } },
+          { "pos": { "x": 8, "y": 12 } },
+          { "pos": { "x": 8, "y": 13 } },
+          { "pos": { "x": 9, "y": 13 } }
+        ]
+      },
+
+      "18,16":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 17 } }
+        ]
+      },
+
+      "10,18":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 5, "y": 10 } },
+          { "pos": { "x": 8, "y": 12 } },
+          { "pos": { "x": 10, "y": 15 } }
+        ]
+      },
+
+      "16,18":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 17 } }
+        ]
+      },
+
+      "24,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 23 } },
+          { "pos": { "x": 24, "y": 25 } }
+        ]
+      },
+
+      "25,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 25, "y": 26 } }
+        ]
+      },
+
+      "33,31":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 32, "y": 32 } }
+        ]
+      },
+
+      "39,31":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 39, "y": 34 } },
+          { "pos": { "x": 41, "y": 37 } },
+          { "pos": { "x": 44, "y": 39 } }
+        ]
+      },
+
+      "31,33":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 32, "y": 32 } }
+        ]
+      },
+
+      "42,36":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 40, "y": 36 } },
+          { "pos": { "x": 41, "y": 36 } },
+          { "pos": { "x": 41, "y": 37 } },
+          { "pos": { "x": 42, "y": 37 } },
+          { "pos": { "x": 42, "y": 38 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "7,11": { "defaultState": "off" },
+      "7,12": { "defaultState": "off" },
+      "8,12": { "defaultState": "off" },
+      "8,13": { "defaultState": "off" },
+      "9,13": { "defaultState": "off" },
+      "17,17": { "defaultState": "off" },
+      "5,10": { "defaultState": "off" },
+      "10,15": { "defaultState": "off" },
+      "24,23": { "defaultState": "off" },
+      "24,25": { "defaultState": "off" },
+      "25,24": { "defaultState": "off" },
+      "25,26": { "defaultState": "off" },
+      "32,32": { "defaultState": "off" },
+      "39,34": { "defaultState": "off" },
+      "41,37": { "defaultState": "off" },
+      "44,39": { "defaultState": "off" },
+      "40,36": { "defaultState": "off" },
+      "41,36": { "defaultState": "off" },
+      "42,37": { "defaultState": "off" },
+      "42,38": { "defaultState": "off" }
+    }
+
+
+  }

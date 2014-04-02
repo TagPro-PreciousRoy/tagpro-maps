@@ -1,0 +1,18 @@
+{
+    "info": {
+        "name": "MarsDome2",
+        "author": "Jesus"
+    },
+
+    "switches": {
+    },
+
+    "fields": {
+       
+    },
+
+    "marsballs": [
+        { "x": 5, "y": 5 }
+    ]
+        
+}

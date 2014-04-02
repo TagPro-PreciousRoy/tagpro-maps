@@ -1,0 +1,167 @@
+
+
+    "info":
+    {
+      "name": "Mixolydian ",
+      "author": "Fank1"
+    },
+
+
+    "switches":
+    {
+
+      "19,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 16, "y": 19 } },
+          { "pos": { "x": 17, "y": 19 } },
+          { "pos": { "x": 18, "y": 19 } },
+          { "pos": { "x": 19, "y": 19 } },
+          { "pos": { "x": 20, "y": 19 } },
+          { "pos": { "x": 21, "y": 19 } },
+          { "pos": { "x": 22, "y": 19 } }
+        ]
+      },
+
+      "21,23":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 24 } },
+          { "pos": { "x": 3, "y": 24 } },
+          { "pos": { "x": 5, "y": 24 } },
+          { "pos": { "x": 13, "y": 24 } },
+          { "pos": { "x": 15, "y": 24 } },
+          { "pos": { "x": 17, "y": 24 } },
+          { "pos": { "x": 23, "y": 24 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 27, "y": 24 } },
+          { "pos": { "x": 31, "y": 24 } },
+          { "pos": { "x": 33, "y": 24 } },
+          { "pos": { "x": 35, "y": 24 } },
+          { "pos": { "x": 45, "y": 24 } },
+          { "pos": { "x": 47, "y": 24 } },
+          { "pos": { "x": 49, "y": 24 } },
+          { "pos": { "x": 0, "y": 25 } },
+          { "pos": { "x": 2, "y": 25 } },
+          { "pos": { "x": 4, "y": 25 } },
+          { "pos": { "x": 14, "y": 25 } },
+          { "pos": { "x": 16, "y": 25 } },
+          { "pos": { "x": 18, "y": 25 } },
+          { "pos": { "x": 22, "y": 25 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } },
+          { "pos": { "x": 32, "y": 25 } },
+          { "pos": { "x": 34, "y": 25 } },
+          { "pos": { "x": 36, "y": 25 } },
+          { "pos": { "x": 44, "y": 25 } },
+          { "pos": { "x": 46, "y": 25 } },
+          { "pos": { "x": 48, "y": 25 } }
+        ]
+      },
+
+      "28,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 24 } },
+          { "pos": { "x": 3, "y": 24 } },
+          { "pos": { "x": 5, "y": 24 } },
+          { "pos": { "x": 13, "y": 24 } },
+          { "pos": { "x": 15, "y": 24 } },
+          { "pos": { "x": 17, "y": 24 } },
+          { "pos": { "x": 23, "y": 24 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 27, "y": 24 } },
+          { "pos": { "x": 31, "y": 24 } },
+          { "pos": { "x": 33, "y": 24 } },
+          { "pos": { "x": 35, "y": 24 } },
+          { "pos": { "x": 45, "y": 24 } },
+          { "pos": { "x": 47, "y": 24 } },
+          { "pos": { "x": 49, "y": 24 } },
+          { "pos": { "x": 0, "y": 25 } },
+          { "pos": { "x": 2, "y": 25 } },
+          { "pos": { "x": 4, "y": 25 } },
+          { "pos": { "x": 14, "y": 25 } },
+          { "pos": { "x": 16, "y": 25 } },
+          { "pos": { "x": 18, "y": 25 } },
+          { "pos": { "x": 22, "y": 25 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } },
+          { "pos": { "x": 32, "y": 25 } },
+          { "pos": { "x": 34, "y": 25 } },
+          { "pos": { "x": 36, "y": 25 } },
+          { "pos": { "x": 44, "y": 25 } },
+          { "pos": { "x": 46, "y": 25 } },
+          { "pos": { "x": 48, "y": 25 } }
+        ]
+      },
+
+      "30,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 27, "y": 30 } },
+          { "pos": { "x": 28, "y": 30 } },
+          { "pos": { "x": 29, "y": 30 } },
+          { "pos": { "x": 30, "y": 30 } },
+          { "pos": { "x": 31, "y": 30 } },
+          { "pos": { "x": 32, "y": 30 } },
+          { "pos": { "x": 33, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "16,19": { "defaultState": "off" },
+      "17,19": { "defaultState": "off" },
+      "18,19": { "defaultState": "off" },
+      "19,19": { "defaultState": "off" },
+      "20,19": { "defaultState": "off" },
+      "21,19": { "defaultState": "off" },
+      "22,19": { "defaultState": "off" },
+      "1,24": { "defaultState": "off" },
+      "3,24": { "defaultState": "off" },
+      "5,24": { "defaultState": "off" },
+      "13,24": { "defaultState": "off" },
+      "15,24": { "defaultState": "off" },
+      "17,24": { "defaultState": "off" },
+      "23,24": { "defaultState": "off" },
+      "25,24": { "defaultState": "off" },
+      "27,24": { "defaultState": "off" },
+      "31,24": { "defaultState": "off" },
+      "33,24": { "defaultState": "off" },
+      "35,24": { "defaultState": "off" },
+      "45,24": { "defaultState": "off" },
+      "47,24": { "defaultState": "off" },
+      "49,24": { "defaultState": "off" },
+      "0,25": { "defaultState": "off" },
+      "2,25": { "defaultState": "off" },
+      "4,25": { "defaultState": "off" },
+      "14,25": { "defaultState": "off" },
+      "16,25": { "defaultState": "off" },
+      "18,25": { "defaultState": "off" },
+      "22,25": { "defaultState": "off" },
+      "24,25": { "defaultState": "off" },
+      "26,25": { "defaultState": "off" },
+      "32,25": { "defaultState": "off" },
+      "34,25": { "defaultState": "off" },
+      "36,25": { "defaultState": "off" },
+      "44,25": { "defaultState": "off" },
+      "46,25": { "defaultState": "off" },
+      "48,25": { "defaultState": "off" },
+      "27,30": { "defaultState": "off" },
+      "28,30": { "defaultState": "off" },
+      "29,30": { "defaultState": "off" },
+      "30,30": { "defaultState": "off" },
+      "31,30": { "defaultState": "off" },
+      "32,30": { "defaultState": "off" },
+      "33,30": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,52 @@
+{
+    "info": {
+        "name": "Split",
+        "author": "Togler"
+    },
+
+    "switches": {
+        "21,2": {
+            "toggle": [
+                { "pos": { "x": 28, "y": 8 } },
+                { "pos": { "x": 14, "y": 9 } },
+                { "pos": { "x": 14, "y": 10 } },
+                { "pos": { "x": 14, "y": 11 } },
+                { "pos": { "x": 14, "y": 12 } },
+                { "pos": { "x": 14, "y": 13 } },
+                { "pos": { "x": 14, "y": 14 } },
+                { "pos": { "x": 28, "y": 14 } }
+            ]
+        },
+        "21,48": {
+            "toggle": [
+                { "pos": { "x": 14, "y": 36 } },
+                { "pos": { "x": 28, "y": 36 } },
+                { "pos": { "x": 28, "y": 37 } },
+                { "pos": { "x": 28, "y": 38 } },
+                { "pos": { "x": 28, "y": 39 } },
+                { "pos": { "x": 28, "y": 40 } },
+                { "pos": { "x": 28, "y": 41 } },
+                { "pos": { "x": 14, "y": 42 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "14,9" : { "defaultState": "off" },
+        "14,10" : { "defaultState": "off" },
+        "14,11" : { "defaultState": "off" },
+        "14,12" : { "defaultState": "off" },
+        "14,13" : { "defaultState": "off" },
+        "14,14" : { "defaultState": "off" },
+        "14,36" : { "defaultState": "off" },
+        "14,42" : { "defaultState": "off" },
+        "28,8" : { "defaultState": "off" },
+        "28,14" : { "defaultState": "off" },
+        "28,36" : { "defaultState": "off" },
+        "28,37" : { "defaultState": "off" },
+        "28,38" : { "defaultState": "off" },
+        "28,39" : { "defaultState": "off" },
+        "28,40" : { "defaultState": "off" },
+        "28,41" : { "defaultState": "off" }
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "info":
+  {
+    "name": "TugWars!",
+    "author": "Pyopi"
+  },
+
+  "switches":
+  {
+  "2,5": {
+        "toggle": [
+            { "pos": { "x": 19, "y": 6 } }
+        ]
+    },
+  "2,11": {
+        "toggle": [
+            { "pos": { "x": 19, "y": 10 } }
+        ]
+    },
+  "37,11": {
+        "toggle": [
+            { "pos": { "x": 20, "y": 10 } }
+        ]
+    },
+    "37,5": {
+        "toggle": [
+            { "pos": { "x": 20, "y": 6 } }
+        ]
+    }
+  },
+
+  "fields":
+  {
+
+  },
+
+  "portals": {
+"1,11": { "destination": { "x": 38, "y": 5 }, "cooldown": 0 },
+"38,5": { "destination": { "x": 1, "y": 11 }, "cooldown": 0 }
+  }
+}
