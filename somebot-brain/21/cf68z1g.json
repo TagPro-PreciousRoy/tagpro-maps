@@ -1,0 +1,46 @@
+{
+    "info": {
+        "name": "Business Casual",
+        "author": "The Onceler"
+    },
+    "switches": {
+        "8,16": {
+            "toggle": [
+                { "pos": { "x": 9, "y": 13 } },
+                { "pos": { "x": 9, "y": 14 } },
+                { "pos": { "x": 9, "y": 15 } }
+            ]
+        },
+        "6,11": {
+            "toggle":[
+                { "pos": { "x": 7, "y": 11 } },
+                { "pos": { "x": 8, "y": 11 } }
+                ]
+        },
+        "42,16": {
+            "toggle":[
+                {"pos": { "x": 41, "y": 13} }, 
+                {"pos": { "x": 41, "y": 14} },
+                {"pos": { "x": 41, "y": 15} }
+                ]
+        },
+        "44,11": {
+            "toggle":[
+                { "pos": { "x": 42, "y": 11 } },
+                { "pos": { "x": 43, "y": 11 } }
+                ]
+    }
+    },
+     "fields": {
+        "9,13" : { "defaultState": "off" },
+        "9,14" : { "defaultState": "off" },
+        "9,15" : { "defaultState": "off" },
+        "41,13" : { "defaultState": "off" },
+        "41,14" : { "defaultState": "off" },
+        "41,15" : { "defaultState": "off" },
+        "7,11" : { "defaultState": "off" },
+        "8,11" : { "defaultState": "off" },
+        "42,11" : { "defaultState": "off" },
+        "43,11" : { "defaultState": "off" }
+    }
+}

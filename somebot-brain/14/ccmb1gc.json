@@ -1,0 +1,48 @@
+  {
+
+
+    "info":
+    {
+      "name": "ballsak",
+      "author": "b@sh"
+    },
+
+
+    "switches":
+    {
+
+      "8,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 4, "y": 11 } },
+          { "pos": { "x": 5, "y": 11 } },
+          { "pos": { "x": 6, "y": 11 } }
+        ]
+      },
+
+      "41,37":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 38 } },
+          { "pos": { "x": 44, "y": 38 } },
+          { "pos": { "x": 45, "y": 38 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "4,11": { "defaultState": "off" },
+      "5,11": { "defaultState": "off" },
+      "6,11": { "defaultState": "off" },
+      "43,38": { "defaultState": "off" },
+      "44,38": { "defaultState": "off" },
+      "45,38": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,45 @@
+{
+
+
+
+    "info":
+    {
+	"name": "Cloud",
+	"author": "Carp"
+    },
+
+
+    "switches": 
+    {
+
+       "16,16": 
+       {
+            "toggle": 
+            [
+                { "pos": { "x": 17, "y": 16 } },
+                { "pos": { "x": 18, "y": 15 } },
+                { "pos": { "x": 19, "y": 14 } }
+            ]
+       },
+        
+       "36,16": 
+       {
+            "toggle": 
+            [
+                { "pos": { "x": 33, "y": 14 } },
+                { "pos": { "x": 34, "y": 15 } },
+                { "pos": { "x": 35, "y": 16 } }
+            ]
+       }
+    },
+
+    "fields": 
+    {
+        "17,16" : { "defaultState": "off" },
+        "18,17" : { "defaultState": "off" },
+        "19,18" : { "defaultState": "off" },
+        "33,18" : { "defaultState": "off" },
+        "34,17" : { "defaultState": "off" },
+        "34,16" : { "defaultState": "off" }
+    }
+}

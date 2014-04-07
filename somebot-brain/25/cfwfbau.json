@@ -1,0 +1,7 @@
+{"info":{"name":"Bombing Zone","author":"P K Subball"},"switches":{"14,24":{"toggle":[{"pos":{"x":6,"y":24}}]},"38,24":{"toggle":[{"pos":
+
+{"x":46,"y":24}}]}},"fields":{"7,29":{"defaultState":"red"},"8,30":{"defaultState":"red"},"44,30":{"defaultState":"blue"},"45,29":
+
+{"defaultState":"blue"}},"portals":{"7,19":{"destination":{"x":7,"y":19}, "cooldown": 1000000},"7,30":{"destination":{"x":45,"y":19}, "cooldown": 0},"45,19":
+
+{"destination":{"x":45,"y":19}, "cooldown": 1000000},"45,30":{"destination":{"x":7,"y":19}, "cooldown": 0}}}

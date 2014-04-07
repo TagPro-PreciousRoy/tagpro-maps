@@ -1,0 +1,80 @@
+  {
+
+
+    "info":
+    {
+      "name": "Geoffrey",
+      "author": "Butter Churn"
+    },
+
+
+    "switches":
+    {
+
+      "24,6":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 22, "y": 9 } },
+          { "pos": { "x": 23, "y": 9 } },
+          { "pos": { "x": 24, "y": 9 } },
+          { "pos": { "x": 25, "y": 9 } },
+          { "pos": { "x": 26, "y": 9 } }
+        ]
+      },
+
+      "24,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 22, "y": 9 } },
+          { "pos": { "x": 23, "y": 9 } },
+          { "pos": { "x": 24, "y": 9 } },
+          { "pos": { "x": 25, "y": 9 } },
+          { "pos": { "x": 26, "y": 9 } }
+        ]
+      },
+
+      "24,36":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 22, "y": 39 } },
+          { "pos": { "x": 23, "y": 39 } },
+          { "pos": { "x": 24, "y": 39 } },
+          { "pos": { "x": 25, "y": 39 } },
+          { "pos": { "x": 26, "y": 39 } }
+        ]
+      },
+
+      "24,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 22, "y": 39 } },
+          { "pos": { "x": 23, "y": 39 } },
+          { "pos": { "x": 24, "y": 39 } },
+          { "pos": { "x": 25, "y": 39 } },
+          { "pos": { "x": 26, "y": 39 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "22,9": { "defaultState": "off" },
+      "23,9": { "defaultState": "off" },
+      "24,9": { "defaultState": "off" },
+      "25,9": { "defaultState": "off" },
+      "26,9": { "defaultState": "off" },
+      "22,39": { "defaultState": "off" },
+      "23,39": { "defaultState": "off" },
+      "24,39": { "defaultState": "off" },
+      "25,39": { "defaultState": "off" },
+      "26,39": { "defaultState": "off" }
+    }
+
+
+  }

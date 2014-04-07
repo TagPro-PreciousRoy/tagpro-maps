@@ -1,0 +1,85 @@
+  {
+
+
+    "info":
+    {
+      "name": "Roundabout",
+      "author": "Mercury"
+    },
+
+
+    "switches":
+    {
+
+      "19,19":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 11, "y": 11 } },
+          { "pos": { "x": 12, "y": 11 } },
+          { "pos": { "x": 11, "y": 12 } },
+          { "pos": { "x": 12, "y": 12 } },
+          { "pos": { "x": 13, "y": 12 } },
+          { "pos": { "x": 12, "y": 13 } },
+          { "pos": { "x": 13, "y": 13 } },
+          { "pos": { "x": 14, "y": 13 } },
+          { "pos": { "x": 13, "y": 14 } },
+          { "pos": { "x": 14, "y": 14 } },
+          { "pos": { "x": 15, "y": 14 } },
+          { "pos": { "x": 14, "y": 15 } },
+          { "pos": { "x": 15, "y": 15 } },
+          { "pos": { "x": 16, "y": 15 } },
+          { "pos": { "x": 15, "y": 16 } },
+          { "pos": { "x": 16, "y": 16 } },
+          { "pos": { "x": 17, "y": 16 } },
+          { "pos": { "x": 16, "y": 17 } },
+          { "pos": { "x": 17, "y": 17 } }
+        ]
+      },
+
+      "18,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 16, "y": 19 } }
+        ]
+      },
+
+      "21,18":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 19, "y": 16 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "21,15": { "defaultState": "on" },
+      "11,11": { "defaultState": "on" },
+      "12,11": { "defaultState": "on" },
+      "11,12": { "defaultState": "on" },
+      "12,12": { "defaultState": "on" },
+      "13,12": { "defaultState": "on" },
+      "12,13": { "defaultState": "on" },
+      "13,13": { "defaultState": "on" },
+      "14,13": { "defaultState": "on" },
+      "13,14": { "defaultState": "on" },
+      "14,14": { "defaultState": "on" },
+      "15,14": { "defaultState": "on" },
+      "14,15": { "defaultState": "on" },
+      "15,15": { "defaultState": "on" },
+      "16,15": { "defaultState": "on" },
+      "15,16": { "defaultState": "on" },
+      "16,16": { "defaultState": "on" },
+      "17,16": { "defaultState": "on" },
+      "16,17": { "defaultState": "on" },
+      "17,17": { "defaultState": "on" },
+      "15,21": { "defaultState": "on" }
+    }
+
+
+  }

@@ -1,0 +1,46 @@
+  {
+
+
+    "info":
+    {
+      "name": "Data",
+      "author": ""
+    },
+
+
+    "switches":
+    {
+
+      "3,25":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 3, "y": 26 } },
+          { "pos": { "x": 0, "y": 28 } },
+          { "pos": { "x": 46, "y": 28 } }
+        ]
+      },
+
+      "43,25":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 26 } },
+          { "pos": { "x": 0, "y": 28 } },
+          { "pos": { "x": 46, "y": 28 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "3,26": { "defaultState": "on" },
+      "0,28": { "defaultState": "off" },
+      "46,28": { "defaultState": "off" },
+      "43,26": { "defaultState": "on" }
+    }
+
+
+  }

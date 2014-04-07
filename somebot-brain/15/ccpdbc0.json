@@ -1,0 +1,97 @@
+{
+    "info": {
+        "name": "Monument",
+        "author": "Pancake"
+    },
+    "switches": {
+        "4,5": {
+            "toggle": [
+                { "pos": { "x": 6, "y": 7 } },
+                { "pos": { "x": 5, "y": 8 } },
+                { "pos": { "x": 7, "y": 6 } }
+            ]
+        },
+        "4,15": {
+            "toggle": [
+                { "pos": { "x": 5, "y": 12 } },
+                { "pos": { "x": 6, "y": 13 } },
+                { "pos": { "x": 7, "y": 14 } }
+            ]
+        },
+        "53,5": {
+            "toggle": [
+                { "pos": { "x": 51, "y": 7 } },
+                { "pos": { "x": 52, "y": 8 } },
+                { "pos": { "x": 50, "y": 6 } }
+            ]
+        },
+        "53,15": {
+            "toggle": [
+                { "pos": { "x": 52, "y": 12 } },
+                { "pos": { "x": 51, "y": 13 } },
+                { "pos": { "x": 50, "y": 14 } }
+            ]
+        },
+        "36,10": {
+            "toggle": [
+                { "pos": { "x": 44, "y": 12 } },
+                { "pos": { "x": 44, "y": 11 } },
+                { "pos": { "x": 44, "y": 10 } },
+                { "pos": { "x": 44, "y": 9 } },
+                { "pos": { "x": 44, "y": 8 } }
+            ]
+        },
+        "21,10": {
+            "toggle": [
+                { "pos": { "x": 13, "y": 12 } },
+                { "pos": { "x": 13, "y": 11 } },
+                { "pos": { "x": 13, "y": 10 } },
+                { "pos": { "x": 13, "y": 9 } },
+                { "pos": { "x": 13, "y": 8 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "6,7" : { "defaultState": "off" },
+        "5,8" : { "defaultState": "off" },
+        "5,13" : { "defaultState": "off" },
+        "6,14" : { "defaultState": "off" },
+        "51,7" : { "defaultState": "off" },
+        "52,8" : { "defaultState": "off" },
+        "52,12" : { "defaultState": "off" },
+        "51,13" : { "defaultState": "off" },
+        "44,8" : { "defaultState": "blue" },
+        "44,9" : { "defaultState": "blue" },
+        "44,10" : { "defaultState": "blue" },
+        "44,11" : { "defaultState": "blue" },
+        "44,12" : { "defaultState": "blue" },
+        "13,8" : { "defaultState": "red" },
+        "13,9" : { "defaultState": "red" },
+        "13,10" : { "defaultState": "red" },
+        "13,11" : { "defaultState": "red" },
+        "13,12" : { "defaultState": "red" },
+        "26,8" : { "defaultState" : "on"},
+        "27,8" : { "defaultState" : "on"},
+        "28,8" : { "defaultState" : "on"},
+        "29,8" : { "defaultState" : "on"},
+        "30,8" : { "defaultState" : "on"},
+        "31,8" : { "defaultState" : "on"},
+        "24,10" : { "defaultState" : "on"},
+        "25,10" : { "defaultState" : "on"},
+        "26,10" : { "defaultState" : "on"},
+        "27,10" : { "defaultState" : "on"},
+        "28,10" : { "defaultState" : "on"},
+        "29,10" : { "defaultState" : "on"},
+        "30,10" : { "defaultState" : "on"},
+        "31,10" : { "defaultState" : "on"},
+        "32,10" : { "defaultState" : "on"},
+        "33,10" : { "defaultState" : "on"},
+        "26,12" : { "defaultState" : "on"},
+        "27,12" : { "defaultState" : "on"},
+        "28,12" : { "defaultState" : "on"},
+        "29,12" : { "defaultState" : "on"},
+        "30,12" : { "defaultState" : "on"},
+        "31,12" : { "defaultState" : "on"}
+    }
+}

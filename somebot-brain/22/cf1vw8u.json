@@ -1,0 +1,56 @@
+{
+    "info": {
+        "name": "OMAHA",
+        "author": "CRUSADERBEAR"
+    },
+    "switches": {
+        "12,17": {
+            "toggle": [
+                { "pos": { "x": 15, "y": 13 } },
+                { "pos": { "x": 16, "y": 13 } },
+                { "pos": { "x": 17, "y": 13 } },
+                { "pos": { "x": 18, "y": 18 } },
+                { "pos": { "x": 19, "y": 18 } },
+                { "pos": { "x": 20, "y": 18 } }
+            ]
+        },
+        "12,27": {
+            "toggle": [
+                { "pos": { "x": 14, "y": 26 } },
+                { "pos": { "x": 15, "y": 26 } },
+                { "pos": { "x": 16, "y": 26 } },
+                { "pos": { "x": 17, "y": 31 } },
+                { "pos": { "x": 18, "y": 31 } },
+                { "pos": { "x": 19, "y": 31 } }
+            ]
+        }
+    },
+    "fields": {
+        "15,13" : { "defaultState": "off" },
+        "16,13" : { "defaultState": "off" },
+        "17,13" : { "defaultState": "off" },
+        "18,18" : { "defaultState": "off" },
+        "19,18" : { "defaultState": "off" },
+        "20,18" : { "defaultState": "off" },
+        "14,26" : { "defaultState": "off" },
+        "15,26" : { "defaultState": "off" },
+        "16,26" : { "defaultState": "off" },
+        "17,31" : { "defaultState": "off" },
+        "18,31" : { "defaultState": "off" },
+        "19,31" : { "defaultState": "off" }
+    },
+    "portals": {
+    "6,13": { "destination": { "x": 5, "y": 14 } },
+    "5,14": { "destination": { "x": 6, "y": 13 } },
+    "13,13": { "destination": { "x": 14, "y": 14 } },
+    "14,14": { "destination": { "x": 13, "y": 13 } },
+    "21,13": { "destination": { "x": 20, "y": 14 } },
+    "20,14": { "destination": { "x": 21, "y": 13 } },
+    "5,30": { "destination": { "x": 6, "y": 31 } },
+    "6,31": { "destination": { "x": 5, "y": 30 } },
+    "14,30": { "destination": { "x": 13, "y": 31 } },
+    "13,31": { "destination": { "x": 14, "y": 30 } },
+    "20,30": { "destination": { "x": 21, "y": 31 } },
+    "21,31": { "destination": { "x": 20, "y": 30 } }
+}
+}

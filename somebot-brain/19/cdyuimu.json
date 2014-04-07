@@ -1,0 +1,25 @@
+{
+    "info": {
+        "name": "Spike Maze",
+        "author": "Cam"
+    },
+    "switches": {
+        "28,72": {
+            "toggle": [
+                { "pos": { "x": 27, "y": 72 } }
+            ]
+        },
+        "2,4": {
+            "toggle": [
+                { "pos": { "x": 2, "y": 3 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "19,27" : { "defaultState": "on" },
+        "21,27" : { "defaultState": "on" },
+        "27,72" : { "defaultState": "off" },
+        "2,4" : { "defaultState": "off" }
+    }
+}

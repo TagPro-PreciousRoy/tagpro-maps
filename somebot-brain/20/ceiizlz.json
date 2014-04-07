@@ -1,0 +1,89 @@
+ {
+
+
+
+    "info":
+    
+{
+      
+"name": "hard Sharks n Minnows",
+ 
+"author": "FoxieBall"
+    },
+
+
+
+"switches":
+    {
+
+    },
+
+
+    
+"fields":
+    {
+
+"10,4" : { "defaultState": "red" },
+"10,5" : { "defaultState": "red" },
+"10,6" : { "defaultState": "red" },
+"10,7" : { "defaultState": "red" },
+"10,8" : { "defaultState": "red" },
+"10,9" : { "defaultState": "red" },
+"10,10" : { "defaultState": "red" },
+"10,11" : { "defaultState": "red" },
+"10,12" : { "defaultState": "red" },
+"10,13" : { "defaultState": "red" },
+"10,14" : { "defaultState": "red" },
+"10,15" : { "defaultState": "red" },
+"10,16" : { "defaultState": "red" },
+"10,17" : { "defaultState": "red" },
+"10,18" : { "defaultState": "red" },
+"10,19" : { "defaultState": "red" },
+"10,20" : { "defaultState": "red" },
+"10,21" : { "defaultState": "red" },
+"10,22" : { "defaultState": "red" },
+"10,23" : { "defaultState": "red" },
+"10,24" : { "defaultState": "red" },
+"10,25" : { "defaultState": "red" },
+
+"45,7" : { "defaultState": "red" },
+"45,10" : { "defaultState": "red" },
+"45,13" : { "defaultState": "red" },
+"45,16" : { "defaultState": "red" },
+"45,19" : { "defaultState": "red" },
+"45,22" : { "defaultState": "red" }
+    },
+
+"portals":   {
+"2,34" : { "destination": { "x": 1, "y": 45 }, "cooldown": 0 },
+"4,34" : { "destination": { "x": 3, "y": 44 }, "cooldown": 0 },
+"6,36" : { "destination": { "x": 1, "y": 47 }, "cooldown": 0 },
+"6,38" : { "destination": { "x": 5, "y": 45 }, "cooldown": 0 },
+"2,40" : { "destination": { "x": 3, "y": 48 }, "cooldown": 0 },
+"4,40" : { "destination": { "x": 5, "y": 47 }, "cooldown": 0 },
+
+"1,45" : { "destination": { "x": 7, "y": 7 }, "cooldown": 0 },
+"3,44" : { "destination": { "x": 7, "y": 10 }, "cooldown": 0 },
+"1,47" : { "destination": { "x": 7, "y": 13 }, "cooldown": 0 },
+"5,45" : { "destination": { "x": 7, "y": 16 }, "cooldown": 0 },
+"3,48" : { "destination": { "x": 7, "y": 19 }, "cooldown": 0 },
+"5,47" : { "destination": { "x": 7, "y": 22 }, "cooldown": 0 },
+
+"19,43" : { "destination": { "x": 31, "y": 7 }, "cooldown": 0 },
+"20,43" : { "destination": { "x": 31, "y": 10 }, "cooldown": 0 },
+"21,43" : { "destination": { "x": 31, "y": 13 }, "cooldown": 0 },
+"22,43" : { "destination": { "x": 31, "y": 16 }, "cooldown": 0 },
+"23,43" : { "destination": { "x": 31, "y": 19 }, "cooldown": 0 },
+"24,43" : { "destination": { "x": 31, "y": 22 }, "cooldown": 0 },
+
+"46,7" : { "destination": { "x": 2, "y": 34 }, "cooldown": 0 },
+"46,10" : { "destination": { "x": 4, "y": 34 }, "cooldown": 0 },
+"46,13" : { "destination": { "x": 6, "y": 36 }, "cooldown": 0 },
+"46,16" : { "destination": { "x": 6, "y": 38 }, "cooldown": 0 },
+"46,19" : { "destination": { "x": 2, "y": 40 }, "cooldown": 0 },
+"46,22" : { "destination": { "x": 4, "y": 40 }, "cooldown": 0 }
+}
+
+
+  
+}

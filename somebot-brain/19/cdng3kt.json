@@ -1,0 +1,38 @@
+{
+    "info": {
+        "name": "Moubus",
+        "author": "orb"
+    },
+
+    "switches": {
+        "20,14": {
+            "toggle": [
+                { "pos": { "x": 24, "y": 15 } },
+                { "pos": { "x": 25, "y": 15 } },
+                { "pos": { "x": 23, "y": 16 } },
+                { "pos": { "x": 24, "y": 16 } },
+                { "pos": { "x": 22, "y": 17 } },
+                { "pos": { "x": 23, "y": 17 } }
+            ]
+        },
+        "27,18": {
+            "toggle": [
+                { "pos": { "x": 24, "y": 15 } },
+                { "pos": { "x": 25, "y": 15 } },
+                { "pos": { "x": 23, "y": 16 } },
+                { "pos": { "x": 24, "y": 16 } },
+                { "pos": { "x": 22, "y": 17 } },
+                { "pos": { "x": 23, "y": 17 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "22,17" : { "defaultState": "on" },
+        "23,16" : { "defaultState": "on" },
+        "23,17" : { "defaultState": "on" },
+        "24,15" : { "defaultState": "on" },
+        "24,16" : { "defaultState": "on" },
+        "25,15" : { "defaultState": "on" }
+    }
+}

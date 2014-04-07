@@ -1,0 +1,66 @@
+  {
+
+
+    "info":
+    {
+      "name": "Hunger Games",
+      "author": "Flying2na"
+    },
+
+
+    "switches":
+    {
+
+      "2,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 4, "y": 23 } },
+          { "pos": { "x": 5, "y": 24 } }
+        ]
+      },
+
+      "47,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 45, "y": 23 } },
+          { "pos": { "x": 44, "y": 24 } }
+        ]
+      },
+
+      "2,29":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 5, "y": 26 } },
+          { "pos": { "x": 4, "y": 27 } }
+        ]
+      },
+
+      "47,29":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 44, "y": 26 } },
+          { "pos": { "x": 45, "y": 27 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "4,23": { "defaultState": "off" },
+      "5,24": { "defaultState": "off" },
+      "45,23": { "defaultState": "off" },
+      "44,24": { "defaultState": "off" },
+      "5,26": { "defaultState": "off" },
+      "4,27": { "defaultState": "off" },
+      "44,26": { "defaultState": "off" },
+      "45,27": { "defaultState": "off" }
+    }
+
+
+  }

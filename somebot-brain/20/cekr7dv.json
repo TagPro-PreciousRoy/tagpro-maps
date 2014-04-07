@@ -1,0 +1,138 @@
+{
+ 
+ 
+    "info":
+    {
+      "name": "Elimin.WithBetting",
+      "author": "Fank1"
+    },
+ 
+ 
+    "switches":
+    {
+ 
+      "8,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 8, "y": 0 } }
+        ]
+      },
+ 
+      "9,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 7, "y": 0 } }
+        ]
+      },
+ 
+      "10,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 6, "y": 0 } }
+        ]
+      },
+ 
+      "12,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 16, "y": 0 } }
+        ]
+      },
+ 
+      "13,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 0 } }
+        ]
+      },
+ 
+      "14,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 14, "y": 0 } }
+        ]
+      },
+ 
+      "8,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 7, "y": 6 } }
+        ]
+      },
+ 
+      "9,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 5, "y": 5 } }
+        ]
+      },
+ 
+      "10,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 5, "y": 1 } }
+        ]
+      },
+ 
+      "12,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 1 } }
+        ]
+      },
+ 
+      "13,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 5 } }
+        ]
+      },
+ 
+      "14,9":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 6 } }
+        ]
+      }
+ 
+    },
+ 
+ 
+    "fields":
+    {
+      "8,0": { "defaultState": "off" },
+      "7,0": { "defaultState": "off" },
+      "6,0": { "defaultState": "off" },
+      "16,0": { "defaultState": "off" },
+      "15,0": { "defaultState": "off" },
+      "14,0": { "defaultState": "off" },
+      "6,5": { "defaultState": "off" },
+      "5,5": { "defaultState": "off" },
+      "5,1": { "defaultState": "off" },
+      "17,1": { "defaultState": "off" },
+      "17,5": { "defaultState": "off" },
+      "16,5": { "defaultState": "off" }
+    },
+ 
+        "portals":
+        {
+                "6,7": { "destination": { "x": 7, "y": 3 }, "cooldown": 20000},
+                "16,7": { "destination": { "x": 15, "y": 3 }, "cooldown": 20000},
+		"5,3": {"cooldown": 0 },
+                "17,3": {"cooldown": 0 }
+        }
+ 
+ 
+}

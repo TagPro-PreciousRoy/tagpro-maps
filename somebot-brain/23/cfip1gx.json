@@ -1,0 +1,54 @@
+  {
+
+
+    "info":
+    {
+      "name": "Heart",
+      "author": "P K Subball"
+    },
+
+
+    "switches":
+    {
+
+      "25,22":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } },
+          { "pos": { "x": 24, "y": 26 } },
+          { "pos": { "x": 26, "y": 26 } },
+          { "pos": { "x": 24, "y": 27 } },
+          { "pos": { "x": 26, "y": 27 } }
+        ]
+      },
+
+      "25,30":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } },
+          { "pos": { "x": 24, "y": 26 } },
+          { "pos": { "x": 26, "y": 26 } },
+          { "pos": { "x": 24, "y": 27 } },
+          { "pos": { "x": 26, "y": 27 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "24,25": { "defaultState": "off" },
+      "26,25": { "defaultState": "off" },
+      "24,26": { "defaultState": "off" },
+      "26,26": { "defaultState": "off" },
+      "24,27": { "defaultState": "off" },
+      "26,27": { "defaultState": "off" }
+    }
+
+
+  }

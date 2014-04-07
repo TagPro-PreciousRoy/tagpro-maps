@@ -1,0 +1,95 @@
+{
+
+
+    "info":
+    {
+      "name": "Babby See",
+      "author": "asdf"
+    },
+
+
+    "switches": {
+        "22,38": {
+            "toggle": [
+                { "pos": { "x": 25, "y": 37 } },
+                { "pos": { "x": 25, "y": 36 } },
+                { "pos": { "x": 25, "y": 35 } }
+            ]
+        },
+        "36,38": {
+            "toggle": [
+                { "pos": { "x": 33, "y": 37 } },
+                { "pos": { "x": 33, "y": 36 } },
+                { "pos": { "x": 33, "y": 35 } }
+            ]
+        },
+        "22,2": {
+            "toggle": [
+                { "pos": { "x": 25, "y": 3 } },
+                { "pos": { "x": 25, "y": 4 } },
+                { "pos": { "x": 25, "y": 5 } }
+            ]
+        },
+        "36,2": {
+            "toggle": [
+                { "pos": { "x": 33, "y": 3 } },
+                { "pos": { "x": 33, "y": 4 } },
+                { "pos": { "x": 33, "y": 5 } }
+            ]
+        },
+        "2,10": {
+            "toggle": [
+                { "pos": { "x": 3, "y": 12 } },
+                { "pos": { "x": 4, "y": 12 } },
+                { "pos": { "x": 5, "y": 12 } }
+            ]
+        },
+        "56,10": {
+            "toggle": [
+                { "pos": { "x": 55, "y": 12 } },
+                { "pos": { "x": 54, "y": 12 } },
+                { "pos": { "x": 53, "y": 12 } }
+            ]
+        },
+        "2,30": {
+            "toggle": [
+                { "pos": { "x": 3, "y": 28 } },
+                { "pos": { "x": 4, "y": 28 } },
+                { "pos": { "x": 5, "y": 28 } }
+            ]
+        },
+        "56,30": {
+            "toggle": [
+                { "pos": { "x": 55, "y": 28 } },
+                { "pos": { "x": 54, "y": 28 } },
+                { "pos": { "x": 53, "y": 28 } }
+            ]
+        }
+    },
+    "fields": {
+        "25,35" : { "defaultState": "on" },
+        "33,35" : { "defaultState": "on" },
+        "25,5" : { "defaultState": "on" },
+        "33,5" : { "defaultState": "on" },
+        "25,36" : { "defaultState": "on" },
+        "33,36" : { "defaultState": "on" },
+        "25,4" : { "defaultState": "on" },
+        "33,4" : { "defaultState": "on" },
+        "25,37" : { "defaultState": "on" },
+        "33,37" : { "defaultState": "on" },
+        "25,3" : { "defaultState": "on" },
+        "33,3" : { "defaultState": "on" },
+        "4,28" : { "defaultState": "off" },
+        "54,28" : { "defaultState": "off" },
+        "4,12" : { "defaultState": "off" },
+        "54,12" : { "defaultState": "off" },
+        "3,28" : { "defaultState": "off" },
+        "55,28" : { "defaultState": "off" },
+        "3,12" : { "defaultState": "off" },
+        "55,12" : { "defaultState": "off" },
+        "5,28" : { "defaultState": "off" },
+        "53,28" : { "defaultState": "off" },
+        "5,12" : { "defaultState": "off" },
+        "53,12" : { "defaultState": "off" }
+    }
+}

@@ -1,0 +1,208 @@
+{
+
+
+    "info":
+    {
+      "name": "In and Out",
+      "author": "ツ"
+    },
+
+
+    "switches":
+    {
+
+      "25,2":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 26, "y": 3 } },
+          { "pos": { "x": 27, "y": 3 } },
+          { "pos": { "x": 28, "y": 3 } },
+          { "pos": { "x": 29, "y": 3 } },
+          { "pos": { "x": 30, "y": 3 } },
+          { "pos": { "x": 31, "y": 3 } },
+          { "pos": { "x": 32, "y": 3 } },
+          { "pos": { "x": 33, "y": 3 } },
+          { "pos": { "x": 34, "y": 3 } },
+          { "pos": { "x": 26, "y": 4 } },
+          { "pos": { "x": 27, "y": 4 } },
+          { "pos": { "x": 28, "y": 4 } },
+          { "pos": { "x": 29, "y": 4 } },
+          { "pos": { "x": 30, "y": 4 } },
+          { "pos": { "x": 31, "y": 4 } },
+          { "pos": { "x": 32, "y": 4 } },
+          { "pos": { "x": 33, "y": 4 } },
+          { "pos": { "x": 34, "y": 4 } },
+          { "pos": { "x": 26, "y": 5 } },
+          { "pos": { "x": 27, "y": 5 } },
+          { "pos": { "x": 28, "y": 5 } },
+          { "pos": { "x": 29, "y": 5 } },
+          { "pos": { "x": 30, "y": 5 } },
+          { "pos": { "x": 31, "y": 5 } },
+          { "pos": { "x": 32, "y": 5 } },
+          { "pos": { "x": 33, "y": 5 } },
+          { "pos": { "x": 34, "y": 5 } },
+          { "pos": { "x": 26, "y": 6 } },
+          { "pos": { "x": 27, "y": 6 } },
+          { "pos": { "x": 28, "y": 6 } },
+          { "pos": { "x": 29, "y": 6 } },
+          { "pos": { "x": 30, "y": 6 } },
+          { "pos": { "x": 31, "y": 6 } },
+          { "pos": { "x": 32, "y": 6 } },
+          { "pos": { "x": 33, "y": 6 } },
+          { "pos": { "x": 34, "y": 6 } }
+        ]
+      },
+
+      "35,2":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 26, "y": 3 } },
+          { "pos": { "x": 27, "y": 3 } },
+          { "pos": { "x": 28, "y": 3 } },
+          { "pos": { "x": 29, "y": 3 } },
+          { "pos": { "x": 30, "y": 3 } },
+          { "pos": { "x": 31, "y": 3 } },
+          { "pos": { "x": 32, "y": 3 } },
+          { "pos": { "x": 33, "y": 3 } },
+          { "pos": { "x": 34, "y": 3 } },
+          { "pos": { "x": 26, "y": 4 } },
+          { "pos": { "x": 27, "y": 4 } },
+          { "pos": { "x": 28, "y": 4 } },
+          { "pos": { "x": 29, "y": 4 } },
+          { "pos": { "x": 30, "y": 4 } },
+          { "pos": { "x": 31, "y": 4 } },
+          { "pos": { "x": 32, "y": 4 } },
+          { "pos": { "x": 33, "y": 4 } },
+          { "pos": { "x": 34, "y": 4 } },
+          { "pos": { "x": 26, "y": 5 } },
+          { "pos": { "x": 27, "y": 5 } },
+          { "pos": { "x": 28, "y": 5 } },
+          { "pos": { "x": 29, "y": 5 } },
+          { "pos": { "x": 30, "y": 5 } },
+          { "pos": { "x": 31, "y": 5 } },
+          { "pos": { "x": 32, "y": 5 } },
+          { "pos": { "x": 33, "y": 5 } },
+          { "pos": { "x": 34, "y": 5 } },
+          { "pos": { "x": 26, "y": 6 } },
+          { "pos": { "x": 27, "y": 6 } },
+          { "pos": { "x": 28, "y": 6 } },
+          { "pos": { "x": 29, "y": 6 } },
+          { "pos": { "x": 30, "y": 6 } },
+          { "pos": { "x": 31, "y": 6 } },
+          { "pos": { "x": 32, "y": 6 } },
+          { "pos": { "x": 33, "y": 6 } },
+          { "pos": { "x": 34, "y": 6 } }
+        ]
+      },
+
+      "14,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 30 } },
+          { "pos": { "x": 16, "y": 30 } },
+          { "pos": { "x": 17, "y": 30 } },
+          { "pos": { "x": 15, "y": 31 } },
+          { "pos": { "x": 16, "y": 31 } },
+          { "pos": { "x": 17, "y": 31 } }
+        ]
+      },
+
+      "18,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 30 } },
+          { "pos": { "x": 16, "y": 30 } },
+          { "pos": { "x": 17, "y": 30 } },
+          { "pos": { "x": 15, "y": 31 } },
+          { "pos": { "x": 16, "y": 31 } },
+          { "pos": { "x": 17, "y": 31 } }
+        ]
+      },
+
+      "42,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 30 } },
+          { "pos": { "x": 44, "y": 30 } },
+          { "pos": { "x": 45, "y": 30 } },
+          { "pos": { "x": 43, "y": 31 } },
+          { "pos": { "x": 44, "y": 31 } },
+          { "pos": { "x": 45, "y": 31 } }
+        ]
+      },
+
+      "46,32":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 30 } },
+          { "pos": { "x": 44, "y": 30 } },
+          { "pos": { "x": 45, "y": 30 } },
+          { "pos": { "x": 43, "y": 31 } },
+          { "pos": { "x": 44, "y": 31 } },
+          { "pos": { "x": 45, "y": 31 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "26,3": { "defaultState": "off" },
+      "27,3": { "defaultState": "off" },
+      "28,3": { "defaultState": "off" },
+      "29,3": { "defaultState": "off" },
+      "30,3": { "defaultState": "off" },
+      "31,3": { "defaultState": "off" },
+      "32,3": { "defaultState": "off" },
+      "33,3": { "defaultState": "off" },
+      "34,3": { "defaultState": "off" },
+      "26,4": { "defaultState": "off" },
+      "27,4": { "defaultState": "off" },
+      "28,4": { "defaultState": "off" },
+      "29,4": { "defaultState": "off" },
+      "30,4": { "defaultState": "off" },
+      "31,4": { "defaultState": "off" },
+      "32,4": { "defaultState": "off" },
+      "33,4": { "defaultState": "off" },
+      "34,4": { "defaultState": "off" },
+      "26,5": { "defaultState": "off" },
+      "27,5": { "defaultState": "off" },
+      "28,5": { "defaultState": "off" },
+      "29,5": { "defaultState": "off" },
+      "30,5": { "defaultState": "off" },
+      "31,5": { "defaultState": "off" },
+      "32,5": { "defaultState": "off" },
+      "33,5": { "defaultState": "off" },
+      "34,5": { "defaultState": "off" },
+      "26,6": { "defaultState": "off" },
+      "27,6": { "defaultState": "off" },
+      "28,6": { "defaultState": "off" },
+      "29,6": { "defaultState": "off" },
+      "30,6": { "defaultState": "off" },
+      "31,6": { "defaultState": "off" },
+      "32,6": { "defaultState": "off" },
+      "33,6": { "defaultState": "off" },
+      "34,6": { "defaultState": "off" },
+      "15,30": { "defaultState": "off" },
+      "16,30": { "defaultState": "off" },
+      "17,30": { "defaultState": "off" },
+      "15,31": { "defaultState": "off" },
+      "16,31": { "defaultState": "off" },
+      "17,31": { "defaultState": "off" },
+      "43,30": { "defaultState": "off" },
+      "44,30": { "defaultState": "off" },
+      "45,30": { "defaultState": "off" },
+      "43,31": { "defaultState": "off" },
+      "44,31": { "defaultState": "off" },
+      "45,31": { "defaultState": "off" }
+    }
+
+
+  }

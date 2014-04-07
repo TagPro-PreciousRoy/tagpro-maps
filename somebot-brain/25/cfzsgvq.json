@@ -1,0 +1,10 @@
+{
+	"info": {
+		"name": "Oval Flipped",
+		"author": "Grapefruit" 
+	},
+	"portals": {
+		"5,31": { "destination": { "x": 17, "y": 31}, "cooldown": 7000},
+		"17,31": { "destination": { "x": 5, "y": 31}, "cooldown": 7000}
+	}
+}

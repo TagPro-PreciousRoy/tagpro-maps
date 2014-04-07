@@ -1,0 +1,134 @@
+  {
+
+
+    "info":
+    {
+      "name": "Soccer",
+      "author": "Cruyff"
+    },
+
+
+    "switches":
+    {
+
+      "5,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 19 } },
+          { "pos": { "x": 2, "y": 19 } },
+          { "pos": { "x": 3, "y": 19 } },
+          { "pos": { "x": 4, "y": 19 } },
+          { "pos": { "x": 5, "y": 19 } }
+        ]
+      },
+
+      "43,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 19 } },
+          { "pos": { "x": 44, "y": 19 } },
+          { "pos": { "x": 45, "y": 19 } },
+          { "pos": { "x": 46, "y": 19 } },
+          { "pos": { "x": 47, "y": 19 } }
+        ]
+      },
+
+      "22,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 24, "y": 22 } },
+          { "pos": { "x": 24, "y": 23 } },
+          { "pos": { "x": 24, "y": 24 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 24, "y": 26 } },
+          { "pos": { "x": 24, "y": 27 } },
+          { "pos": { "x": 24, "y": 28 } },
+          { "pos": { "x": 24, "y": 29 } }
+        ]
+      },
+
+      "26,25":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 24, "y": 22 } },
+          { "pos": { "x": 24, "y": 23 } },
+          { "pos": { "x": 24, "y": 24 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 24, "y": 26 } },
+          { "pos": { "x": 24, "y": 27 } },
+          { "pos": { "x": 24, "y": 28 } },
+          { "pos": { "x": 24, "y": 29 } }
+        ]
+      },
+
+      "5,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 1, "y": 30 } },
+          { "pos": { "x": 2, "y": 30 } },
+          { "pos": { "x": 3, "y": 30 } },
+          { "pos": { "x": 4, "y": 30 } },
+          { "pos": { "x": 5, "y": 30 } }
+        ]
+      },
+
+      "43,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 43, "y": 30 } },
+          { "pos": { "x": 44, "y": 30 } },
+          { "pos": { "x": 45, "y": 30 } },
+          { "pos": { "x": 46, "y": 30 } },
+          { "pos": { "x": 47, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "1,19": { "defaultState": "off" },
+      "2,19": { "defaultState": "off" },
+      "3,19": { "defaultState": "off" },
+      "4,19": { "defaultState": "off" },
+      "5,19": { "defaultState": "off" },
+      "43,19": { "defaultState": "off" },
+      "44,19": { "defaultState": "off" },
+      "45,19": { "defaultState": "off" },
+      "46,19": { "defaultState": "off" },
+      "47,19": { "defaultState": "off" },
+      "24,20": { "defaultState": "off" },
+      "24,21": { "defaultState": "off" },
+      "24,22": { "defaultState": "off" },
+      "24,23": { "defaultState": "off" },
+      "24,24": { "defaultState": "off" },
+      "24,25": { "defaultState": "off" },
+      "24,26": { "defaultState": "off" },
+      "24,27": { "defaultState": "off" },
+      "24,28": { "defaultState": "off" },
+      "24,29": { "defaultState": "off" },
+      "1,30": { "defaultState": "off" },
+      "2,30": { "defaultState": "off" },
+      "3,30": { "defaultState": "off" },
+      "4,30": { "defaultState": "off" },
+      "5,30": { "defaultState": "off" },
+      "43,30": { "defaultState": "off" },
+      "44,30": { "defaultState": "off" },
+      "45,30": { "defaultState": "off" },
+      "46,30": { "defaultState": "off" },
+      "47,30": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,56 @@
+  {
+
+
+    "info":
+    {
+      "name": "Switchback",
+      "author": "SlyTradesman"
+    },
+
+
+    "switches":
+    {
+
+      "4,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 13 } },
+          { "pos": { "x": 14, "y": 14 } },
+          { "pos": { "x": 15, "y": 15 } },
+          { "pos": { "x": 14, "y": 16 } },
+          { "pos": { "x": 13, "y": 17 } }
+        ]
+      },
+
+      "42,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 33, "y": 13 } },
+          { "pos": { "x": 32, "y": 14 } },
+          { "pos": { "x": 31, "y": 15 } },
+          { "pos": { "x": 32, "y": 16 } },
+          { "pos": { "x": 33, "y": 17 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "13,13": { "defaultState": "off" },
+      "14,14": { "defaultState": "off" },
+      "15,15": { "defaultState": "off" },
+      "14,16": { "defaultState": "off" },
+      "13,17": { "defaultState": "off" },
+      "33,13": { "defaultState": "off" },
+      "32,14": { "defaultState": "off" },
+      "31,15": { "defaultState": "off" },
+      "32,16": { "defaultState": "off" },
+      "33,17": { "defaultState": "off" }
+    }
+
+
+  }

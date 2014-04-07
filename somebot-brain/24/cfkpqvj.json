@@ -1,0 +1,109 @@
+{
+
+
+    "info":
+    {
+      "name": "Alien Jim v0.6",
+      "author": "ツ"
+    },
+
+
+    "switches":
+    {
+
+      "3,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 3, "y": 10 } },
+          { "pos": { "x": 5, "y": 10 } },
+          { "pos": { "x": 2, "y": 11 } },
+          { "pos": { "x": 4, "y": 11 } },
+          { "pos": { "x": 6, "y": 11 } },
+          { "pos": { "x": 1, "y": 12 } },
+          { "pos": { "x": 5, "y": 12 } },
+          { "pos": { "x": 7, "y": 12 } },
+          { "pos": { "x": 6, "y": 13 } },
+          { "pos": { "x": 8, "y": 13 } },
+          { "pos": { "x": 7, "y": 14 } },
+          { "pos": { "x": 9, "y": 14 } },
+          { "pos": { "x": 8, "y": 15 } }
+        ]
+      },
+	  
+	   "65,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 63, "y": 10 } },
+          { "pos": { "x": 65, "y": 10 } },
+          { "pos": { "x": 62, "y": 11 } },
+          { "pos": { "x": 64, "y": 11 } },
+          { "pos": { "x": 66, "y": 11 } },
+          { "pos": { "x": 61, "y": 12 } },
+          { "pos": { "x": 63, "y": 12 } },
+          { "pos": { "x": 67, "y": 12 } },
+          { "pos": { "x": 60, "y": 13 } },
+          { "pos": { "x": 62, "y": 13 } },
+          { "pos": { "x": 59, "y": 14 } },
+          { "pos": { "x": 61, "y": 14 } },
+          { "pos": { "x": 60, "y": 15 } }
+        ]
+      },
+
+      "26,23":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 34, "y": 21 } },
+          { "pos": { "x": 34, "y": 22 } }
+        ]
+      },
+
+      "42,23":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 34, "y": 21 } },
+          { "pos": { "x": 34, "y": 22 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "34,7": { "defaultState": "on" },
+	  "3,10": { "defaultState": "on" },
+      "5,10": { "defaultState": "off" },
+	  "63,10": {"defaultState": "off" },
+	  "65,10": { "defaultState": "off" },
+      "2,11": { "defaultState": "on" },
+      "4,11": { "defaultState": "off" },
+      "6,11": { "defaultState": "off" },
+	  "62,11": { "defaultState": "off" },
+      "64,11": { "defaultState": "off" },
+      "66,11": { "defaultState": "off" },
+	  "1,12": { "defaultState": "on" },
+      "5,12": { "defaultState": "off" },
+      "7,12": { "defaultState": "off" },
+	  "61,12": { "defaultState": "off" },
+      "63,12": { "defaultState": "off" },
+      "67,12": { "defaultState": "off" },
+      "6,13": { "defaultState": "off" },
+      "8,13": { "defaultState": "off" },
+	  "60,13": { "defaultState": "off" },
+      "62,13": { "defaultState": "off" },
+      "7,14": { "defaultState": "off" },
+      "9,14": { "defaultState": "off" },
+	  "59,14": { "defaultState": "off" },
+      "61,14": { "defaultState": "off" },
+      "8,15": { "defaultState": "off" },
+	  "60,15": { "defaultState": "off" },
+      "34,21": { "defaultState": "off" },
+      "34,22": { "defaultState": "off" }
+    }
+
+
+  }

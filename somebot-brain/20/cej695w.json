@@ -1,0 +1,62 @@
+  {
+
+
+
+    "info":
+    
+{
+      
+"name": "portalless",
+ 
+"author": "FoxieBall"
+    },
+
+
+
+"switches":
+    {
+
+    },
+
+
+    
+"fields":
+    {
+
+"17,7" : { "defaultState": "red" },
+"18,7" : { "defaultState": "red" },
+"19,7" : { "defaultState": "red" },
+"20,7" : { "defaultState": "red" },
+"21,7" : { "defaultState": "red" },
+"22,7" : { "defaultState": "red" },
+"23,7" : { "defaultState": "red" },
+"24,7" : { "defaultState": "red" },
+"25,7" : { "defaultState": "red" },
+"26,7" : { "defaultState": "red" },
+"27,7" : { "defaultState": "red" },
+"28,7" : { "defaultState": "red" },
+"29,7" : { "defaultState": "red" },
+"30,7" : { "defaultState": "red" },
+"31,7" : { "defaultState": "red" },
+"32,7" : { "defaultState": "red" },
+"33,7" : { "defaultState": "red" },
+
+"17,34" : { "defaultState": "red" },
+"18,34" : { "defaultState": "red" },
+"19,34" : { "defaultState": "red" },
+"20,34" : { "defaultState": "red" },
+"21,34" : { "defaultState": "red" },
+"22,34" : { "defaultState": "red" },
+"23,34" : { "defaultState": "red" },
+"24,34" : { "defaultState": "red" },
+"25,34" : { "defaultState": "red" },
+"26,34" : { "defaultState": "red" },
+"27,34" : { "defaultState": "red" },
+"28,34" : { "defaultState": "red" },
+"29,34" : { "defaultState": "red" },
+"30,34" : { "defaultState": "red" },
+"31,34" : { "defaultState": "red" },
+"32,34" : { "defaultState": "red" },
+"33,34" : { "defaultState": "red" }
+    }
+}

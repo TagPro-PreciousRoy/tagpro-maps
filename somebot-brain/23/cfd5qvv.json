@@ -1,0 +1,21 @@
+{
+  "info":
+  {
+    "name": "Disneyland",
+    "author": "Pyopi"
+  },
+
+  "switches":
+  {
+  
+  },
+
+  "fields":
+  {
+"2,48" : { "defaultState": "on" },
+"2,47" : { "defaultState": "on" }
+  },
+
+  "portals": {
+  }
+}

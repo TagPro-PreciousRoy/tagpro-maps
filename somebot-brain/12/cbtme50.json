@@ -1,0 +1,162 @@
+  {
+
+
+    "info":
+    {
+      "name": "Excalibur",
+      "author": "Don Julio"
+    },
+
+
+    "switches":
+    {
+
+      "15,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 20, "y": 17 } },
+          { "pos": { "x": 22, "y": 17 } },
+          { "pos": { "x": 19, "y": 18 } },
+          { "pos": { "x": 21, "y": 18 } },
+          { "pos": { "x": 23, "y": 18 } },
+          { "pos": { "x": 18, "y": 19 } },
+          { "pos": { "x": 20, "y": 19 } },
+          { "pos": { "x": 22, "y": 19 } },
+          { "pos": { "x": 24, "y": 19 } },
+          { "pos": { "x": 17, "y": 20 } },
+          { "pos": { "x": 19, "y": 20 } },
+          { "pos": { "x": 21, "y": 20 } },
+          { "pos": { "x": 23, "y": 20 } },
+          { "pos": { "x": 18, "y": 21 } },
+          { "pos": { "x": 20, "y": 21 } },
+          { "pos": { "x": 22, "y": 21 } },
+          { "pos": { "x": 17, "y": 22 } },
+          { "pos": { "x": 19, "y": 22 } },
+          { "pos": { "x": 21, "y": 22 } },
+          { "pos": { "x": 18, "y": 23 } },
+          { "pos": { "x": 20, "y": 23 } },
+          { "pos": { "x": 19, "y": 24 } },
+          { "pos": { "x": 28, "y": 27 } },
+          { "pos": { "x": 27, "y": 28 } },
+          { "pos": { "x": 26, "y": 29 } }
+        ]
+      },
+
+      "27,17":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 25, "y": 19 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 30, "y": 24 } }
+        ]
+      },
+
+      "18,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 21 } },
+          { "pos": { "x": 19, "y": 25 } },
+          { "pos": { "x": 20, "y": 26 } }
+        ]
+      },
+
+      "30,30":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 19, "y": 16 } },
+          { "pos": { "x": 18, "y": 17 } },
+          { "pos": { "x": 17, "y": 18 } },
+          { "pos": { "x": 26, "y": 21 } },
+          { "pos": { "x": 25, "y": 22 } },
+          { "pos": { "x": 27, "y": 22 } },
+          { "pos": { "x": 24, "y": 23 } },
+          { "pos": { "x": 26, "y": 23 } },
+          { "pos": { "x": 28, "y": 23 } },
+          { "pos": { "x": 23, "y": 24 } },
+          { "pos": { "x": 25, "y": 24 } },
+          { "pos": { "x": 27, "y": 24 } },
+          { "pos": { "x": 22, "y": 25 } },
+          { "pos": { "x": 24, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } },
+          { "pos": { "x": 28, "y": 25 } },
+          { "pos": { "x": 21, "y": 26 } },
+          { "pos": { "x": 23, "y": 26 } },
+          { "pos": { "x": 25, "y": 26 } },
+          { "pos": { "x": 27, "y": 26 } },
+          { "pos": { "x": 22, "y": 27 } },
+          { "pos": { "x": 24, "y": 27 } },
+          { "pos": { "x": 26, "y": 27 } },
+          { "pos": { "x": 23, "y": 28 } },
+          { "pos": { "x": 25, "y": 28 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "20,17": { "defaultState": "off" },
+      "22,17": { "defaultState": "off" },
+      "19,18": { "defaultState": "off" },
+      "21,18": { "defaultState": "off" },
+      "23,18": { "defaultState": "off" },
+      "18,19": { "defaultState": "off" },
+      "20,19": { "defaultState": "off" },
+      "22,19": { "defaultState": "off" },
+      "24,19": { "defaultState": "off" },
+      "17,20": { "defaultState": "off" },
+      "19,20": { "defaultState": "off" },
+      "21,20": { "defaultState": "off" },
+      "23,20": { "defaultState": "off" },
+      "18,21": { "defaultState": "off" },
+      "20,21": { "defaultState": "off" },
+      "22,21": { "defaultState": "off" },
+      "17,22": { "defaultState": "off" },
+      "19,22": { "defaultState": "off" },
+      "21,22": { "defaultState": "off" },
+      "18,23": { "defaultState": "off" },
+      "20,23": { "defaultState": "off" },
+      "19,24": { "defaultState": "off" },
+      "28,27": { "defaultState": "off" },
+      "27,28": { "defaultState": "off" },
+      "26,29": { "defaultState": "off" },
+      "25,19": { "defaultState": "on" },
+      "26,20": { "defaultState": "on" },
+      "30,24": { "defaultState": "on" },
+      "15,21": { "defaultState": "on" },
+      "19,25": { "defaultState": "on" },
+      "20,26": { "defaultState": "on" },
+      "19,16": { "defaultState": "off" },
+      "18,17": { "defaultState": "off" },
+      "17,18": { "defaultState": "off" },
+      "26,21": { "defaultState": "off" },
+      "25,22": { "defaultState": "off" },
+      "27,22": { "defaultState": "off" },
+      "24,23": { "defaultState": "off" },
+      "26,23": { "defaultState": "off" },
+      "28,23": { "defaultState": "off" },
+      "23,24": { "defaultState": "off" },
+      "25,24": { "defaultState": "off" },
+      "27,24": { "defaultState": "off" },
+      "22,25": { "defaultState": "off" },
+      "24,25": { "defaultState": "off" },
+      "26,25": { "defaultState": "off" },
+      "28,25": { "defaultState": "off" },
+      "21,26": { "defaultState": "off" },
+      "23,26": { "defaultState": "off" },
+      "25,26": { "defaultState": "off" },
+      "27,26": { "defaultState": "off" },
+      "22,27": { "defaultState": "off" },
+      "24,27": { "defaultState": "off" },
+      "26,27": { "defaultState": "off" },
+      "23,28": { "defaultState": "off" },
+      "25,28": { "defaultState": "off" }
+    }
+
+
+  }

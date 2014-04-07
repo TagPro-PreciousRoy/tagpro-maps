@@ -1,0 +1,72 @@
+  {
+
+
+    "info":
+    {
+      "name": "pickles",
+      "author": "love_"
+    },
+
+
+    "switches":
+    {
+
+      "16,1":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 16, "y": 9 } },
+          { "pos": { "x": 15, "y": 10 } },
+          { "pos": { "x": 17, "y": 10 } },
+          { "pos": { "x": 15, "y": 11 } },
+          { "pos": { "x": 17, "y": 11 } },
+          { "pos": { "x": 16, "y": 12 } }
+        ]
+      },
+
+      "16,31":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 12, "y": 21 } },
+          { "pos": { "x": 20, "y": 21 } },
+          { "pos": { "x": 11, "y": 22 } },
+          { "pos": { "x": 13, "y": 22 } },
+          { "pos": { "x": 19, "y": 22 } },
+          { "pos": { "x": 21, "y": 22 } },
+          { "pos": { "x": 11, "y": 23 } },
+          { "pos": { "x": 13, "y": 23 } },
+          { "pos": { "x": 19, "y": 23 } },
+          { "pos": { "x": 21, "y": 23 } },
+          { "pos": { "x": 12, "y": 24 } },
+          { "pos": { "x": 20, "y": 24 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "16,9": { "defaultState": "on" },
+      "15,10": { "defaultState": "on" },
+      "17,10": { "defaultState": "on" },
+      "15,11": { "defaultState": "on" },
+      "17,11": { "defaultState": "on" },
+      "16,12": { "defaultState": "on" },
+      "12,21": { "defaultState": "on" },
+      "20,21": { "defaultState": "on" },
+      "11,22": { "defaultState": "on" },
+      "13,22": { "defaultState": "on" },
+      "19,22": { "defaultState": "on" },
+      "21,22": { "defaultState": "on" },
+      "11,23": { "defaultState": "on" },
+      "13,23": { "defaultState": "on" },
+      "19,23": { "defaultState": "on" },
+      "21,23": { "defaultState": "on" },
+      "12,24": { "defaultState": "on" },
+      "20,24": { "defaultState": "on" }
+    }
+
+
+  }

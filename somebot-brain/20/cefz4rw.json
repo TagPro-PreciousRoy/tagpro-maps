@@ -1,0 +1,41 @@
+{
+    "info": {
+        "name": "Sweetier2
+        "author": "Squirrely"
+    },
+    "switches": {
+        "31,5": {
+            "toggle": [
+                { "pos": { "x": 24, "y": 10 } },
+                { "pos": { "x": 25, "y": 9 } },
+                { "pos": { "x": 26, "y": 8 } },
+                { "pos": { "x": 27, "y": 7 } },
+                { "pos": { "x": 28, "y": 6 } }
+            ]
+        },       
+         "34,5": {
+            "toggle": [
+                { "pos": { "x": 37, "y": 6 } },
+                { "pos": { "x": 38, "y": 7 } },
+                { "pos": { "x": 39, "y": 8 } },
+                { "pos": { "x": 40, "y": 9 } },
+                { "pos": { "x": 41, "y": 10 } }
+            ]
+       }
+   },
+
+    "fields": {
+        "24,10": { "defaultState": "off" },
+        "25,9": { "defaultState": "off" },
+        "26,8": { "defaultState": "off" },
+        "27,7": { "defaultState": "off" },
+        "28,6": { "defaultState": "off" },
+        "37,6": { "defaultState": "off" },      
+        "38,7": { "defaultState": "off" },
+        "39,8": { "defaultState": "off" },
+        "40,9": { "defaultState": "off" },
+        "41,10": { "defaultState": "off" }
+                
+
+    }
+}

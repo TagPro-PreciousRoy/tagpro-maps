@@ -1,0 +1,51 @@
+  {
+
+
+    "info":
+    {
+      "name": "pooppants",
+      "author": "love_"
+    },
+
+
+    "switches":
+    {
+
+      "20,34":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 20, "y": 36 } },
+          { "pos": { "x": 20, "y": 37 } },
+          { "pos": { "x": 20, "y": 38 } },
+          { "pos": { "x": 20, "y": 39 } },
+          { "pos": { "x": 20, "y": 40 } }
+        ]
+      },
+
+      "20,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 20, "y": 36 } },
+          { "pos": { "x": 20, "y": 37 } },
+          { "pos": { "x": 20, "y": 38 } },
+          { "pos": { "x": 20, "y": 39 } },
+          { "pos": { "x": 20, "y": 40 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "20,36": { "defaultState": "on" },
+      "20,37": { "defaultState": "on" },
+      "20,38": { "defaultState": "on" },
+      "20,39": { "defaultState": "on" },
+      "20,40": { "defaultState": "on" }
+    }
+
+
+  }

@@ -1,0 +1,52 @@
+  {
+
+
+    "info":
+    {
+      "name": "Some Map",
+      "author": ""
+    },
+
+
+    "switches":
+    {
+
+      "18,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 21 } },
+          { "pos": { "x": 17, "y": 23 } },
+          { "pos": { "x": 13, "y": 28 } },
+          { "pos": { "x": 21, "y": 28 } }
+        ]
+      },
+
+      "15,29":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 22 } },
+          { "pos": { "x": 21, "y": 22 } },
+          { "pos": { "x": 16, "y": 27 } },
+          { "pos": { "x": 18, "y": 29 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "15,21": { "defaultState": "off" },
+      "17,23": { "defaultState": "off" },
+      "13,28": { "defaultState": "off" },
+      "21,28": { "defaultState": "off" },
+      "13,22": { "defaultState": "off" },
+      "21,22": { "defaultState": "off" },
+      "16,27": { "defaultState": "off" },
+      "18,29": { "defaultState": "off" }
+    }
+
+
+  }

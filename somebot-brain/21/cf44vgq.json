@@ -1,0 +1,134 @@
+  {
+
+
+    "info":
+    {
+      "name": "Vortex",
+      "author": "SaltyBalls"
+    },
+
+
+    "switches":
+    {
+
+      "11,17":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 25, "y": 20 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 23, "y": 21 } },
+          { "pos": { "x": 27, "y": 21 } },
+          { "pos": { "x": 22, "y": 22 } },
+          { "pos": { "x": 28, "y": 22 } },
+          { "pos": { "x": 21, "y": 23 } },
+          { "pos": { "x": 29, "y": 23 } },
+          { "pos": { "x": 21, "y": 24 } },
+          { "pos": { "x": 29, "y": 24 } },
+          { "pos": { "x": 21, "y": 25 } },
+          { "pos": { "x": 29, "y": 25 } },
+          { "pos": { "x": 22, "y": 26 } },
+          { "pos": { "x": 28, "y": 26 } },
+          { "pos": { "x": 23, "y": 27 } },
+          { "pos": { "x": 27, "y": 27 } },
+          { "pos": { "x": 24, "y": 28 } },
+          { "pos": { "x": 25, "y": 28 } },
+          { "pos": { "x": 26, "y": 28 } }
+        ]
+      },
+
+      "48,20":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 42, "y": 29 } },
+          { "pos": { "x": 43, "y": 29 } },
+          { "pos": { "x": 44, "y": 29 } },
+          { "pos": { "x": 45, "y": 29 } },
+          { "pos": { "x": 46, "y": 29 } },
+          { "pos": { "x": 47, "y": 29 } }
+        ]
+      },
+
+      "2,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 3, "y": 19 } },
+          { "pos": { "x": 4, "y": 19 } },
+          { "pos": { "x": 5, "y": 19 } },
+          { "pos": { "x": 6, "y": 19 } },
+          { "pos": { "x": 7, "y": 19 } },
+          { "pos": { "x": 8, "y": 19 } }
+        ]
+      },
+
+      "39,31":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 20 } },
+          { "pos": { "x": 25, "y": 20 } },
+          { "pos": { "x": 26, "y": 20 } },
+          { "pos": { "x": 23, "y": 21 } },
+          { "pos": { "x": 27, "y": 21 } },
+          { "pos": { "x": 22, "y": 22 } },
+          { "pos": { "x": 28, "y": 22 } },
+          { "pos": { "x": 21, "y": 23 } },
+          { "pos": { "x": 29, "y": 23 } },
+          { "pos": { "x": 21, "y": 24 } },
+          { "pos": { "x": 29, "y": 24 } },
+          { "pos": { "x": 21, "y": 25 } },
+          { "pos": { "x": 29, "y": 25 } },
+          { "pos": { "x": 22, "y": 26 } },
+          { "pos": { "x": 28, "y": 26 } },
+          { "pos": { "x": 23, "y": 27 } },
+          { "pos": { "x": 27, "y": 27 } },
+          { "pos": { "x": 24, "y": 28 } },
+          { "pos": { "x": 25, "y": 28 } },
+          { "pos": { "x": 26, "y": 28 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "24,20": { "defaultState": "off" },
+      "25,20": { "defaultState": "off" },
+      "26,20": { "defaultState": "off" },
+      "23,21": { "defaultState": "off" },
+      "27,21": { "defaultState": "off" },
+      "22,22": { "defaultState": "off" },
+      "28,22": { "defaultState": "off" },
+      "21,23": { "defaultState": "off" },
+      "29,23": { "defaultState": "off" },
+      "21,24": { "defaultState": "off" },
+      "29,24": { "defaultState": "off" },
+      "21,25": { "defaultState": "off" },
+      "29,25": { "defaultState": "off" },
+      "22,26": { "defaultState": "off" },
+      "28,26": { "defaultState": "off" },
+      "23,27": { "defaultState": "off" },
+      "27,27": { "defaultState": "off" },
+      "24,28": { "defaultState": "off" },
+      "25,28": { "defaultState": "off" },
+      "26,28": { "defaultState": "off" },
+      "42,29": { "defaultState": "on" },
+      "43,29": { "defaultState": "on" },
+      "44,29": { "defaultState": "on" },
+      "45,29": { "defaultState": "on" },
+      "46,29": { "defaultState": "on" },
+      "47,29": { "defaultState": "on" },
+      "3,19": { "defaultState": "on" },
+      "4,19": { "defaultState": "on" },
+      "5,19": { "defaultState": "on" },
+      "6,19": { "defaultState": "on" },
+      "7,19": { "defaultState": "on" },
+      "8,19": { "defaultState": "on" }
+    }
+
+
+  }

@@ -1,0 +1,38 @@
+{
+
+
+    "info":
+    {
+      "name": "X-Portal",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "": {
+            "toggle": [
+
+             ] 
+       }
+    },
+    "fields": {
+
+    },
+
+    "portals": {
+    "2,2": { "destination": { "x": 10, "y": 18 }, "cooldown": 250 },
+    "2,7": { "destination": { "x": 10, "y": 20 }, "cooldown": 250 },
+    "10,18": { "destination": { "x": 2, "y": 2 }, "cooldown": 250 },
+    "10,20": { "destination": { "x": 2, "y": 7 }, "cooldown": 250 },
+    "2,36": { "destination": { "x": 10, "y": 23 }, "cooldown": 250 },
+    "2,41": { "destination": { "x": 10, "y": 25 }, "cooldown": 250 },
+    "10,23": { "destination": { "x": 2, "y": 36 }, "cooldown": 250 },
+    "10,25": { "destination": { "x": 2, "y": 41 }, "cooldown": 250 },
+    "50,2": { "destination": { "x": 42, "y": 18 }, "cooldown": 250 },
+    "50,7": { "destination": { "x": 42, "y": 20 }, "cooldown": 250 },
+    "42,23": { "destination": { "x": 50, "y": 36 }, "cooldown": 250 },
+    "42,25": { "destination": { "x": 50, "y": 41 }, "cooldown": 250 },
+    "50,36": { "destination": { "x": 42, "y": 23 }, "cooldown": 250 },
+    "50,41": { "destination": { "x": 42, "y": 25 }, "cooldown": 250 },
+    "42,18": { "destination": { "x": 50, "y": 2 }, "cooldown": 250 },
+    "42,20": { "destination": { "x": 50, "y": 7 }, "cooldown": 250 }
+    }
+}

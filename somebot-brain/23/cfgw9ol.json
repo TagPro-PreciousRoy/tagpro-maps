@@ -1,0 +1,30 @@
+  {
+
+
+    "info":
+    {
+      "name": "BomberMarsDome",
+      "author": "Pyopi"
+    },
+
+
+    "switches":
+    {
+
+    },
+
+  "marsballs": [
+    { "x": 24, "y": 24 },
+    { "x": 24, "y": 27 },
+    { "x": 24, "y": 21 },
+    { "x": 21, "y": 24 },
+    { "x": 27, "y": 24 }
+  ],
+
+    "fields":
+    {
+
+    }
+
+
+  }

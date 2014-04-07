@@ -1,0 +1,90 @@
+{
+    "info": {
+        "name": "Wizard",
+        "author": "BallorNothin"
+    },
+    "switches": {
+        "13,22": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 18,
+                        "y": 21
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 18,
+                        "y": 22
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 18,
+                        "y": 23
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 18,
+                        "y": 24
+                    }
+                }
+            ]
+        },
+        "29,22": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 24,
+                        "y": 21
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 24,
+                        "y": 22
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 24,
+                        "y": 23
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 24,
+                        "y": 24
+                    }
+                }
+            ]
+        }
+    },
+    "fields": {
+        "18,21": {
+            "defaultState": "off"
+        },
+        "18,22": {
+            "defaultState": "off"
+        },
+        "18,23": {
+            "defaultState": "off"
+        },
+        "18,24": {
+            "defaultState": "off"
+        },
+        "24,21": {
+            "defaultState": "off"
+        },
+        "24,22": {
+            "defaultState": "off"
+        },
+        "24,23": {
+            "defaultState": "off"
+        },
+        "24,24": {
+            "defaultState": "off"
+        }
+    }
+}

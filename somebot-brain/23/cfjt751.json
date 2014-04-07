@@ -1,0 +1,52 @@
+  {
+
+
+    "info":
+    {
+      "name": "Easy",
+      "author": "Danny"
+    },
+
+
+    "switches":
+    {
+
+      "5,19":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 6, "y": 15 } },
+          { "pos": { "x": 6, "y": 18 } },
+          { "pos": { "x": 6, "y": 20 } },
+          { "pos": { "x": 6, "y": 23 } }
+        ]
+      },
+
+      "43,19":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 42, "y": 15 } },
+          { "pos": { "x": 42, "y": 18 } },
+          { "pos": { "x": 42, "y": 20 } },
+          { "pos": { "x": 42, "y": 23 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "6,15": { "defaultState": "off" },
+      "6,18": { "defaultState": "off" },
+      "6,20": { "defaultState": "off" },
+      "6,23": { "defaultState": "off" },
+      "42,15": { "defaultState": "off" },
+      "42,18": { "defaultState": "off" },
+      "42,20": { "defaultState": "off" },
+      "42,23": { "defaultState": "off" }
+    }
+
+
+  }

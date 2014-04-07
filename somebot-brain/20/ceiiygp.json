@@ -1,0 +1,22 @@
+{
+    "info": {
+        "name": "Port",
+        "author": "Noobkin"
+    },
+
+    "switches": {
+    },
+
+    "fields": {
+       
+    },
+    "portals": {
+    
+    "9,12": { "destination": { "x":60 , "y": 35 }, "cooldown": 1000 },
+    "60,35": { "destination": { "x":9 , "y": 12 }, "cooldown": 1000 },
+    "4,12": { "destination": { "x":65 , "y": 35 }, "cooldown": 1000 },
+    "65,35": { "destination": { "x":4 , "y": 12 }, "cooldown": 1000 },
+    "22,26": { "destination": { "x":22 , "y": 35 }, "cooldown": 15000 },    
+    "47,21": { "destination": { "x":47 , "y": 12 }, "cooldown": 15000 }
+}  
+}

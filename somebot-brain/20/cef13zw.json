@@ -1,0 +1,90 @@
+	
+
+    {
+     
+     
+        "info":
+        {
+          "name": "Elimination1v1multi",
+          "author": "NewCompte"
+        },
+     
+     
+        "switches":
+        {
+     
+        },
+     
+     
+        "fields":
+        {
+        },
+     
+        "portals":
+        {
+            "2,7": { "destination": { "x": 3, "y": 3 }, "cooldown": 720000},
+            "12,7": { "destination": { "x": 11, "y": 3 }, "cooldown": 720000},
+            "20,7": { "destination": { "x": 21, "y": 3 }, "cooldown": 720000},
+            "30,7": { "destination": { "x": 29, "y": 3 }, "cooldown": 720000},
+            "38,7": { "destination": { "x": 39, "y": 3 }, "cooldown": 720000},
+            "48,7": { "destination": { "x": 47, "y": 3 }, "cooldown": 720000},
+            "56,7": { "destination": { "x": 57, "y": 3 }, "cooldown": 720000},
+            "66,7": { "destination": { "x": 65, "y": 3 }, "cooldown": 720000},
+            "2,12": { "destination": { "x": 3, "y": 16 }, "cooldown": 720000},
+            "12,12": { "destination": { "x": 11, "y": 16 }, "cooldown": 720000},
+            "20,12": { "destination": { "x": 21, "y": 16 }, "cooldown": 720000},
+            "30,12": { "destination": { "x": 29, "y": 16 }, "cooldown": 720000},
+            "38,12": { "destination": { "x": 39, "y": 16 }, "cooldown": 720000},
+            "48,12": { "destination": { "x": 47, "y": 16 }, "cooldown": 720000},
+            "56,12": { "destination": { "x": 57, "y": 16 }, "cooldown": 720000},
+            "66,12": { "destination": { "x": 65, "y": 16 }, "cooldown": 720000},
+            "2,32": { "destination": { "x": 3, "y": 28 }, "cooldown": 720000},
+            "12,32": { "destination": { "x": 11, "y": 28 }, "cooldown": 720000},
+            "20,32": { "destination": { "x": 21, "y": 28 }, "cooldown": 720000},
+            "30,32": { "destination": { "x": 29, "y": 28 }, "cooldown": 720000},
+            "38,32": { "destination": { "x": 39, "y": 28 }, "cooldown": 720000},
+            "48,32": { "destination": { "x": 47, "y": 28 }, "cooldown": 720000},
+            "56,32": { "destination": { "x": 57, "y": 28 }, "cooldown": 720000},
+            "66,32": { "destination": { "x": 65, "y": 28 }, "cooldown": 720000},
+            "2,37": { "destination": { "x": 3, "y": 41 }, "cooldown": 720000},
+            "12,37": { "destination": { "x": 11, "y": 41 }, "cooldown": 720000},
+            "20,37": { "destination": { "x": 21, "y": 41 }, "cooldown": 720000},
+            "30,37": { "destination": { "x": 29, "y": 41 }, "cooldown": 720000},
+            "38,37": { "destination": { "x": 39, "y": 41 }, "cooldown": 720000},
+            "48,37": { "destination": { "x": 47, "y": 41 }, "cooldown": 720000},
+            "56,37": { "destination": { "x": 57, "y": 41 }, "cooldown": 720000},
+            "66,37": { "destination": { "x": 65, "y": 41 }, "cooldown": 720000},
+            "3,3": {"cooldown": 0 },
+            "11,3": {"cooldown": 0 },
+            "21,3": {"cooldown": 0 },
+            "29,3": {"cooldown": 0 },
+            "39,3": {"cooldown": 0 },
+            "47,3": {"cooldown": 0 },
+            "57,3": {"cooldown": 0 },
+            "65,3": {"cooldown": 0 },
+            "3,16": {"cooldown": 0 },
+            "11,16": {"cooldown": 0 },
+            "21,16": {"cooldown": 0 },
+            "29,16": {"cooldown": 0 },
+            "39,16": {"cooldown": 0 },
+            "47,16": {"cooldown": 0 },
+            "57,16": {"cooldown": 0 },
+            "65,16": {"cooldown": 0 },
+            "3,28": {"cooldown": 0 },
+            "11,28": {"cooldown": 0 },
+            "21,28": {"cooldown": 0 },
+            "29,28": {"cooldown": 0 },
+            "39,28": {"cooldown": 0 },
+            "47,28": {"cooldown": 0 },
+            "57,28": {"cooldown": 0 },
+            "65,28": {"cooldown": 0 },
+            "3,41": {"cooldown": 0 },
+            "11,41": {"cooldown": 0 },
+            "21,41": {"cooldown": 0 },
+            "29,41": {"cooldown": 0 },
+            "39,41": {"cooldown": 0 },
+            "47,41": {"cooldown": 0 },
+            "57,41": {"cooldown": 0 },
+            "65,41": {"cooldown": 0 }
+        }
+      }

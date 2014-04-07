@@ -1,0 +1,98 @@
+{
+    "info": {
+        "name": "DEATHMATCH4",
+        "author": "Noobkin&Jesus"
+    },
+    "switches": {
+        "12,12": {
+            "toggle": [
+                { "pos": { "x": 8, "y": 12 } },
+                { "pos": { "x": 9, "y": 12 } },
+                { "pos": { "x": 12, "y": 8 } },
+                { "pos": { "x": 12, "y": 9 } }
+            ]
+        },
+        "38,22": {
+            "toggle": [
+                { "pos": { "x": 41, "y": 22 } },
+                { "pos": { "x": 42, "y": 22 } },
+                { "pos": { "x": 38, "y": 25 } },
+                { "pos": { "x": 38, "y": 26 } }
+            ]
+        },
+	"29,21": {
+            "toggle": [
+                { "pos": { "x": 22, "y": 16 } },
+                { "pos": { "x": 22, "y": 17 } },
+                { "pos": { "x": 22, "y": 18 } },
+                { "pos": { "x": 22, "y": 19 } },
+		{ "pos": { "x": 22, "y": 15 } },
+                { "pos": { "x": 23, "y": 16 } },
+                { "pos": { "x": 23, "y": 17 } },
+                { "pos": { "x": 23, "y": 18 } },
+                { "pos": { "x": 23, "y": 19 } },
+		{ "pos": { "x": 23, "y": 15 } },
+		{ "pos": { "x": 24, "y": 16 } },
+                { "pos": { "x": 24, "y": 17 } },
+                { "pos": { "x": 24, "y": 18 } },
+                { "pos": { "x": 24, "y": 19 } },
+		{ "pos": { "x": 24, "y": 15 } },
+                { "pos": { "x": 25, "y": 16 } },
+                { "pos": { "x": 25, "y": 18 } },
+                { "pos": { "x": 25, "y": 19 } },
+		{ "pos": { "x": 25, "y": 15 } },
+                { "pos": { "x": 26, "y": 16 } },
+                { "pos": { "x": 26, "y": 17 } },
+                { "pos": { "x": 26, "y": 18 } },
+                { "pos": { "x": 26, "y": 19 } },
+		{ "pos": { "x": 26, "y": 15 } },
+                { "pos": { "x": 27, "y": 16 } },
+                { "pos": { "x": 27, "y": 17 } },
+                { "pos": { "x": 27, "y": 18 } },
+                { "pos": { "x": 27, "y": 19 } },
+		{ "pos": { "x": 27, "y": 15 } },
+		{ "pos": { "x": 28, "y": 16 } },
+                { "pos": { "x": 28, "y": 17 } },
+                { "pos": { "x": 28, "y": 18 } },
+                { "pos": { "x": 28, "y": 19 } },
+		{ "pos": { "x": 28, "y": 15 } }
+            ]
+        }
+    },
+    "fields": {
+    
+    },
+    "portals": {
+    "49,33": { "destination": { "x":25 , "y": 17 }, "cooldown": 10 },
+    "1,1": { "destination": { "x":25 , "y": 17 }, "cooldown": 10 },
+    
+    "8,5": { "destination": { "x":9 , "y": 16 }, "cooldown": 720000 },
+    "9,5": { "destination": { "x":9 , "y": 16 }, "cooldown": 720000 },
+    "10,5": { "destination": { "x":9 , "y": 16 }, "cooldown": 720000 },
+    "11,5": { "destination": { "x":9 , "y": 16 }, "cooldown": 720000 },
+    "48,29": { "destination": { "x":9 , "y": 16 }, "cooldown": 720000 },
+    "49,29": { "destination": { "x":9 , "y": 16 }, "cooldown": 720000 },
+
+    "5,8": { "destination": { "x":36 , "y": 9 }, "cooldown": 720000 },
+    "5,9": { "destination": { "x":36 , "y": 9 }, "cooldown": 720000 },
+    "5,10": { "destination": { "x":36 , "y": 9 }, "cooldown": 720000 },    
+    "5,11": { "destination": { "x":36 , "y": 9 }, "cooldown": 720000 },    
+	"45,32": { "destination": { "x":36 , "y": 9 }, "cooldown": 720000 },
+	"45,33": { "destination": { "x":36 , "y": 9 }, "cooldown": 720000 },
+	
+	"1,5": { "destination": { "x":41 , "y": 18 }, "cooldown": 720000 },
+	"2,5": { "destination": { "x":41 , "y": 18 }, "cooldown": 720000 },
+	"39,29": { "destination": { "x":41 , "y": 18 }, "cooldown": 720000 },
+	"40,29": { "destination": { "x":41 , "y": 18 }, "cooldown": 720000 },
+	"41,29": { "destination": { "x":41 , "y": 18 }, "cooldown": 720000 },
+	"42,29": { "destination": { "x":41 , "y": 18 }, "cooldown": 720000 },
+	
+	"5,1": { "destination": { "x":14 , "y": 25 }, "cooldown": 720000 },
+	"5,2": { "destination": { "x":14 , "y": 25 }, "cooldown": 720000 },
+	"45,23": { "destination": { "x":14 , "y": 25 }, "cooldown": 720000 },
+	"45,24": { "destination": { "x":14 , "y": 25 }, "cooldown": 720000 },
+	"45,25": { "destination": { "x":14 , "y": 25 }, "cooldown": 720000 },
+	"45,26": { "destination": { "x":14 , "y": 25 }, "cooldown": 720000 }
+	    
+	}
+}

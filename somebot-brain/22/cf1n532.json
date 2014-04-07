@@ -1,0 +1,115 @@
+{
+
+    "info":
+    {
+      "name": "Rhino 3.0",
+      "author": "mom//Hazlexnut"
+    },
+
+    "switches": {
+        "1,1": {
+            "toggle": [ { "pos": { "x": 0, "y": 0 } }
+            ]
+        },
+        "22,9": {
+            "toggle": [
+                { "pos": { "x": 26, "y": 7 } },
+                { "pos": { "x": 26, "y": 8 } },
+                { "pos": { "x": 26, "y": 9 } },
+                { "pos": { "x": 27, "y": 7 } },
+                { "pos": { "x": 27, "y": 8 } },
+                { "pos": { "x": 27, "y": 9 } },
+                { "pos": { "x": 27, "y": 10 } },
+                { "pos": { "x": 28, "y": 8 } },
+                { "pos": { "x": 28, "y": 9 } },
+                { "pos": { "x": 28, "y": 10 } },
+                { "pos": { "x": 28, "y": 11 } },
+                { "pos": { "x": 29, "y": 8 } },
+                { "pos": { "x": 29, "y": 9 } },
+                { "pos": { "x": 29, "y": 10 } },
+                { "pos": { "x": 29, "y": 11 } },
+                { "pos": { "x": 30, "y": 8 } },
+                { "pos": { "x": 30, "y": 9 } },
+                { "pos": { "x": 30, "y": 10 } },
+                { "pos": { "x": 30, "y": 11 } },
+                { "pos": { "x": 32, "y": 7 } },
+                { "pos": { "x": 32, "y": 8 } },
+                { "pos": { "x": 32, "y": 9 } },
+                { "pos": { "x": 31, "y": 7 } },
+                { "pos": { "x": 31, "y": 8 } },
+                { "pos": { "x": 31, "y": 9 } },
+                { "pos": { "x": 31, "y": 10 } }
+            ]
+        },
+        "57,1": {
+            "toggle": [{ "pos": { "x": 58, "y": 0 } }
+            ]
+        },
+        "36,9": {
+            "toggle": [
+                { "pos": { "x": 26, "y": 7 } },
+                { "pos": { "x": 26, "y": 8 } },
+                { "pos": { "x": 26, "y": 9 } },
+                { "pos": { "x": 27, "y": 7 } },
+                { "pos": { "x": 27, "y": 8 } },
+                { "pos": { "x": 27, "y": 9 } },
+                { "pos": { "x": 27, "y": 10 } },
+                { "pos": { "x": 28, "y": 8 } },
+                { "pos": { "x": 28, "y": 9 } },
+                { "pos": { "x": 28, "y": 10 } },
+                { "pos": { "x": 28, "y": 11 } },
+                { "pos": { "x": 29, "y": 8 } },
+                { "pos": { "x": 29, "y": 9 } },
+                { "pos": { "x": 29, "y": 10 } },
+                { "pos": { "x": 29, "y": 11 } },
+                { "pos": { "x": 30, "y": 8 } },
+                { "pos": { "x": 30, "y": 9 } },
+                { "pos": { "x": 30, "y": 10 } },
+                { "pos": { "x": 30, "y": 11 } },
+                { "pos": { "x": 32, "y": 7 } },
+                { "pos": { "x": 32, "y": 8 } },
+                { "pos": { "x": 32, "y": 9 } },
+                { "pos": { "x": 31, "y": 7 } },
+                { "pos": { "x": 31, "y": 8 } },
+                { "pos": { "x": 31, "y": 9 } },
+                { "pos": { "x": 31, "y": 10 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "26,7" : { "defaultState": "off" },
+        "26,8" : { "defaultState": "off" },
+        "26,9" : { "defaultState": "off" },
+        "27,7" : { "defaultState": "off" },
+        "27,8" : { "defaultState": "off" },
+        "27,9" : { "defaultState": "off" },
+        "27,10" : { "defaultState": "off" },
+        "28,8" : { "defaultState": "off" },
+        "28,9" : { "defaultState": "off" },
+        "28,10" : { "defaultState": "off" },
+        "28,11" : { "defaultState": "off" },
+        "29,8" : { "defaultState": "off" },
+        "29,9" : { "defaultState": "off" },
+        "29,10" : { "defaultState": "off" },
+        "29,11" : { "defaultState": "off" },
+        "30,8" : { "defaultState": "off" },
+        "30,9" : { "defaultState": "off" },
+        "30,10" : { "defaultState": "off" },
+        "30,11" : { "defaultState": "off" },
+        "31,7" : { "defaultState": "off" },
+        "31,8" : { "defaultState": "off" },
+        "31,9" : { "defaultState": "off" },
+        "31,10" : { "defaultState": "off" },
+        "32,7" : { "defaultState": "off" },
+        "32,8" : { "defaultState": "off" },
+        "32,9" : { "defaultState": "off" }
+
+   	},
+
+    "portals":
+	{
+		"29,1": { "destination": { "x": 29, "y": 28 }, "cooldown": 2},
+		"29,28": {"cooldown": 0 }
+	}
+}

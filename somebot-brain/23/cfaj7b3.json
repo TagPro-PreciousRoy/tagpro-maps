@@ -1,0 +1,84 @@
+  {
+
+
+    "info":
+    {
+      "name": "picklesvF",
+      "author": "love_"
+    },
+
+
+    "switches":
+    {
+
+      "21,2":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 8 } },
+          { "pos": { "x": 27, "y": 8 } },
+          { "pos": { "x": 14, "y": 9 } },
+          { "pos": { "x": 16, "y": 9 } },
+          { "pos": { "x": 26, "y": 9 } },
+          { "pos": { "x": 28, "y": 9 } },
+          { "pos": { "x": 14, "y": 10 } },
+          { "pos": { "x": 16, "y": 10 } },
+          { "pos": { "x": 26, "y": 10 } },
+          { "pos": { "x": 28, "y": 10 } },
+          { "pos": { "x": 15, "y": 11 } },
+          { "pos": { "x": 27, "y": 11 } }
+        ]
+      },
+
+      "21,33":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 24 } },
+          { "pos": { "x": 27, "y": 24 } },
+          { "pos": { "x": 14, "y": 25 } },
+          { "pos": { "x": 16, "y": 25 } },
+          { "pos": { "x": 26, "y": 25 } },
+          { "pos": { "x": 28, "y": 25 } },
+          { "pos": { "x": 14, "y": 26 } },
+          { "pos": { "x": 16, "y": 26 } },
+          { "pos": { "x": 26, "y": 26 } },
+          { "pos": { "x": 28, "y": 26 } },
+          { "pos": { "x": 15, "y": 27 } },
+          { "pos": { "x": 27, "y": 27 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "15,8": { "defaultState": "on" },
+      "27,8": { "defaultState": "on" },
+      "14,9": { "defaultState": "on" },
+      "16,9": { "defaultState": "on" },
+      "26,9": { "defaultState": "on" },
+      "28,9": { "defaultState": "on" },
+      "14,10": { "defaultState": "on" },
+      "16,10": { "defaultState": "on" },
+      "26,10": { "defaultState": "on" },
+      "28,10": { "defaultState": "on" },
+      "15,11": { "defaultState": "on" },
+      "27,11": { "defaultState": "on" },
+      "15,24": { "defaultState": "on" },
+      "27,24": { "defaultState": "on" },
+      "14,25": { "defaultState": "on" },
+      "16,25": { "defaultState": "on" },
+      "26,25": { "defaultState": "on" },
+      "28,25": { "defaultState": "on" },
+      "14,26": { "defaultState": "on" },
+      "16,26": { "defaultState": "on" },
+      "26,26": { "defaultState": "on" },
+      "28,26": { "defaultState": "on" },
+      "15,27": { "defaultState": "on" },
+      "27,27": { "defaultState": "on" }
+    }
+
+
+  }

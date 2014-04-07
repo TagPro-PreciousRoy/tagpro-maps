@@ -1,0 +1,98 @@
+ {
+
+
+    "info":
+    {
+      "name": "Window",
+      "author": "ABNew"
+    },
+
+
+    "switches":
+    {
+
+      "20,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 19, "y": 18 } },
+          { "pos": { "x": 19, "y": 19 } },
+          { "pos": { "x": 19, "y": 20 } },
+          { "pos": { "x": 19, "y": 21 } },
+          { "pos": { "x": 19, "y": 22 } },
+          { "pos": { "x": 19, "y": 23 } }
+        ]
+      },
+
+      "30,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 18 } },
+          { "pos": { "x": 31, "y": 19 } },
+          { "pos": { "x": 31, "y": 20 } },
+          { "pos": { "x": 31, "y": 21 } },
+          { "pos": { "x": 31, "y": 22 } },
+          { "pos": { "x": 31, "y": 23 } }
+        ]
+      },
+
+      "20,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 19, "y": 27 } },
+          { "pos": { "x": 19, "y": 28 } },
+          { "pos": { "x": 19, "y": 29 } },
+          { "pos": { "x": 19, "y": 30 } },
+          { "pos": { "x": 19, "y": 31 } },
+          { "pos": { "x": 19, "y": 32 } }
+        ]
+      },
+
+      "30,26":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 31, "y": 27 } },
+          { "pos": { "x": 31, "y": 28 } },
+          { "pos": { "x": 31, "y": 29 } },
+          { "pos": { "x": 31, "y": 30 } },
+          { "pos": { "x": 31, "y": 31 } },
+          { "pos": { "x": 31, "y": 32 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "19,18": { "defaultState": "off" },
+      "19,19": { "defaultState": "off" },
+      "19,20": { "defaultState": "off" },
+      "19,21": { "defaultState": "off" },
+      "19,22": { "defaultState": "off" },
+      "19,23": { "defaultState": "off" },
+      "31,18": { "defaultState": "off" },
+      "31,19": { "defaultState": "off" },
+      "31,20": { "defaultState": "off" },
+      "31,21": { "defaultState": "off" },
+      "31,22": { "defaultState": "off" },
+      "31,23": { "defaultState": "off" },
+      "19,27": { "defaultState": "off" },
+      "19,28": { "defaultState": "off" },
+      "19,29": { "defaultState": "off" },
+      "19,30": { "defaultState": "off" },
+      "19,31": { "defaultState": "off" },
+      "19,32": { "defaultState": "off" },
+      "31,27": { "defaultState": "off" },
+      "31,28": { "defaultState": "off" },
+      "31,29": { "defaultState": "off" },
+      "31,30": { "defaultState": "off" },
+      "31,31": { "defaultState": "off" },
+      "31,32": { "defaultState": "off" }
+    }
+
+
+  }

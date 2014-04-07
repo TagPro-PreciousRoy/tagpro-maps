@@ -1,0 +1,54 @@
+  {
+
+
+    "info":
+    {
+      "name": "Gatekeepers Redux",
+      "author": "Mercury"
+    },
+
+
+    "switches":
+    {
+
+      "15,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 16 } },
+          { "pos": { "x": 17, "y": 17 } },
+          { "pos": { "x": 16, "y": 18 } },
+          { "pos": { "x": 33, "y": 31 } },
+          { "pos": { "x": 32, "y": 32 } },
+          { "pos": { "x": 31, "y": 33 } }
+        ]
+      },
+
+      "34,28":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 16 } },
+          { "pos": { "x": 17, "y": 17 } },
+          { "pos": { "x": 16, "y": 18 } },
+          { "pos": { "x": 33, "y": 31 } },
+          { "pos": { "x": 32, "y": 32 } },
+          { "pos": { "x": 31, "y": 33 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "18,16": { "defaultState": "on" },
+      "17,17": { "defaultState": "on" },
+      "16,18": { "defaultState": "on" },
+      "33,31": { "defaultState": "on" },
+      "32,32": { "defaultState": "on" },
+      "31,33": { "defaultState": "on" }
+    }
+
+
+  }

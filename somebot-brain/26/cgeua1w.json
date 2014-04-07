@@ -1,0 +1,1 @@
+{"info":{"name":"Scurry","author":"Rapture"},"switches":{"15,23":{"toggle":[{"pos":{"x":20,"y":16}}]},"31,19":{"toggle":[{"pos":{"x":30,"y":20}}]},"33,19":{"toggle":[{"pos":{"x":34,"y":20}}]},"49,23":{"toggle":[{"pos":{"x":44,"y":16}}]}},"fields":{"30,20":{"defaultState":"blue"},"34,20":{"defaultState":"red"}},"portals":{}}

@@ -1,0 +1,86 @@
+{
+ 
+    "info":
+    {
+      "name": "Football",
+      "author": "Felix"
+    },
+ 
+    "switches":
+    {
+ 
+      "10,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 11, "y": 16 } },
+          { "pos": { "x": 12, "y": 16 } },
+          { "pos": { "x": 13, "y": 16 } },
+          { "pos": { "x": 11, "y": 17 } },
+          { "pos": { "x": 12, "y": 17 } },
+          { "pos": { "x": 13, "y": 17 } },
+          { "pos": { "x": 11, "y": 18 } },
+          { "pos": { "x": 12, "y": 18 } },
+          { "pos": { "x": 13, "y": 18 } }
+        ]
+      },
+ 
+      "10,29":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 13, "y": 31 } }
+        ]
+      },
+ 
+      "39,20":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 36, "y": 18 } }
+        ]
+      },
+ 
+      "39,34":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 36, "y": 31 } },
+          { "pos": { "x": 37, "y": 31 } },
+          { "pos": { "x": 38, "y": 31 } },
+          { "pos": { "x": 36, "y": 32 } },
+          { "pos": { "x": 37, "y": 32 } },
+          { "pos": { "x": 38, "y": 32 } },
+          { "pos": { "x": 36, "y": 33 } },
+          { "pos": { "x": 37, "y": 33 } },
+          { "pos": { "x": 38, "y": 33 } }
+        ]
+      }
+ 
+    },
+ 
+    "fields":
+    {
+      "11,16": { "defaultState": "off" },
+      "11,17": { "defaultState": "off" },
+      "11,18": { "defaultState": "off" },
+      "12,16": { "defaultState": "off" },
+      "12,17": { "defaultState": "off" },
+      "12,18": { "defaultState": "off" },
+      "13,16": { "defaultState": "off" },
+      "13,17": { "defaultState": "off" },
+      "13,18": { "defaultState": "off" },
+      "13,31": { "defaultState": "on" },
+      "36,18": { "defaultState": "on" },
+      "36,31": { "defaultState": "off" },
+      "36,32": { "defaultState": "off" },
+      "36,33": { "defaultState": "off" },
+      "37,31": { "defaultState": "off" },
+      "37,32": { "defaultState": "off" },
+      "37,33": { "defaultState": "off" },
+      "38,31": { "defaultState": "off" },
+      "38,32": { "defaultState": "off" },
+      "38,33": { "defaultState": "off" }
+    }
+ 
+  }

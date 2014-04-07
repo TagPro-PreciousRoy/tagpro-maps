@@ -1,0 +1,64 @@
+  {
+
+
+    "info":
+    {
+      "name": "WTFdome",
+      "author": "Turtlemansam"
+    },
+
+
+    "switches":
+    {
+
+      "15,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 13 } },
+          { "pos": { "x": 18, "y": 13 } },
+          { "pos": { "x": 19, "y": 13 } },
+          { "pos": { "x": 19, "y": 14 } },
+          { "pos": { "x": 17, "y": 15 } },
+          { "pos": { "x": 18, "y": 15 } },
+          { "pos": { "x": 19, "y": 15 } }
+        ]
+      },
+
+      "18,11":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 11, "y": 7 } },
+          { "pos": { "x": 12, "y": 7 } },
+          { "pos": { "x": 13, "y": 7 } },
+          { "pos": { "x": 11, "y": 8 } },
+          { "pos": { "x": 13, "y": 8 } },
+          { "pos": { "x": 11, "y": 9 } },
+          { "pos": { "x": 13, "y": 9 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "17,13": { "defaultState": "on" },
+      "18,13": { "defaultState": "on" },
+      "19,13": { "defaultState": "on" },
+      "19,14": { "defaultState": "on" },
+      "17,15": { "defaultState": "on" },
+      "18,15": { "defaultState": "on" },
+      "19,15": { "defaultState": "on" },
+      "11,7": { "defaultState": "on" },
+      "12,7": { "defaultState": "on" },
+      "13,7": { "defaultState": "on" },
+      "11,8": { "defaultState": "on" },
+      "13,8": { "defaultState": "on" },
+      "11,9": { "defaultState": "on" },
+      "13,9": { "defaultState": "on" }
+    }
+
+
+  }

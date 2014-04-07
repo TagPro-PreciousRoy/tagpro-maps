@@ -1,0 +1,72 @@
+  {
+
+
+    "info":
+    {
+      "name": "Swoop",
+      "author": "David Stern"
+    },
+
+
+    "switches":
+    {
+
+      "23,7":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 4 } },
+          { "pos": { "x": 22, "y": 4 } },
+          { "pos": { "x": 23, "y": 4 } },
+          { "pos": { "x": 21, "y": 5 } },
+          { "pos": { "x": 22, "y": 5 } },
+          { "pos": { "x": 23, "y": 5 } },
+          { "pos": { "x": 21, "y": 6 } },
+          { "pos": { "x": 22, "y": 6 } },
+          { "pos": { "x": 23, "y": 6 } }
+        ]
+      },
+
+      "18,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 43 } },
+          { "pos": { "x": 19, "y": 43 } },
+          { "pos": { "x": 20, "y": 43 } },
+          { "pos": { "x": 18, "y": 44 } },
+          { "pos": { "x": 19, "y": 44 } },
+          { "pos": { "x": 20, "y": 44 } },
+          { "pos": { "x": 18, "y": 45 } },
+          { "pos": { "x": 19, "y": 45 } },
+          { "pos": { "x": 20, "y": 45 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "21,4": { "defaultState": "off" },
+      "22,4": { "defaultState": "off" },
+      "23,4": { "defaultState": "off" },
+      "21,5": { "defaultState": "off" },
+      "22,5": { "defaultState": "off" },
+      "23,5": { "defaultState": "off" },
+      "21,6": { "defaultState": "off" },
+      "22,6": { "defaultState": "off" },
+      "23,6": { "defaultState": "off" },
+      "18,43": { "defaultState": "off" },
+      "19,43": { "defaultState": "off" },
+      "20,43": { "defaultState": "off" },
+      "18,44": { "defaultState": "off" },
+      "19,44": { "defaultState": "off" },
+      "20,44": { "defaultState": "off" },
+      "18,45": { "defaultState": "off" },
+      "19,45": { "defaultState": "off" },
+      "20,45": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,48 @@
+  {
+
+
+    "info":
+    {
+      "name": "kangaroo",
+      "author": "chiinacat"
+    },
+
+
+    "switches":
+    {
+
+      "8,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 5, "y": 13 } },
+          { "pos": { "x": 6, "y": 13 } },
+          { "pos": { "x": 7, "y": 13 } }
+        ]
+      },
+
+      "43,36":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 44, "y": 36 } },
+          { "pos": { "x": 45, "y": 36 } },
+          { "pos": { "x": 46, "y": 36 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "5,13": { "defaultState": "off" },
+      "6,13": { "defaultState": "off" },
+      "7,13": { "defaultState": "off" },
+      "44,36": { "defaultState": "off" },
+      "45,36": { "defaultState": "off" },
+      "46,36": { "defaultState": "off" }
+    }
+
+
+  }

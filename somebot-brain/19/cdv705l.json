@@ -1,0 +1,90 @@
+{
+ 
+ 
+    "info":
+    {
+      "name": "Honeycomb",
+      "author": "ABNew"
+    },
+ 
+ 
+    "switches":
+    {
+ 
+      "17,15":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 9 } },
+          { "pos": { "x": 17, "y": 10 } },
+          { "pos": { "x": 17, "y": 11 } },
+          { "pos": { "x": 17, "y": 12 } },
+          { "pos": { "x": 17, "y": 13 } }
+        ]
+      },
+ 
+      "17,19":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 17, "y": 21 } },
+          { "pos": { "x": 17, "y": 22 } },
+          { "pos": { "x": 17, "y": 23 } },
+          { "pos": { "x": 17, "y": 24 } },
+          { "pos": { "x": 17, "y": 25 } }
+        ]
+      },
+ 
+      "29,27":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 29, "y": 21 } },
+          { "pos": { "x": 29, "y": 22 } },
+          { "pos": { "x": 29, "y": 23 } },
+          { "pos": { "x": 29, "y": 24 } },
+          { "pos": { "x": 29, "y": 25 } }
+        ]
+      },
+ 
+      "29,31":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 29, "y": 33 } },
+          { "pos": { "x": 29, "y": 34 } },
+          { "pos": { "x": 29, "y": 35 } },
+          { "pos": { "x": 29, "y": 36 } },
+          { "pos": { "x": 29, "y": 37 } }
+        ]
+      }
+ 
+    },
+ 
+ 
+    "fields":
+    {
+      "17,9": { "defaultState": "off" },
+      "17,10": { "defaultState": "off" },
+      "17,11": { "defaultState": "off" },
+      "17,12": { "defaultState": "off" },
+      "17,13": { "defaultState": "off" },
+      "17,21": { "defaultState": "off" },
+      "17,22": { "defaultState": "off" },
+      "17,23": { "defaultState": "off" },
+      "17,24": { "defaultState": "off" },
+      "17,25": { "defaultState": "off" },
+      "29,21": { "defaultState": "off" },
+      "29,22": { "defaultState": "off" },
+      "29,23": { "defaultState": "off" },
+      "29,24": { "defaultState": "off" },
+      "29,25": { "defaultState": "off" },
+      "29,33": { "defaultState": "off" },
+      "29,34": { "defaultState": "off" },
+      "29,35": { "defaultState": "off" },
+      "29,36": { "defaultState": "off" },
+      "29,37": { "defaultState": "off" }
+    }
+ 
+ 
+  }

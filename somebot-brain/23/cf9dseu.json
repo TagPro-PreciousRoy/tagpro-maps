@@ -1,0 +1,98 @@
+{
+
+
+    "info":
+    {
+      "name": "Portal-X",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "4,26": {
+            "toggle": [
+                { "pos": { "x": 11, "y": 21 } },
+                { "pos": { "x": 12, "y": 21 } },
+                { "pos": { "x": 13, "y": 21 } },
+                { "pos": { "x": 14, "y": 21 } },
+                { "pos": { "x": 15, "y": 21 } },
+                { "pos": { "x": 16, "y": 21 } },
+                { "pos": { "x": 17, "y": 21 } },
+                { "pos": { "x": 11, "y": 22 } },
+                { "pos": { "x": 12, "y": 22 } },
+                { "pos": { "x": 13, "y": 22 } },
+                { "pos": { "x": 14, "y": 22 } },
+                { "pos": { "x": 15, "y": 22 } },
+                { "pos": { "x": 16, "y": 22 } },
+                { "pos": { "x": 17, "y": 22 } }       
+             ]
+        },
+ 
+        "48,26": {
+            "toggle": [
+                { "pos": { "x": 35, "y": 21 } },
+                { "pos": { "x": 36, "y": 21 } },
+                { "pos": { "x": 37, "y": 21 } },
+                { "pos": { "x": 38, "y": 21 } },
+                { "pos": { "x": 39, "y": 21 } },
+                { "pos": { "x": 40, "y": 21 } },
+                { "pos": { "x": 41, "y": 21 } },
+                { "pos": { "x": 35, "y": 22 } },
+                { "pos": { "x": 36, "y": 22 } },
+                { "pos": { "x": 37, "y": 22 } },
+                { "pos": { "x": 38, "y": 22 } },
+                { "pos": { "x": 39, "y": 22 } },
+                { "pos": { "x": 40, "y": 22 } },
+                { "pos": { "x": 41, "y": 22 } }    
+             ] 
+       }
+    },
+    "fields": {
+        "11,21": { "defaultState": "on" },
+        "12,21": { "defaultState": "on" },
+        "13,21": { "defaultState": "on" },
+        "14,21": { "defaultState": "on" },
+        "15,21": { "defaultState": "on" },
+        "16,21": { "defaultState": "on" },
+        "17,21": { "defaultState": "on" },
+        "11,22": { "defaultState": "on" },
+        "12,22": { "defaultState": "on" },      
+        "13,22": { "defaultState": "on" },
+        "14,22": { "defaultState": "on" },
+        "15,22": { "defaultState": "on" },
+        "16,22": { "defaultState": "on" },
+        "17,22": { "defaultState": "on" },
+        "35,21": { "defaultState": "on" },
+        "36,21": { "defaultState": "on" },
+        "37,21": { "defaultState": "on" },
+        "38,21": { "defaultState": "on" },
+        "39,21": { "defaultState": "on" },
+        "40,21": { "defaultState": "on" },
+        "41,21": { "defaultState": "on" },
+        "35,22": { "defaultState": "on" },
+        "36,22": { "defaultState": "on" },      
+        "37,22": { "defaultState": "on" },
+        "38,22": { "defaultState": "on" },
+        "39,22": { "defaultState": "on" },
+        "40,22": { "defaultState": "on" },
+        "41,22": { "defaultState": "on" }
+
+    },
+
+    "portals": {
+    "2,2": { "destination": { "x": 10, "y": 18 }, "cooldown": 1250 },
+    "2,7": { "destination": { "x": 10, "y": 20 }, "cooldown": 1250 },
+    "2,36": { "destination": { "x": 10, "y": 23 }, "cooldown": 1250 },
+    "2,41": { "destination": { "x": 10, "y":25 }, "cooldown": 1250 },
+    "10,18": { "destination": { "x": 2, "y": 2 }, "cooldown": 1250 },
+    "10,20": { "destination": { "x": 2, "y": 7 }, "cooldown": 1250 },
+    "10,23": { "destination": { "x": 2, "y": 36 }, "cooldown": 1250 },
+    "10,25": { "destination": { "x": 2, "y": 41 }, "cooldown": 1250 },
+    "50,2": { "destination": { "x": 42, "y": 18 }, "cooldown": 1250 },
+    "50,7": { "destination": { "x": 42, "y": 20 }, "cooldown": 1250 },
+    "50,36": { "destination": { "x": 42, "y": 23 }, "cooldown": 1250 },
+    "50,41": { "destination": { "x": 42, "y": 25 }, "cooldown": 1250 },
+    "42,18": { "destination": { "x": 50, "y": 2 }, "cooldown": 1250 },
+    "42,20": { "destination": { "x": 50, "y": 7 }, "cooldown": 1250 },
+    "42,23": { "destination": { "x": 50, "y": 36 }, "cooldown": 1250 },
+    "42,25": { "destination": { "x": 50, "y": 41 }, "cooldown": 1250 }
+    }
+}

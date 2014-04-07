@@ -1,0 +1,52 @@
+  {
+
+
+    "info":
+    {
+      "name": "descend",
+      "author": "zrw"
+    },
+
+
+    "switches":
+    {
+
+      "36,8":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 35, "y": 2 } },
+          { "pos": { "x": 34, "y": 3 } },
+          { "pos": { "x": 33, "y": 4 } },
+          { "pos": { "x": 32, "y": 5 } }
+        ]
+      },
+
+      "14,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 27 } },
+          { "pos": { "x": 17, "y": 28 } },
+          { "pos": { "x": 16, "y": 29 } },
+          { "pos": { "x": 15, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "35,2": { "defaultState": "off" },
+      "34,3": { "defaultState": "off" },
+      "33,4": { "defaultState": "off" },
+      "32,5": { "defaultState": "off" },
+      "18,27": { "defaultState": "off" },
+      "17,28": { "defaultState": "off" },
+      "16,29": { "defaultState": "off" },
+      "15,30": { "defaultState": "off" }
+    }
+
+
+  }

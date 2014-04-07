@@ -1,0 +1,36 @@
+{
+
+    "info":
+    {
+      "name": "Cave",
+      "author": "GeckoPie"
+    },
+	
+	"portals": {
+		"1,47": { "destination": { "x": 33, "y": 14 }, "cooldown": 0 },
+		"33,14": { "destination": { "x": 1, "y": 47 }, "cooldown": 0 },
+		"1,48": { "destination": { "x": 33, "y": 15 }, "cooldown": 0 },
+		"33,15": { "destination": { "x": 1, "y": 48 }, "cooldown": 0 },
+		"1,49": { "destination": { "x": 33, "y": 16 }, "cooldown": 0 },
+		"33,16": { "destination": { "x": 1, "y": 49 }, "cooldown": 0 },
+		"1,50": { "destination": { "x": 33, "y": 17 }, "cooldown": 0 },
+		"33,17": { "destination": { "x": 1, "y": 50 }, "cooldown": 0 },
+		"1,51": { "destination": { "x": 33, "y": 18 }, "cooldown": 0 },
+		"33,18": { "destination": { "x": 1, "y": 51 }, "cooldown": 0 },
+		"1,52": { "destination": { "x": 33, "y": 19 }, "cooldown": 0 },
+		"33,19": { "destination": { "x": 1, "y": 52 }, "cooldown": 0 },
+		"34,47": { "destination": { "x": 2, "y": 80 }, "cooldown": 0 },
+		"2,80": { "destination": { "x": 34, "y": 47 }, "cooldown": 0 },
+		"34,48": { "destination": { "x": 2, "y": 81 }, "cooldown": 0 },
+		"2,81": { "destination": { "x": 34, "y": 48 }, "cooldown": 0 },
+		"34,49": { "destination": { "x": 2, "y": 82 }, "cooldown": 0 },
+		"2,82": { "destination": { "x": 34, "y": 49 }, "cooldown": 0 },
+		"34,50": { "destination": { "x": 2, "y": 83 }, "cooldown": 0 },
+		"2,83": { "destination": { "x": 34, "y": 50 }, "cooldown": 0 },
+		"34,51": { "destination": { "x": 2, "y": 84 }, "cooldown": 0 },
+		"2,84": { "destination": { "x": 34, "y": 51 }, "cooldown": 0 },
+		"34,52": { "destination": { "x": 2, "y": 85 }, "cooldown": 0 },
+		"2,85": { "destination": { "x": 34, "y": 52 }, "cooldown": 0 }
+	}
+
+}

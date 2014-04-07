@@ -1,0 +1,144 @@
+{
+    "info": {
+        "name": "Castles",
+        "author": "F. Reuleaux"
+    },
+
+    "switches": {
+        
+        "23,16": {
+            "toggle": [
+                { "pos": { "x": 25, "y": 19 } },
+                { "pos": { "x": 26, "y": 19 } },
+                { "pos": { "x": 27, "y": 19 } },
+                { "pos": { "x": 25, "y": 20 } },
+                { "pos": { "x": 26, "y": 20 } },
+                { "pos": { "x": 27, "y": 20 } },
+                { "pos": { "x": 25, "y": 21 } },
+                { "pos": { "x": 26, "y": 21 } },
+                { "pos": { "x": 27, "y": 21 } },
+                { "pos": { "x": 25, "y": 22 } },
+                { "pos": { "x": 26, "y": 22 } },
+                { "pos": { "x": 27, "y": 22 } },
+                { "pos": { "x": 25, "y": 23 } },
+                { "pos": { "x": 26, "y": 23 } },
+                { "pos": { "x": 27, "y": 23 } }
+            ]
+        },
+
+        "64,23": {
+            "toggle": [
+                { "pos": { "x": 60, "y": 16 } },
+                { "pos": { "x": 61, "y": 16 } },
+                { "pos": { "x": 62, "y": 16 } },
+                { "pos": { "x": 60, "y": 17 } },
+                { "pos": { "x": 61, "y": 17 } },
+                { "pos": { "x": 62, "y": 17 } },
+                { "pos": { "x": 60, "y": 18 } },
+                { "pos": { "x": 61, "y": 18 } },
+                { "pos": { "x": 62, "y": 18 } },
+                { "pos": { "x": 60, "y": 19 } },
+                { "pos": { "x": 61, "y": 19 } },
+                { "pos": { "x": 62, "y": 19 } },
+                { "pos": { "x": 60, "y": 20 } },
+                { "pos": { "x": 61, "y": 20 } },
+                { "pos": { "x": 62, "y": 20 } }
+            ]
+        },
+
+        "47,12": {
+            "toggle": [
+                { "pos": { "x": 42, "y": 14 } },
+                { "pos": { "x": 43, "y": 14 } },
+                { "pos": { "x": 44, "y": 14 } },
+                { "pos": { "x": 45, "y": 14 } }
+            ]
+        },
+
+        "46,17": {
+            "toggle": [
+                { "pos": { "x": 42, "y": 14 } },
+                { "pos": { "x": 43, "y": 14 } },
+                { "pos": { "x": 44, "y": 14 } },
+                { "pos": { "x": 45, "y": 14 } }
+            ]
+        },
+
+        "41,22": {
+            "toggle": [
+                { "pos": { "x": 42, "y": 25 } },
+                { "pos": { "x": 43, "y": 25 } },
+                { "pos": { "x": 44, "y": 25 } },
+                { "pos": { "x": 45, "y": 25 } }
+            ]
+        },
+
+        "40,27": {
+            "toggle": [
+                { "pos": { "x": 42, "y": 25 } },
+                { "pos": { "x": 43, "y": 25 } },
+                { "pos": { "x": 44, "y": 25 } },
+                { "pos": { "x": 45, "y": 25 } }
+            ]
+        },
+
+        "82,15": {
+            "toggle": [
+                { "pos": { "x": 80, "y": 12 } },
+                { "pos": { "x": 80, "y": 18 } }
+            ]
+        },
+
+        "5,24": {
+            "toggle": [
+                { "pos": { "x": 7, "y": 21 } },
+                { "pos": { "x": 7, "y": 27 } }
+            ]
+        }
+    },
+
+    "fields": {
+
+        "25,19" : { "defaultState": "off" },
+        "26,19" : { "defaultState": "off" },
+        "27,19" : { "defaultState": "off" },
+        "25,20" : { "defaultState": "off" },
+        "26,20" : { "defaultState": "off" },
+        "27,20" : { "defaultState": "off" },    
+        "25,21" : { "defaultState": "off" },
+        "26,21" : { "defaultState": "off" },
+        "27,21" : { "defaultState": "off" },       
+        "25,22" : { "defaultState": "off" },
+        "26,22" : { "defaultState": "off" },
+        "27,22" : { "defaultState": "off" },
+        "25,23" : { "defaultState": "off" },
+        "26,23" : { "defaultState": "off" },
+        "27,23" : { "defaultState": "off" },
+
+        "60,16" : { "defaultState": "off" },
+        "61,16" : { "defaultState": "off" },
+        "62,16" : { "defaultState": "off" },
+        "60,17" : { "defaultState": "off" },
+        "61,17" : { "defaultState": "off" },
+        "62,17" : { "defaultState": "off" },
+        "60,18" : { "defaultState": "off" },
+        "61,18" : { "defaultState": "off" },
+        "62,18" : { "defaultState": "off" },
+        "60,19" : { "defaultState": "off" },
+        "61,19" : { "defaultState": "off" },
+        "62,19" : { "defaultState": "off" },
+        "60,20" : { "defaultState": "off" },
+        "61,20" : { "defaultState": "off" },
+        "62,20" : { "defaultState": "off" },
+
+        "42,14" : { "defaultState": "off" },
+        "43,14" : { "defaultState": "off" },
+        "44,14" : { "defaultState": "off" },
+        "45,14" : { "defaultState": "off" },
+
+        "42,25" : { "defaultState": "off" },
+        "43,25" : { "defaultState": "off" },
+        "44,25" : { "defaultState": "off" },
+        "45,25" : { "defaultState": "off" }
+    }
+}

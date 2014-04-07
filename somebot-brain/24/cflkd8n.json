@@ -1,0 +1,33 @@
+{
+    "info": {
+        "name": "Aside",
+        "author": "BMO"
+    },
+    "switches": {
+        "20,21": {
+            "toggle": [
+                { "pos": { "x": 20, "y": 26 } },
+                { "pos": { "x": 20, "y": 27 } },
+                { "pos": { "x": 20, "y": 28 } }
+            ]
+        },
+        "44,8": {
+            "toggle": [
+                { "pos": { "x": 44, "y": 1 } },
+                { "pos": { "x": 44, "y": 2 } },
+                { "pos": { "x": 44, "y": 3 } }
+            ]
+        }
+    },
+    "fields": {
+    	"20,26" : { "defaultState": "off" },
+        "20,27" : { "defaultState": "off" },
+        "20,28" : { "defaultState": "off" },
+        
+        "44,1" : { "defaultState": "off" },
+        "44,2" : { "defaultState": "off" },
+        "44,3" : { "defaultState": "off" }
+    },
+    "portals": {
+	}
+}

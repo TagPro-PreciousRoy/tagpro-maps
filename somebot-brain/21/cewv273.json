@@ -1,0 +1,51 @@
+{
+    "switches": {
+        "41,9": {
+            "toggle": [
+                { "pos": { "x": 40, "y": 8 } },
+                { "pos": { "x": 40, "y": 7 } },
+                { "pos": { "x": 40, "y": 6 } }
+            ]
+        },
+        "22,29": {
+            "toggle": [
+                { "pos": { "x": 24, "y": 29 } },
+                { "pos": { "x": 25, "y": 29 } },
+                { "pos": { "x": 26, "y": 29 } }
+            ]
+        },
+        "26,38": {
+            "toggle": [
+                { "pos": { "x": 23, "y": 39 } },
+                { "pos": { "x": 25, "y": 39 } },
+                { "pos": { "x": 24, "y": 39 } },
+                { "pos": { "x": 24, "y": 40 } }
+            ]
+        },
+        "40,3": {
+            "toggle": [
+                { "pos": { "x": 40, "y": 2 } },
+                { "pos": { "x": 39, "y": 2 } },
+                { "pos": { "x": 39, "y": 1 } },
+                { "pos": { "x": 40, "y": 1 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "23,39" : { "defaultState": "on" },
+        "24,29" : { "defaultState": "off" },
+        "24,39" : { "defaultState": "on" },
+        "24,40" : { "defaultState": "on" },
+        "25,29" : { "defaultState": "off" },
+        "25,39" : { "defaultState": "on" },
+        "26,29" : { "defaultState": "off" },
+        "39,1" : { "defaultState": "on" },
+        "39,2" : { "defaultState": "on" },
+        "40,1" : { "defaultState": "on" },
+        "40,2" : { "defaultState": "on" },
+        "40,6" : { "defaultState": "off" },
+        "40,7" : { "defaultState": "off" },
+        "40,8" : { "defaultState": "off" }
+    }
+}

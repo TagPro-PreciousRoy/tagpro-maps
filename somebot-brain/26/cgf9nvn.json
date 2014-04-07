@@ -1,0 +1,1 @@
+{"info":{"name":"Boxes","author":"FutureYPR"},"switches":{},"fields":{"6,7":{"defaultState":"blue"},"7,6":{"defaultState":"blue"},"41,42":{"defaultState":"red"},"42,41":{"defaultState":"red"}},"portals":{"6,6":{"destination":{"x":35,"y":35}},"42,42":{"destination":{"x":13,"y":13}}}}

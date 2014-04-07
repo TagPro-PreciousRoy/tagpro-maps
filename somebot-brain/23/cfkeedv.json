@@ -1,0 +1,50 @@
+  {
+
+
+    "info":
+    {
+      "name": "Vortex 2.0",
+      "author": "SaltyBalls"
+    },
+
+
+    "switches":
+    {
+
+      "10,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 15, "y": 23 } },
+          { "pos": { "x": 15, "y": 24 } },
+          { "pos": { "x": 15, "y": 25 } }
+        ]
+      },
+
+      "40,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 35, "y": 23 } },
+          { "pos": { "x": 35, "y": 24 } },
+          { "pos": { "x": 35, "y": 25 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "2,24": { "defaultState": "on" },
+      "48,24": { "defaultState": "on" },
+      "15,23": { "defaultState": "off" },
+      "15,24": { "defaultState": "off" },
+      "15,25": { "defaultState": "off" },
+      "35,23": { "defaultState": "off" },
+      "35,24": { "defaultState": "off" },
+      "35,25": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,72 @@
+  {
+
+
+    "info":
+    {
+      "name": "S Club",
+      "author": "Toobis"
+    },
+
+
+    "switches":
+    {
+
+      "28,21":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 21 } },
+          { "pos": { "x": 32, "y": 21 } },
+          { "pos": { "x": 25, "y": 22 } },
+          { "pos": { "x": 31, "y": 22 } },
+          { "pos": { "x": 26, "y": 23 } },
+          { "pos": { "x": 30, "y": 23 } },
+          { "pos": { "x": 27, "y": 24 } },
+          { "pos": { "x": 29, "y": 24 } },
+          { "pos": { "x": 28, "y": 25 } }
+        ]
+      },
+
+      "18,27":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 18, "y": 23 } },
+          { "pos": { "x": 17, "y": 24 } },
+          { "pos": { "x": 19, "y": 24 } },
+          { "pos": { "x": 16, "y": 25 } },
+          { "pos": { "x": 20, "y": 25 } },
+          { "pos": { "x": 15, "y": 26 } },
+          { "pos": { "x": 21, "y": 26 } },
+          { "pos": { "x": 14, "y": 27 } },
+          { "pos": { "x": 22, "y": 27 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "24,21": { "defaultState": "off" },
+      "32,21": { "defaultState": "off" },
+      "25,22": { "defaultState": "off" },
+      "31,22": { "defaultState": "off" },
+      "26,23": { "defaultState": "off" },
+      "30,23": { "defaultState": "off" },
+      "27,24": { "defaultState": "off" },
+      "29,24": { "defaultState": "off" },
+      "28,25": { "defaultState": "off" },
+      "18,23": { "defaultState": "off" },
+      "17,24": { "defaultState": "off" },
+      "19,24": { "defaultState": "off" },
+      "16,25": { "defaultState": "off" },
+      "20,25": { "defaultState": "off" },
+      "15,26": { "defaultState": "off" },
+      "21,26": { "defaultState": "off" },
+      "14,27": { "defaultState": "off" },
+      "22,27": { "defaultState": "off" }
+    }
+
+
+  }

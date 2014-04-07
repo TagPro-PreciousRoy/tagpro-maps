@@ -1,0 +1,64 @@
+  {
+
+
+    "info":
+    {
+      "name": "catfish",
+      "author": "chiinacat"
+    },
+
+
+    "switches":
+    {
+
+      "14,30":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 10, "y": 24 } },
+          { "pos": { "x": 10, "y": 25 } },
+          { "pos": { "x": 10, "y": 26 } },
+          { "pos": { "x": 10, "y": 27 } },
+          { "pos": { "x": 10, "y": 28 } },
+          { "pos": { "x": 10, "y": 29 } },
+          { "pos": { "x": 10, "y": 30 } }
+        ]
+      },
+
+      "37,30":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 41, "y": 24 } },
+          { "pos": { "x": 41, "y": 25 } },
+          { "pos": { "x": 41, "y": 26 } },
+          { "pos": { "x": 41, "y": 27 } },
+          { "pos": { "x": 41, "y": 28 } },
+          { "pos": { "x": 41, "y": 29 } },
+          { "pos": { "x": 41, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "10,24": { "defaultState": "off" },
+      "10,25": { "defaultState": "off" },
+      "10,26": { "defaultState": "off" },
+      "10,27": { "defaultState": "off" },
+      "10,28": { "defaultState": "off" },
+      "10,29": { "defaultState": "off" },
+      "10,30": { "defaultState": "off" },
+      "41,24": { "defaultState": "off" },
+      "41,25": { "defaultState": "off" },
+      "41,26": { "defaultState": "off" },
+      "41,27": { "defaultState": "off" },
+      "41,28": { "defaultState": "off" },
+      "41,29": { "defaultState": "off" },
+      "41,30": { "defaultState": "off" }
+    }
+
+
+  }

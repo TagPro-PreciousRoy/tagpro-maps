@@ -1,0 +1,153 @@
+  {
+
+
+    "info":
+    {
+      "name": "Diagonally",
+      "author": "The Bizz"
+    },
+
+
+    "switches":
+    {
+
+      "19,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 11 } },
+          { "pos": { "x": 24, "y": 12 } },
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 24, "y": 14 } },
+          { "pos": { "x": 24, "y": 15 } },
+          { "pos": { "x": 24, "y": 16 } }
+        ]
+      },
+
+      "30,24":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 28, "y": 22 } },
+          { "pos": { "x": 32, "y": 26 } }
+        ]
+      },
+
+      "23,31":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 29 } },
+          { "pos": { "x": 25, "y": 33 } }
+        ]
+      },
+
+      "19,35":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 6, "y": 19 } },
+          { "pos": { "x": 17, "y": 35 } },
+          { "pos": { "x": 16, "y": 36 } },
+          { "pos": { "x": 17, "y": 36 } },
+          { "pos": { "x": 18, "y": 36 } },
+          { "pos": { "x": 15, "y": 37 } },
+          { "pos": { "x": 16, "y": 37 } },
+          { "pos": { "x": 17, "y": 37 } },
+          { "pos": { "x": 18, "y": 37 } },
+          { "pos": { "x": 19, "y": 37 } },
+          { "pos": { "x": 14, "y": 38 } },
+          { "pos": { "x": 15, "y": 38 } },
+          { "pos": { "x": 16, "y": 38 } },
+          { "pos": { "x": 17, "y": 38 } },
+          { "pos": { "x": 18, "y": 38 } },
+          { "pos": { "x": 13, "y": 39 } },
+          { "pos": { "x": 14, "y": 39 } },
+          { "pos": { "x": 15, "y": 39 } },
+          { "pos": { "x": 16, "y": 39 } },
+          { "pos": { "x": 17, "y": 39 } },
+          { "pos": { "x": 12, "y": 40 } },
+          { "pos": { "x": 13, "y": 40 } },
+          { "pos": { "x": 14, "y": 40 } },
+          { "pos": { "x": 15, "y": 40 } },
+          { "pos": { "x": 16, "y": 40 } },
+          { "pos": { "x": 12, "y": 41 } },
+          { "pos": { "x": 13, "y": 41 } },
+          { "pos": { "x": 14, "y": 41 } },
+          { "pos": { "x": 15, "y": 41 } },
+          { "pos": { "x": 13, "y": 42 } },
+          { "pos": { "x": 14, "y": 42 } },
+          { "pos": { "x": 35, "y": 48 } }
+        ]
+      },
+
+      "41,35":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 38, "y": 30 } },
+          { "pos": { "x": 39, "y": 30 } },
+          { "pos": { "x": 40, "y": 30 } },
+          { "pos": { "x": 41, "y": 30 } },
+          { "pos": { "x": 42, "y": 30 } },
+          { "pos": { "x": 43, "y": 30 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "24,11": { "defaultState": "off" },
+      "24,12": { "defaultState": "off" },
+      "24,13": { "defaultState": "off" },
+      "24,14": { "defaultState": "off" },
+      "24,15": { "defaultState": "off" },
+      "24,16": { "defaultState": "off" },
+      "28,22": { "defaultState": "off" },
+      "32,26": { "defaultState": "off" },
+      "21,29": { "defaultState": "off" },
+      "25,33": { "defaultState": "off" },
+      "6,19": { "defaultState": "on" },
+      "17,35": { "defaultState": "on" },
+      "16,36": { "defaultState": "on" },
+      "17,36": { "defaultState": "on" },
+      "18,36": { "defaultState": "on" },
+      "15,37": { "defaultState": "on" },
+      "16,37": { "defaultState": "on" },
+      "17,37": { "defaultState": "on" },
+      "18,37": { "defaultState": "on" },
+      "19,37": { "defaultState": "on" },
+      "14,38": { "defaultState": "on" },
+      "15,38": { "defaultState": "on" },
+      "16,38": { "defaultState": "on" },
+      "17,38": { "defaultState": "on" },
+      "18,38": { "defaultState": "on" },
+      "13,39": { "defaultState": "on" },
+      "14,39": { "defaultState": "on" },
+      "15,39": { "defaultState": "on" },
+      "16,39": { "defaultState": "on" },
+      "17,39": { "defaultState": "on" },
+      "12,40": { "defaultState": "on" },
+      "13,40": { "defaultState": "on" },
+      "14,40": { "defaultState": "on" },
+      "15,40": { "defaultState": "on" },
+      "16,40": { "defaultState": "on" },
+      "12,41": { "defaultState": "on" },
+      "13,41": { "defaultState": "on" },
+      "14,41": { "defaultState": "on" },
+      "15,41": { "defaultState": "on" },
+      "13,42": { "defaultState": "on" },
+      "14,42": { "defaultState": "on" },
+      "35,48": { "defaultState": "on" },
+      "38,30": { "defaultState": "off" },
+      "39,30": { "defaultState": "off" },
+      "40,30": { "defaultState": "off" },
+      "41,30": { "defaultState": "off" },
+      "42,30": { "defaultState": "off" },
+      "43,30": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,22 @@
+{
+
+    "info":
+    {
+      "name": "Raceway",
+      "author": "GeckoPie"
+    },
+	
+	"portals": {
+		"32,1": { "destination": { "x": 26, "y": 1 }, "cooldown": 0 },
+		"32,2": { "destination": { "x": 26, "y": 2 }, "cooldown": 0 },
+		"32,3": { "destination": { "x": 26, "y": 3 }, "cooldown": 0 },
+		"32,4": { "destination": { "x": 26, "y": 4 }, "cooldown": 0 },
+		"32,5": { "destination": { "x": 26, "y": 5 }, "cooldown": 0 },
+		"27,54": { "destination": { "x": 33, "y": 54 }, "cooldown": 0 },
+		"27,55": { "destination": { "x": 33, "y": 55 }, "cooldown": 0 },
+		"27,56": { "destination": { "x": 33, "y": 56 }, "cooldown": 0 },
+		"27,57": { "destination": { "x": 33, "y": 57 }, "cooldown": 0 },
+		"27,58": { "destination": { "x": 33, "y": 58 }, "cooldown": 0 }
+	}
+
+}

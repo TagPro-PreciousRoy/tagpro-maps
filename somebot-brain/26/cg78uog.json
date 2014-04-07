@@ -1,0 +1,72 @@
+  {
+
+
+    "info":
+    {
+      "name": "Encounter",
+      "author": "MKo"
+    },
+
+
+    "switches": {
+        "35,23": {
+            "toggle": [
+                { "pos": { "x": 33, "y": 21 } },
+                { "pos": { "x": 34, "y": 21 } },
+                { "pos": { "x": 35, "y": 21 } },
+				{ "pos": { "x": 36, "y": 21 } },
+                { "pos": { "x": 37, "y": 21 } }
+            ]
+        },
+        "5,26": {
+            "toggle": [
+                { "pos": { "x": 4, "y": 26 } }
+            ]
+        },
+        "6,27": {
+            "toggle": [
+                { "pos": { "x": 5, "y": 27 } }
+            ]
+        },
+		"37,10": {
+            "toggle": [
+                { "pos": { "x": 38, "y": 10 } }
+            ]
+        },
+        "38,11": {
+            "toggle": [
+                { "pos": { "x": 39, "y": 11 } }
+            ]
+        },
+        "8,14": {
+            "toggle": [
+                { "pos": { "x": 6, "y": 16 } },
+                { "pos": { "x": 7, "y": 16 } },
+                { "pos": { "x": 8, "y": 16 } },
+                { "pos": { "x": 9, "y": 16 } },				
+                { "pos": { "x": 10, "y": 16 } }
+            ]
+        }
+    },
+
+
+    "fields":
+    {
+	    "31,31" : { "defaultState": "blue" },
+        "31,33" : { "defaultState": "blue" },
+        "21,32" : { "defaultState": "blue" },
+		
+		"35,31" : { "defaultState": "red" },
+        "35,33" : { "defaultState": "red" },
+        "36,32" : { "defaultState": "red" }
+		
+    },
+
+"portals": {
+    "15,32": { "destination": { "x": 27, "y": 5 }, "cooldown": 0 },
+    "16,32": { "destination": { "x": 27, "y": 5 }, "cooldown": 0 },
+    "27,5": { "destination": { "x": 16, "y": 32 }, "cooldown": 0 },
+    "28,5": { "destination": { "x": 16, "y": 32 }, "cooldown": 0 }
+}
+
+  }

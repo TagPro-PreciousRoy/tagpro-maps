@@ -1,0 +1,184 @@
+  {
+
+
+
+    "info":
+    
+{
+      
+"name": "Easy Sharks n Minnows",
+ 
+"author": "FoxieBall"
+    },
+
+
+
+"switches":
+    {
+
+    },
+
+
+    
+"fields":
+    {
+
+"8,16" : { "defaultState": "red" },
+"8,17" : { "defaultState": "red" },
+"8,18" : { "defaultState": "red" },
+"8,19" : { "defaultState": "red" },
+"8,20" : { "defaultState": "red" },
+"8,21" : { "defaultState": "red" },
+"8,22" : { "defaultState": "red" },
+"8,23" : { "defaultState": "red" },
+"8,24" : { "defaultState": "red" },
+"8,25" : { "defaultState": "red" },
+"8,26" : { "defaultState": "red" },
+"8,27" : { "defaultState": "red" },
+"8,28" : { "defaultState": "red" },
+"8,29" : { "defaultState": "red" },
+"8,30" : { "defaultState": "red" },
+"8,31" : { "defaultState": "red" },
+"8,32" : { "defaultState": "red" },
+"8,33" : { "defaultState": "red" },
+"8,34" : { "defaultState": "red" },
+"8,35" : { "defaultState": "red" },
+"8,36" : { "defaultState": "red" },
+"8,37" : { "defaultState": "red" },
+"8,38" : { "defaultState": "red" },
+
+"46,16" : { "defaultState": "red" },
+"46,18" : { "defaultState": "red" },
+"46,20" : { "defaultState": "red" },
+"46,22" : { "defaultState": "red" },
+"46,24" : { "defaultState": "red" },
+"46,26" : { "defaultState": "red" },
+"46,28" : { "defaultState": "red" },
+"46,30" : { "defaultState": "red" },
+"46,32" : { "defaultState": "red" },
+"46,34" : { "defaultState": "red" },
+"46,36" : { "defaultState": "red" },
+"46,38" : { "defaultState": "red" },
+
+"28,39" : { "defaultState": "blue" },
+"29,39" : { "defaultState": "blue" },
+"30,39" : { "defaultState": "blue" },
+"31,39" : { "defaultState": "blue" },
+"32,39" : { "defaultState": "blue" },
+"33,39" : { "defaultState": "blue" },
+"34,39" : { "defaultState": "blue" },
+"35,39" : { "defaultState": "blue" },
+"36,39" : { "defaultState": "blue" },
+"37,39" : { "defaultState": "blue" },
+"38,39" : { "defaultState": "blue" },
+
+"25,18" : { "defaultState": "blue" },
+"26,18" : { "defaultState": "blue" },
+"27,18" : { "defaultState": "blue" },
+"25,19" : { "defaultState": "blue" },
+"27,19" : { "defaultState": "blue" },
+"25,20" : { "defaultState": "blue" },
+"26,20" : { "defaultState": "blue" },
+"27,20" : { "defaultState": "blue" },
+
+"37,18" : { "defaultState": "blue" },
+"38,18" : { "defaultState": "blue" },
+"39,18" : { "defaultState": "blue" },
+"37,19" : { "defaultState": "blue" },
+"39,19" : { "defaultState": "blue" },
+"37,20" : { "defaultState": "blue" },
+"38,20" : { "defaultState": "blue" },
+"39,20" : { "defaultState": "blue" },
+
+"31,23" : { "defaultState": "blue" },
+"32,23" : { "defaultState": "blue" },
+"33,23" : { "defaultState": "blue" },
+"31,24" : { "defaultState": "blue" },
+"33,24" : { "defaultState": "blue" },
+"31,25" : { "defaultState": "blue" },
+"32,25" : { "defaultState": "blue" },
+"33,25" : { "defaultState": "blue" },
+
+"31,29" : { "defaultState": "blue" },
+"32,29" : { "defaultState": "blue" },
+"33,29" : { "defaultState": "blue" },
+"31,30" : { "defaultState": "blue" },
+"33,30" : { "defaultState": "blue" },
+"31,31" : { "defaultState": "blue" },
+"32,31" : { "defaultState": "blue" },
+"33,31" : { "defaultState": "blue" },
+
+"25,34" : { "defaultState": "blue" },
+"26,34" : { "defaultState": "blue" },
+"27,34" : { "defaultState": "blue" },
+"25,35" : { "defaultState": "blue" },
+"27,35" : { "defaultState": "blue" },
+"25,36" : { "defaultState": "blue" },
+"26,36" : { "defaultState": "blue" },
+"27,36" : { "defaultState": "blue" },
+
+"37,34" : { "defaultState": "blue" },
+"38,34" : { "defaultState": "blue" },
+"39,34" : { "defaultState": "blue" },
+"37,35" : { "defaultState": "blue" },
+"39,35" : { "defaultState": "blue" },
+"37,36" : { "defaultState": "blue" },
+"38,36" : { "defaultState": "blue" },
+"39,36" : { "defaultState": "blue" },
+
+"31,16" : { "defaultState": "blue" },
+"33,16" : { "defaultState": "blue" },
+"31,17" : { "defaultState": "blue" },
+"32,17" : { "defaultState": "blue" },
+"33,17" : { "defaultState": "blue" },
+
+
+"31,38" : { "defaultState": "blue" },
+"33,38" : { "defaultState": "blue" },
+"31,37" : { "defaultState": "blue" },
+"32,37" : { "defaultState": "blue" },
+"33,37" : { "defaultState": "blue" },
+
+
+"25,26" : { "defaultState": "blue" },
+"26,26" : { "defaultState": "blue" },
+"27,26" : { "defaultState": "blue" },
+"25,27" : { "defaultState": "blue" },
+"27,27" : { "defaultState": "blue" },
+"25,28" : { "defaultState": "blue" },
+"26,28" : { "defaultState": "blue" },
+"27,28" : { "defaultState": "blue" },
+
+
+"37,26" : { "defaultState": "blue" },
+"38,26" : { "defaultState": "blue" },
+"39,26" : { "defaultState": "blue" },
+"37,27" : { "defaultState": "blue" },
+"39,27" : { "defaultState": "blue" },
+"37,28" : { "defaultState": "blue" },
+"38,28" : { "defaultState": "blue" },
+"39,28" : { "defaultState": "blue" }
+    },
+
+"portals":   {
+"48,16" : { "destination": { "x": 32, "y": 42 }, "cooldown": 0 },
+"48,18" : { "destination": { "x": 34, "y": 42 }, "cooldown": 0 },
+"48,20" : { "destination": { "x": 32, "y": 42 }, "cooldown": 0 },
+"48,22" : { "destination": { "x": 34, "y": 42 }, "cooldown": 0 },
+"48,24" : { "destination": { "x": 32, "y": 42 }, "cooldown": 0 },
+"48,26" : { "destination": { "x": 34, "y": 42 }, "cooldown": 0 },
+"48,28" : { "destination": { "x": 32, "y": 42 }, "cooldown": 0 },
+"48,30" : { "destination": { "x": 34, "y": 42 }, "cooldown": 0 },
+"48,32" : { "destination": { "x": 32, "y": 42 }, "cooldown": 0 },
+"48,34" : { "destination": { "x": 34, "y": 42 }, "cooldown": 0 },
+"48,36" : { "destination": { "x": 32, "y": 42 }, "cooldown": 0 },
+"48,38" : { "destination": { "x": 34, "y": 42 }, "cooldown": 0 },
+
+"32,42" : { "destination": { "x": 3, "y": 25 }, "cooldown": 0 },
+"34,42" : { "destination": { "x": 3, "y": 29 }, "cooldown": 0 }
+
+}
+
+
+  
+}

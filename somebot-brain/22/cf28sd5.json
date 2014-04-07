@@ -1,0 +1,52 @@
+  {
+
+
+    "info":
+    {
+      "name": "Design",
+      "author": "MKo"
+    },
+
+
+    "switches": {
+        "17,28": {
+            "toggle": [
+                { "pos": { "x": 19, "y": 30 } },
+                { "pos": { "x": 20, "y": 30 } },
+                { "pos": { "x": 21, "y": 30 } },
+				{ "pos": { "x": 22, "y": 30 } },
+                { "pos": { "x": 23, "y": 30 } },
+                { "pos": { "x": 24, "y": 30 } }
+            ]
+        },
+        "17,15": {
+            "toggle": [
+                { "pos": { "x": 11, "y": 17 } },
+                { "pos": { "x": 12, "y": 16 } },
+                { "pos": { "x": 13, "y": 15 } },
+                { "pos": { "x": 15, "y": 19 } }
+            ]
+        }
+    },
+
+
+    "fields":
+    {
+	    "31,31" : { "defaultState": "blue" },
+        "31,33" : { "defaultState": "blue" },
+        "30,32" : { "defaultState": "blue" },
+		
+		"35,31" : { "defaultState": "red" },
+        "35,33" : { "defaultState": "red" },
+        "36,32" : { "defaultState": "red" }
+		
+    },
+
+"portals": {
+    "29,30": { "destination": { "x": 3, "y": 16 } },
+    "35,32": { "destination": { "x": 59, "y": 16}, "cooldown": 0 },
+    "85,11": { "destination": { "x": 1, "y": 11 } },
+    "31,32": { "destination": { "x": 6, "y": 16 }, "cooldown": 0 }
+}
+
+  }

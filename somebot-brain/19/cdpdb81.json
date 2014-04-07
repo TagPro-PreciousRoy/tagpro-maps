@@ -1,0 +1,106 @@
+  {
+
+
+    "info":
+    {
+      "name": "Some Map",
+      "author": ""
+    },
+
+
+    "switches":
+    {
+
+      "29,11":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 29, "y": 10 } },
+          { "pos": { "x": 30, "y": 11 } }
+        ]
+      },
+
+      "35,11":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 36, "y": 11 } }
+        ]
+      },
+
+      "42,18":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 41, "y": 20 } },
+          { "pos": { "x": 42, "y": 20 } }
+        ]
+      },
+
+      "46,18":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 46, "y": 20 } },
+          { "pos": { "x": 47, "y": 20 } }
+        ]
+      },
+
+      "35,19":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 36, "y": 19 } }
+        ]
+      },
+
+      "13,22":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 12, "y": 22 } },
+          { "pos": { "x": 13, "y": 23 } }
+        ]
+      },
+
+      "19,38":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 37 } },
+          { "pos": { "x": 21, "y": 38 } }
+        ]
+      },
+
+      "19,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 21, "y": 42 } },
+          { "pos": { "x": 21, "y": 43 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "29,10": { "defaultState": "off" },
+      "30,11": { "defaultState": "off" },
+      "36,11": { "defaultState": "off" },
+      "41,20": { "defaultState": "off" },
+      "42,20": { "defaultState": "off" },
+      "46,20": { "defaultState": "off" },
+      "47,20": { "defaultState": "off" },
+      "36,19": { "defaultState": "off" },
+      "12,22": { "defaultState": "off" },
+      "13,23": { "defaultState": "off" },
+      "21,37": { "defaultState": "off" },
+      "21,38": { "defaultState": "off" },
+      "21,42": { "defaultState": "off" },
+      "21,43": { "defaultState": "off" }
+    }
+
+
+  }

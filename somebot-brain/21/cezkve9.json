@@ -1,0 +1,57 @@
+{
+    "info": {
+        "name": "Though the Middle",
+        "author": "sontak"
+    },
+	
+    "switches": {
+        "10,16": {
+            "toggle": [
+                { "pos": { "x": 14, "y": 16 } },
+                { "pos": { "x": 15, "y": 16 } },
+                { "pos": { "x": 16, "y": 16 } },
+                { "pos": { "x": 17, "y": 16 } },
+                { "pos": { "x": 18, "y": 16 } }
+            ]
+        },
+        "22,16": {
+            "toggle": [
+                { "pos": { "x": 18, "y": 16 } },
+                { "pos": { "x": 17, "y": 16 } },
+                { "pos": { "x": 16, "y": 16 } },
+                { "pos": { "x": 15, "y": 16 } },
+                { "pos": { "x": 14, "y": 16 } }
+            ]
+        },
+        "16,28": {
+            "toggle": [
+                { "pos": { "x": 15, "y": 23 } },
+                { "pos": { "x": 16, "y": 23 } },
+                { "pos": { "x": 17, "y": 23 } }
+            ]
+        },
+        "16,4": {
+            "toggle": [
+                { "pos": { "x": 15, "y": 9 } },
+                { "pos": { "x": 16, "y": 9 } },
+                { "pos": { "x": 17, "y": 9 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "7,16" : { "defaultState": "on" },
+        "14,16" : { "defaultState": "on" },
+        "15,9" : { "defaultState": "on" },
+        "15,16" : { "defaultState": "on" },
+        "15,23" : { "defaultState": "on" },
+        "16,9" : { "defaultState": "on" },
+        "16,16" : { "defaultState": "on" },
+        "16,23" : { "defaultState": "on" },
+        "17,9" : { "defaultState": "on" },
+        "17,16" : { "defaultState": "on" },
+        "17,23" : { "defaultState": "on" },
+        "18,16" : { "defaultState": "on" },
+        "25,16" : { "defaultState": "on" }
+    }
+}

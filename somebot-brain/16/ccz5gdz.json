@@ -1,0 +1,35 @@
+{
+    "info": {
+        "name": "Berk's OG Time Trial",
+        "author": "&Berk"
+    },
+
+    "switches": {
+        "66,9": {
+            "toggle": [
+                { "pos": { "x": 33, "y": 15 } },
+                { "pos": { "x": 33, "y": 13 } },
+                { "pos": { "x": 33, "y": 5 } },
+                { "pos": { "x": 33, "y": 3 } },
+                { "pos": { "x": 2, "y": 3 } },
+                { "pos": { "x": 2, "y": 4 } },
+                { "pos": { "x": 1, "y": 4 } },
+                { "pos": { "x": 1, "y": 14 } },
+                { "pos": { "x": 2, "y": 14 } },
+                { "pos": { "x": 2, "y": 15 } }
+            ]
+        }
+    },
+    "fields": {
+        "33,3" : { "defaultState": "on" },
+        "33,5" : { "defaultState": "on" },
+        "1,14" : { "defaultState": "on" },
+        "2,14" : { "defaultState": "on" },
+        "2,15" : { "defaultState": "on" },
+        "1,4" : { "defaultState": "on" },
+        "2,4" : { "defaultState": "on" },
+        "2,3" : { "defaultState": "on" },
+        "33,13" : { "defaultState": "on" },
+        "33,15" : { "defaultState": "on" }
+    }
+}

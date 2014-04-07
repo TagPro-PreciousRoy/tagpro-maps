@@ -1,0 +1,39 @@
+{
+    "info": {
+        "name": "ǝǝʌ",
+        "author": "ɹɐʇsןןɐq"
+    },
+    "switches": {
+        "23,25": {
+            "toggle": [
+                { "pos": { "x": 23, "y": 26 } },
+                { "pos": { "x": 23, "y": 27 } },
+                { "pos": { "x": 22, "y": 27 } },
+                { "pos": { "x": 22, "y": 28 } },
+                { "pos": { "x": 21, "y": 28 } }
+            ]
+        },
+        "49,25": {
+            "toggle": [
+                { "pos": { "x": 49, "y": 26 } },
+                { "pos": { "x": 49, "y": 27 } },
+                { "pos": { "x": 50, "y": 27 } },
+                { "pos": { "x": 50, "y": 28 } },
+                { "pos": { "x": 51, "y": 28 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "23,26" : { "defaultState": "on" },
+        "23,27" : { "defaultState": "on" },
+        "22,27" : { "defaultState": "on" },
+        "22,28" : { "defaultState": "on" },
+        "21,28" : { "defaultState": "on" },
+        "49,26" : { "defaultState": "on" },
+        "49,27" : { "defaultState": "on" },
+        "50,27" : { "defaultState": "on" },
+        "50,28" : { "defaultState": "on" },
+        "51,28" : { "defaultState": "on" }
+    }
+}

@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head id="head"><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>#8760269 - Pastie</title>
+<link href="/assets/application-af81f0022fd3022ee714585ed12834b8.css" media="screen" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+    (function() {
+      var config = {
+        kitId: 'cag5cie',
+        scriptTimeout: 3000
+      };
+      var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/( |^)wf-loading( |$)/g,"");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script");tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(a&&a!="complete"&&a!="loaded")return;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+    })();
+  </script>
+<script src="/assets/application-940b7c5af7150b9b50cbe92fb69802b1.js" type="text/javascript"></script>
+<link rel="icon" type="image/gif" href="/images/pastie.png">
+<link rel="SHORTCUT ICON" type="image/gif" href="/images/pastie.png">
+</head>
+<body id="show" class="">
+<div id="header">
+<div class="body">
+<span class="blog">
+<a href="http://savenatenow.com">Nate's Story</a>
+<span class="pipe">|</span>
+<a href="http://twitter.com/pastieorg">@pastieorg</a>
+<span class="pipe">|</span>
+<a href="http://status.pastie.org/">status</a>
+<span class="pipe">|</span>
+<a href="http://runningblind.com/">Running Blind</a>
+</span>
+<div class="welcome">
+<a href="/">This is Pastie</a>.
+</div>
+<ul id="nav">
+ 
+ 
+<li class=""><a href="/pastes/new">Share</a></li>
+<li class='active'>
+<a href="/pastes">Browse</a>
+</li>
+<li><a href="/tools/">Tools</a></li>
+<li><a href="/help/">Help</a></li>
+<li><a href="/about/">About</a></li>
+</ul>
+<div style="clear:both"></div>
+</div>
+</div>
+ 
+<div id="container">
+<div id="content">
+<div class="headers"><div class="metadata">
+<div style="float:right; margin-right:-10px; margin-left:20px; margin-top:1px">
+<img src="/images/full_screen.png" id="fullscreen"/>
+</div>
+<div style="float:right;" class="links">
+<div class="tool" style="xdisplay:none">
+<a href="/pastes/8760269/reply"><img alt="Document@2x" height="24" src="/images/symbolicons/black/document@2x.png" title="Copy and Repaste" width="24"/></a>
+<label>Repaste</label>
+</div>
+<span class="pipe">|</span>
+<div class="tool">
+<a href="#" onclick="Paste.embed(); return false;"><img alt="Chain_link@2x" height="24" src="/images/symbolicons/black/chain_link@2x.png" title="Embed this paste in a web page" width="24"/></a>
+<label>Embed</label>
+</div>
+<span class="pipe">|</span>
+<div class="tool">
+<a href="/pastes/8760269/download"><img alt="Arrow_down@2x" height="24" src="/images/symbolicons/black/arrow_down@2x.png" title="Download"/></a>
+<label>Download</label>
+</div>
+<span class="pipe">|</span>
+<div class="tool">
+<a href="http://pastie.org/pastes/8760269/text" title="View the raw source of this pastie"><img alt="Spiral_paper@2x" height="24" src="/images/symbolicons/black/spiral_paper@2x.png" width="24"/></a>
+<label>Raw</label>
+</div>
+</div>
+<div style="float:right; margin-right:50px">
+ 
+ 
+<div class="sizer">
+<span class="smaller">A</span>
+<span class="small">A</span>
+<span class="large">A</span>
+</div>
+ 
+</div>
+<p>
+Plain text
+&nbsp;
+<label class="date">
+<span class="typo_date" title="Sun, 23 Feb 2014 05:02:18 GMT" id='paste_date'>February 23, 2014<br/> 5:02AM EDT</span>
+</label>
+<script language="javascript">
+  	e=$('#paste_date');
+  	e.html(get_local_time_for_date(e[0].title));
+  </script>
+&nbsp;&nbsp;&nbsp;
+<a class="abuse" href="/pastes/8760269/abuse">Report abuse</a>
+</p>
+</div>
+<div class="fontoptions" style="display:none">
+<select id="ffont">
+<option>...detecting fonts...</option>
+</select>
+<select id="fsize">
+<option>Sizes</option>
+</select>
+<select id="ftheme">
+<option value="themes/clean">Clean (Pastie)</option>
+<option value="themes/all_hallows_eve">All Hallow&#x27;s Eve</option>
+<option value="themes/blackboard">Blackboard</option>
+<option value="themes/brilliance_black">Brilliance Black</option>
+<option value="themes/cobalt">Cobalt</option>
+<option value="themes/expreso_libre">Espresso Libre</option>
+<option value="themes/idle">IDLE</option>
+<option value="themes/mac_classic">Mac Classic</option>
+<option value="themes/magicwb_amiga">MagicWB (Amiga)</option>
+<option value="themes/pastels_on_dark">Pastels on Dark</option>
+<option value="themes/slate">Slate</option>
+<option value="themes/slush_and_poppies">Slush and Poppies</option>
+<option value="themes/sunburst">Sunburst</option>
+<option value="themes/sunburst_josh">Sunburst (Josh)</option>
+<option value="themes/twilight">Twilight</option>
+<option value="themes/vibrant_ink">Vibrant Ink</option>
+</select>
+&nbsp;
+<button>Done</button>
+</div>
+</div>
+<div class="body">
+<script>
+$(document).ready(function() {Theme.enable()})
+</script>
+ 
+ 
+ 
+<p class="smallutils" id="wrapoptions" style="display:none;">
+<a href="http://pastie.org/pastes/8760269?wrap=0">Unwrap text</a>
+</p>
+<div class="allcode wrap">
+<pre class="textmate-source"><pre class="sunburst"><span class='meta meta_paragraph meta_paragraph_text'>data:application/json;base64,eyJpbmZvIjp7Im5hbWUiOiJDbGFzc2ljIFN0eWxlIiwiYXV0aG9yIjoiUHVycGxlIExva2kifSwic3dpdGNoZXMiOnsiMTIsMjEiOnsidG9nZ2xlIjpbeyJwb3MiOnsieCI6MSwieSI6MjF9fSx7InBvcyI6eyJ4IjoyLCJ5IjoyMX19LHsicG9zIjp7IngiOjMsInkiOjIxfX0seyJwb3MiOnsieCI6NCwieSI6MjF9fSx7InBvcyI6eyJ4Ijo1LCJ5IjoyMX19LHsicG9zIjp7IngiOjYsInkiOjIxfX0seyJwb3MiOnsieCI6NywieSI6MjF9fV19LCIzMCwyMSI6eyJ0b2dnbGUiOlt7InBvcyI6eyJ4Ijo0MSwieSI6MjF9fSx7InBvcyI6eyJ4Ijo0MCwieSI6MjF9fSx7InBvcyI6eyJ4IjozOSwieSI6MjF9fSx7InBvcyI6eyJ4IjozOCwieSI6MjF9fSx7InBvcyI6eyJ4IjozNywieSI6MjF9fSx7InBvcyI6eyJ4IjozNiwieSI6MjF9fSx7InBvcyI6eyJ4IjozNSwieSI6MjF9fV19fSwiZmllbGRzIjp7IjEsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiMiwyMSI6eyJkZWZhdWx0U3RhdGUiOiJvbiJ9LCIzLDIxIjp7ImRlZmF1bHRTdGF0ZSI6Im9uIn0sIjQsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiNSwyMSI6eyJkZWZhdWx0U3RhdGUiOiJvbiJ9LCI2LDIxIjp7ImRlZmF1bHRTdGF0ZSI6Im9uIn0sIjcsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiMzUsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiMzYsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiMzcsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiMzgsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiMzksMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiNDAsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifSwiNDEsMjEiOnsiZGVmYXVsdFN0YXRlIjoib24ifX0sInBvcnRhbHMiOnsiOSwxOCI6eyJkZXN0aW5hdGlvbiI6eyJ4IjozMywieSI6MTh9fSwiOSwyNCI6eyJkZXN0aW5hdGlvbiI6eyJ4IjozMywieSI6MjR9fSwiMzMsMTgiOnsiZGVzdGluYXRpb24iOnsieCI6OSwieSI6MTh9fSwiMzMsMjQiOnsiZGVzdGluYXRpb24iOnsieCI6OSwieSI6MjR9fX19</span>
+</pre></pre>
+</div>
+<div style="text-align:right">
+<label>
+1405 characters / 1 lines
+</label>
+</div>
+<div class="clear"></div>
+</div>  
+</div>  
+<div id="right">
+<p id="embed" style="display:none">
+<label>Embed Code</label><br/>
+<textarea onclick="this.select();" size="35" rows="3" style="width:200px">
+<script src='http://pastie.org/8760269.js'>
+</script>
+</textarea>
+</p>
+ 
+ 
+ 
+ 
+<div class="ads" style="display:block !important;">
+<label>Advertising from <a href="http://carbonads.net/">Carbon</a>:</label>
+<div id="carbonads-container" style="display:block !important;">
+<div class="carbonad" style="display:block !important;">
+<div id="azcarbon" style="display:block !important;">
+</div>
+<script type="text/javascript">var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = "http://carbonads-2037067561.us-east-1.elb.amazonaws.com/z/982/azcarbon_2_1_0_VERT"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script>
+</div>
+</div>
+<br style="clear:left"/>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div id="footer">
+<p class="disclaim">
+<strong>
+Use Pastie in your quest to save humanity,<br/> not in your evil plots to take over the world!
+</strong>
+<br/>
+<a href="/legal/">Legal</a>
+</p>
+<p class="credit">
+Created by <br/>
+<a href="http://runningblind.com/">Josh Goebel</a>
+</p>
+<p class="credit2">
+Monitored by<br/>
+ 
+<a href="http://www.newrelic.com/?utm_source=PAST&amp;utm_medium=text&amp;utm_content=monitoredby&amp;utm_campaign=RPM&amp;utm_term=0&amp;mpc=TA-PAST-RPM-EN-0-monitored-0">
+New Relic</a>
+</p>
+<br style="clear:both;"/>
+</div>  
+</div>  
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-5.newrelic.com","4f1b2792f0",10734,"Jw4PQUVeXVxXRR8TUBcVBEYYQllfRQ==",0,45,new Date().getTime(),"","","","",""]);</script></body>
+</html>

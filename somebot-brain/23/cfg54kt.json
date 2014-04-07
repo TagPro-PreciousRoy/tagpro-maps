@@ -1,0 +1,188 @@
+{
+    "info": {
+        "name": "Nostalgia",
+        "author": "Precious Roy, LuckySpammer, Danny, OP, &Berk"
+    },
+    "switches": {
+        "14,53": {
+            "toggle": [
+                {"pos": {"x": 21, "y": 55}},
+                {"pos": {"x": 21, "y": 54}},
+                {"pos": {"x": 21, "y": 53}},
+                {"pos": {"x": 22, "y": 53}},
+                {"pos": {"x": 22, "y": 54}},
+                {"pos": {"x": 22, "y": 55}},
+                {"pos": {"x": 23, "y": 53}},
+                {"pos": {"x": 23, "y": 55}},
+                {"pos": {"x": 23, "y": 54}},
+                {"pos": {"x": 18, "y": 53}},
+                {"pos": {"x": 18, "y": 55}},
+                {"pos": {"x": 18, "y": 54}},
+                {"pos": {"x": 17, "y": 53}},
+                {"pos": {"x": 17, "y": 54}},
+                {"pos": {"x": 17, "y": 55}},
+                {"pos": {"x": 19, "y": 54}},
+                {"pos": {"x": 19, "y": 55}},
+                {"pos": {"x": 20, "y": 53}},
+                {"pos": {"x": 20, "y": 54}},
+                {"pos": {"x": 20, "y": 55}},
+                {"pos": {"x": 19, "y": 53}}
+            ]
+        },
+        "44,5": {
+            "toggle": [
+                {"pos": {"x": 37, "y": 4}},
+                {"pos": {"x": 37, "y": 5}},
+                {"pos": {"x": 37, "y": 3}},
+                {"pos": {"x": 35, "y": 4}},
+                {"pos": {"x": 35, "y": 5}},
+                {"pos": {"x": 35, "y": 3}},
+                {"pos": {"x": 36, "y": 5}},
+                {"pos": {"x": 36, "y": 4}},
+                {"pos": {"x": 36, "y": 3}},
+                {"pos": {"x": 39, "y": 5}},
+                {"pos": {"x": 38, "y": 3}},
+                {"pos": {"x": 38, "y": 5}},
+                {"pos": {"x": 38, "y": 4}},
+                {"pos": {"x": 41, "y": 5}},
+                {"pos": {"x": 41, "y": 4}},
+                {"pos": {"x": 41, "y": 3}},
+                {"pos": {"x": 40, "y": 4}},
+                {"pos": {"x": 40, "y": 5}},
+                {"pos": {"x": 40, "y": 3}},
+                {"pos": {"x": 39, "y": 4}},
+                {"pos": {"x": 39, "y": 3}}
+            ]
+        }
+    },
+    "marsballs": [],
+    "portals": {},
+    "fields": {
+        "37,4": {
+            "defaultState": "off"
+        },
+        "37,5": {
+            "defaultState": "off"
+        },
+        "37,3": {
+            "defaultState": "off"
+        },
+        "35,4": {
+            "defaultState": "off"
+        },
+        "35,5": {
+            "defaultState": "off"
+        },
+        "35,3": {
+            "defaultState": "off"
+        },
+        "36,5": {
+            "defaultState": "off"
+        },
+        "36,4": {
+            "defaultState": "off"
+        },
+        "36,3": {
+            "defaultState": "off"
+        },
+        "39,5": {
+            "defaultState": "off"
+        },
+        "38,3": {
+            "defaultState": "off"
+        },
+        "38,5": {
+            "defaultState": "off"
+        },
+        "38,4": {
+            "defaultState": "off"
+        },
+        "41,5": {
+            "defaultState": "off"
+        },
+        "41,4": {
+            "defaultState": "off"
+        },
+        "41,3": {
+            "defaultState": "off"
+        },
+        "40,4": {
+            "defaultState": "off"
+        },
+        "40,5": {
+            "defaultState": "off"
+        },
+        "40,3": {
+            "defaultState": "off"
+        },
+        "39,4": {
+            "defaultState": "off"
+        },
+        "39,3": {
+            "defaultState": "off"
+        },
+        "21,55": {
+            "defaultState": "off"
+        },
+        "21,54": {
+            "defaultState": "off"
+        },
+        "21,53": {
+            "defaultState": "off"
+        },
+        "22,53": {
+            "defaultState": "off"
+        },
+        "22,54": {
+            "defaultState": "off"
+        },
+        "22,55": {
+            "defaultState": "off"
+        },
+        "23,53": {
+            "defaultState": "off"
+        },
+        "23,55": {
+            "defaultState": "off"
+        },
+        "23,54": {
+            "defaultState": "off"
+        },
+        "18,53": {
+            "defaultState": "off"
+        },
+        "18,55": {
+            "defaultState": "off"
+        },
+        "18,54": {
+            "defaultState": "off"
+        },
+        "17,53": {
+            "defaultState": "off"
+        },
+        "17,54": {
+            "defaultState": "off"
+        },
+        "17,55": {
+            "defaultState": "off"
+        },
+        "19,54": {
+            "defaultState": "off"
+        },
+        "19,55": {
+            "defaultState": "off"
+        },
+        "20,53": {
+            "defaultState": "off"
+        },
+        "20,54": {
+            "defaultState": "off"
+        },
+        "20,55": {
+            "defaultState": "off"
+        },
+        "19,53": {
+            "defaultState": "off"
+        }
+    }
+}

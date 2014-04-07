@@ -1,0 +1,198 @@
+{
+ 
+ 
+    "info":
+    {
+      "name": "Boomstar Crossover",
+      "author": "zircon"
+    },
+
+    "switches": {
+        "56,30": {
+            "toggle": [
+                { "pos": { "x": 58, "y": 27 } },
+                { "pos": { "x": 59, "y": 27 } },
+                { "pos": { "x": 60, "y": 27 } },
+                { "pos": { "x": 61, "y": 27 } },
+                { "pos": { "x": 62, "y": 27 } },
+                { "pos": { "x": 63, "y": 27 } },
+                { "pos": { "x": 58, "y": 28 } },
+                { "pos": { "x": 59, "y": 28 } },
+                { "pos": { "x": 60, "y": 28 } },
+                { "pos": { "x": 61, "y": 28 } },
+                { "pos": { "x": 62, "y": 28 } },
+                { "pos": { "x": 63, "y": 28 } }
+            ]
+        },
+        "35,14": {
+            "toggle": [
+                { "pos": { "x": 31, "y": 21 } },
+                { "pos": { "x": 31, "y": 22 } },
+                { "pos": { "x": 31, "y": 23 } },
+                { "pos": { "x": 32, "y": 21 } },
+                { "pos": { "x": 32, "y": 22 } },
+                { "pos": { "x": 32, "y": 23 } },
+                { "pos": { "x": 33, "y": 21 } },
+                { "pos": { "x": 33, "y": 22 } },
+                { "pos": { "x": 33, "y": 23 } }
+            ]
+        },
+        "29,14": {
+            "toggle": [
+                { "pos": { "x": 31, "y": 21 } },
+                { "pos": { "x": 31, "y": 22 } },
+                { "pos": { "x": 31, "y": 23 } },
+                { "pos": { "x": 32, "y": 21 } },
+                { "pos": { "x": 32, "y": 22 } },
+                { "pos": { "x": 32, "y": 23 } },
+                { "pos": { "x": 33, "y": 21 } },
+                { "pos": { "x": 33, "y": 22 } },
+                { "pos": { "x": 33, "y": 23 } }
+            ]
+        },
+        "17,35": {
+            "toggle": [
+                { "pos": { "x": 20, "y": 35 } },
+                { "pos": { "x": 20, "y": 36 } },
+                { "pos": { "x": 20, "y": 37 } },
+                { "pos": { "x": 21, "y": 35 } },
+                { "pos": { "x": 21, "y": 36 } },
+                { "pos": { "x": 21, "y": 37 } },
+                { "pos": { "x": 22, "y": 35 } },
+                { "pos": { "x": 22, "y": 36 } },
+                { "pos": { "x": 22, "y": 37 } },
+                { "pos": { "x": 23, "y": 35 } },
+                { "pos": { "x": 23, "y": 36 } },
+                { "pos": { "x": 23, "y": 37 } },
+                { "pos": { "x": 24, "y": 35 } },
+                { "pos": { "x": 24, "y": 36 } },
+                { "pos": { "x": 24, "y": 37 } },
+                { "pos": { "x": 25, "y": 35 } },
+                { "pos": { "x": 25, "y": 36 } },
+                { "pos": { "x": 25, "y": 37 } },
+                { "pos": { "x": 26, "y": 35 } },
+                { "pos": { "x": 26, "y": 36 } },
+                { "pos": { "x": 26, "y": 37 } }
+            ]
+        },
+        "8,30": {
+            "toggle": [
+                { "pos": { "x": 1, "y": 27 } },
+                { "pos": { "x": 2, "y": 27 } },
+                { "pos": { "x": 3, "y": 27 } },
+                { "pos": { "x": 4, "y": 27 } },
+                { "pos": { "x": 5, "y": 27 } },
+                { "pos": { "x": 6, "y": 27 } },
+                { "pos": { "x": 1, "y": 28 } },
+                { "pos": { "x": 2, "y": 28 } },
+                { "pos": { "x": 3, "y": 28 } },
+                { "pos": { "x": 4, "y": 28 } },
+                { "pos": { "x": 5, "y": 28 } },
+                { "pos": { "x": 6, "y": 28 } }
+            ]
+        },
+        "47,35": {
+            "toggle": [
+                { "pos": { "x": 44, "y": 35 } },
+                { "pos": { "x": 44, "y": 36 } },
+                { "pos": { "x": 44, "y": 37 } },
+                { "pos": { "x": 43, "y": 35 } },
+                { "pos": { "x": 43, "y": 36 } },
+                { "pos": { "x": 43, "y": 37 } },
+                { "pos": { "x": 42, "y": 35 } },
+                { "pos": { "x": 42, "y": 36 } },
+                { "pos": { "x": 42, "y": 37 } },
+                { "pos": { "x": 41, "y": 35 } },
+                { "pos": { "x": 41, "y": 36 } },
+                { "pos": { "x": 41, "y": 37 } },
+                { "pos": { "x": 40, "y": 35 } },
+                { "pos": { "x": 40, "y": 36 } },
+                { "pos": { "x": 40, "y": 37 } },
+                { "pos": { "x": 39, "y": 35 } },
+                { "pos": { "x": 39, "y": 36 } },
+                { "pos": { "x": 39, "y": 37 } },
+                { "pos": { "x": 38, "y": 35 } },
+                { "pos": { "x": 38, "y": 36 } },
+                { "pos": { "x": 38, "y": 37 } }
+            ]
+        }
+    },
+
+    "fields": {
+        "1,27" : { "defaultState": "off" },
+        "1,28" : { "defaultState": "off" },
+        "2,27" : { "defaultState": "off" },
+        "2,28" : { "defaultState": "off" },
+        "3,27" : { "defaultState": "off" },
+        "3,28" : { "defaultState": "off" },
+        "4,27" : { "defaultState": "off" },
+        "4,28" : { "defaultState": "off" },
+        "5,27" : { "defaultState": "off" },
+        "5,28" : { "defaultState": "off" },
+        "6,27" : { "defaultState": "off" },
+        "6,28" : { "defaultState": "off" },
+        "20,35" : { "defaultState": "off" },
+        "20,36" : { "defaultState": "off" },
+        "20,37" : { "defaultState": "off" },
+        "21,35" : { "defaultState": "off" },
+        "21,36" : { "defaultState": "off" },
+        "21,37" : { "defaultState": "off" },
+        "22,35" : { "defaultState": "off" },
+        "22,36" : { "defaultState": "off" },
+        "22,37" : { "defaultState": "off" },
+        "23,35" : { "defaultState": "off" },
+        "23,36" : { "defaultState": "off" },
+        "23,37" : { "defaultState": "off" },
+        "24,35" : { "defaultState": "off" },
+        "24,36" : { "defaultState": "off" },
+        "24,37" : { "defaultState": "off" },
+        "25,35" : { "defaultState": "off" },
+        "25,36" : { "defaultState": "off" },
+        "25,37" : { "defaultState": "off" },
+        "26,35" : { "defaultState": "off" },
+        "26,36" : { "defaultState": "off" },
+        "26,37" : { "defaultState": "off" },
+        "31,21" : { "defaultState": "off" },
+        "31,22" : { "defaultState": "off" },
+        "31,23" : { "defaultState": "off" },
+        "32,21" : { "defaultState": "off" },
+        "32,22" : { "defaultState": "off" },
+        "32,23" : { "defaultState": "off" },
+        "33,21" : { "defaultState": "off" },
+        "33,22" : { "defaultState": "off" },
+        "33,23" : { "defaultState": "off" },
+        "38,35" : { "defaultState": "off" },
+        "38,36" : { "defaultState": "off" },
+        "38,37" : { "defaultState": "off" },
+        "39,35" : { "defaultState": "off" },
+        "39,36" : { "defaultState": "off" },
+        "39,37" : { "defaultState": "off" },
+        "40,35" : { "defaultState": "off" },
+        "40,36" : { "defaultState": "off" },
+        "40,37" : { "defaultState": "off" },
+        "41,35" : { "defaultState": "off" },
+        "41,36" : { "defaultState": "off" },
+        "41,37" : { "defaultState": "off" },
+        "42,35" : { "defaultState": "off" },
+        "42,36" : { "defaultState": "off" },
+        "42,37" : { "defaultState": "off" },
+        "43,35" : { "defaultState": "off" },
+        "43,36" : { "defaultState": "off" },
+        "43,37" : { "defaultState": "off" },
+        "44,35" : { "defaultState": "off" },
+        "44,36" : { "defaultState": "off" },
+        "44,37" : { "defaultState": "off" },
+        "58,27" : { "defaultState": "off" },
+        "58,28" : { "defaultState": "off" },
+        "59,27" : { "defaultState": "off" },
+        "59,28" : { "defaultState": "off" },
+        "60,27" : { "defaultState": "off" },
+        "60,28" : { "defaultState": "off" },
+        "61,27" : { "defaultState": "off" },
+        "61,28" : { "defaultState": "off" },
+        "62,27" : { "defaultState": "off" },
+        "62,28" : { "defaultState": "off" },
+        "63,27" : { "defaultState": "off" },
+        "63,28" : { "defaultState": "off" }
+    }
+}

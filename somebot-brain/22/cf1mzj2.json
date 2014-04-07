@@ -1,0 +1,121 @@
+{
+    "info": {
+        "name": "Castle Wars",
+        "author": "Swingman"
+    },
+    "switches": {
+	"17,17": {
+        	"toggle": [
+           	{ "pos": { "x": 14, "y": 20 } },
+            	{ "pos": { "x": 16, "y": 20 } },
+            	{ "pos": { "x": 18, "y": 20 } },
+		{ "pos": { "x": 20, "y": 18 } },
+            	{ "pos": { "x": 20, "y": 16 } },
+            	{ "pos": { "x": 20, "y": 14 } }
+        	]
+    },
+	"27,27": {
+        	"toggle": [
+           	{ "pos": { "x": 24, "y": 30 } },
+            	{ "pos": { "x": 24, "y": 28 } },
+            	{ "pos": { "x": 24, "y": 26 } },
+		{ "pos": { "x": 26, "y": 24 } },
+            	{ "pos": { "x": 28, "y": 24 } },
+            	{ "pos": { "x": 30, "y": 24 } }
+        	]
+    },
+	"45,49": {
+        	"toggle": [
+           	{ "pos": { "x": 46, "y": 47 } },
+            	{ "pos": { "x": 46, "y": 48 } },
+            	{ "pos": { "x": 46, "y": 49 } }
+        	]
+    },
+	"47,50": {
+        	"toggle": [
+           	{ "pos": { "x": 46, "y": 47 } },
+            	{ "pos": { "x": 46, "y": 48 } },
+            	{ "pos": { "x": 46, "y": 49 } },
+           	{ "pos": { "x": 50, "y": 51 } },
+            	{ "pos": { "x": 49, "y": 51 } },
+            	{ "pos": { "x": 48, "y": 51 } }
+        	]
+    },
+	"48,52": {
+        	"toggle": [
+           	{ "pos": { "x": 50, "y": 51 } },
+            	{ "pos": { "x": 49, "y": 51 } },
+            	{ "pos": { "x": 48, "y": 51 } }
+        	]
+    },
+	"49,45": {
+        	"toggle": [
+           	{ "pos": { "x": 47, "y": 46 } },
+            	{ "pos": { "x": 48, "y": 46 } },
+            	{ "pos": { "x": 49, "y": 46 } }
+        	]
+    },
+	"50,47": {
+        	"toggle": [
+           	{ "pos": { "x": 47, "y": 46 } },
+            	{ "pos": { "x": 48, "y": 46 } },
+            	{ "pos": { "x": 49, "y": 46 } },
+           	{ "pos": { "x": 51, "y": 48 } },
+           	{ "pos": { "x": 51, "y": 49 } },
+           	{ "pos": { "x": 51, "y": 50 } }
+        	]
+    },
+	"52,48": {
+        	"toggle": [
+           	{ "pos": { "x": 51, "y": 48 } },
+           	{ "pos": { "x": 51, "y": 49 } },
+           	{ "pos": { "x": 51, "y": 50 } }
+        	]
+    }
+},
+    "fields": {
+    	"4,48" : { "defaultState": "red" },
+    	"4,49" : { "defaultState": "red" },
+	"4,50" : { "defaultState": "red" },
+    	"4,51" : { "defaultState": "red" },
+    	"6,53" : { "defaultState": "red" },
+    	"7,53" : { "defaultState": "red" },
+	"8,53" : { "defaultState": "red" },
+    	"9,53" : { "defaultState": "red" },
+    	"48,4" : { "defaultState": "blue" },
+	"48,5" : { "defaultState": "blue" },
+    	"48,6" : { "defaultState": "blue" },
+	"48,7" : { "defaultState": "blue" },
+	"50,9" : { "defaultState": "blue" },
+    	"51,9" : { "defaultState": "blue" },
+	"52,9" : { "defaultState": "blue" },
+	"53,9" : { "defaultState": "blue" }
+
+},
+	"portals": {
+	"2,12": { "destination": { "x": 40, "y": 57 }, "cooldown": 0 },
+	"40,57": { "destination": { "x": 2, "y": 12 }, "cooldown": 0 },
+	"42,32": { "destination": { "x": 57, "y": 40 }, "cooldown": 0 },
+	"57,40": { "destination": { "x": 42, "y": 32 }, "cooldown": 0 },
+	"14,9": { "destination": { "x": 4, "y": 57 }, "cooldown": 0 },
+	"4,57": { "destination": { "x": 14, "y": 9 }, "cooldown": 0 },
+	"2,47": { "destination": { "x": 20, "y": 57 }, "cooldown": 0 },
+	"20,57": { "destination": { "x": 2, "y": 47 }, "cooldown": 0 },
+	"30,35": { "destination": { "x": 48, "y": 13 }, "cooldown": 0 },
+	"48,13": { "destination": { "x": 30, "y": 35 }, "cooldown": 0 },
+	"46,3": { "destination": { "x": 50, "y": 27 }, "cooldown": 0 },
+	"50,27": { "destination": { "x": 46, "y": 3 }, "cooldown": 0 },
+	"12,45": { "destination": { "x": 21, "y": 51 }, "cooldown": 0 },
+	"23,53": { "destination": { "x": 33, "y": 53 }, "cooldown": 0 },
+	"56,1": { "destination": { "x": 51, "y": 21 }, "cooldown": 0 },
+	"53,23": { "destination": { "x": 54, "y": 32 }, "cooldown": 0 },
+	"10,2": { "destination": { "x": 11, "y": 54 }, "cooldown": 0 },
+	"11,54": { "destination": { "x": 10, "y": 2 }, "cooldown": 0 },
+	"34,42": { "destination": { "x": 55, "y": 10 }, "cooldown": 0 },
+	"55,10": { "destination": { "x": 34, "y": 42 }, "cooldown": 0 },
+	"25,54": { "destination": { "x": 36, "y": 54 }, "cooldown": 0 },
+	"36,54": { "destination": { "x": 25, "y": 54 }, "cooldown": 0 },
+	"55,24": { "destination": { "x": 57, "y": 33 }, "cooldown": 0 },
+	"57,33": { "destination": { "x": 55, "y": 24 }, "cooldown": 0 }
+}
+}

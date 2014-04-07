@@ -1,0 +1,29 @@
+{
+  "info":
+  {
+    "name": "TugWars",
+    "author": "Pyopi"
+  },
+
+  "switches":
+  {
+  "2,5": {
+        "toggle": [
+            { "pos": { "x": 6, "y": 19 } }
+        ]
+    },
+    "47,5": {
+        "toggle": [
+            { "pos": { "x": 6, "y": 20 } }
+        ]
+    }
+  },
+
+  "fields":
+  {
+
+  },
+
+  "portals": {
+  }
+}

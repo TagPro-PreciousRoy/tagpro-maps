@@ -1,0 +1,38 @@
+{
+    "info": {
+        "name": "Passage",
+        "author": "Noobkin"
+    },
+
+"switches": {
+                },
+
+    "fields": {
+       
+    },
+    "portals": {
+    "13,17": { "destination": { "x": 15, "y": 1 },"cooldown": 0},
+    "15,1": { "destination": { "x": 13, "y": 17 },"cooldown": 0},
+    
+    "15,21": { "destination": { "x": 15, "y": 5 },"cooldown": 0},
+    "15,5": { "destination": { "x": 15, "y": 21 },"cooldown": 0},
+    
+    "18,27": { "destination": { "x": 15, "y": 9 },"cooldown": 0},
+    "15,9": { "destination": { "x": 18, "y": 27 },"cooldown": 0},
+    
+    "30,27": { "destination": { "x": 33, "y": 9 },"cooldown": 0},
+    "33,9": { "destination": { "x": 30, "y": 27 },"cooldown": 0},
+    
+    "33,21": { "destination": { "x": 33, "y": 5 },"cooldown": 0},
+    "33,5": { "destination": { "x": 33, "y": 21 },"cooldown": 0},
+    
+    "35,17": { "destination": { "x": 33, "y": 1 },"cooldown": 0},
+    "33,1": { "destination": { "x": 35, "y": 17 },"cooldown": 0},
+    
+    "3,45": { "destination": { "x": 5, "y": 21 },"cooldown": 0},
+    "45,45": { "destination": { "x": 41, "y": 20 },"cooldown": 0}
+    
+    
+
+	}   
+}

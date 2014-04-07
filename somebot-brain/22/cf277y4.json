@@ -1,0 +1,38 @@
+ {
+
+
+    "info":
+    {
+      "name": "SetSquare",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "": {
+            "toggle": [
+
+             ] 
+       }
+    },
+      
+    "fields": {
+    "10,3" : { "defaultState": "red" },
+    "10,4" : { "defaultState": "red" },
+    "10,5" : { "defaultState": "red" },
+    "10,6" : { "defaultState": "red" },
+    "10,7" : { "defaultState": "red" },
+    "10,8" : { "defaultState": "red" },
+    "10,9" : { "defaultState": "red" },
+    "10,10" : { "defaultState": "red" },
+    "10,11" : { "defaultState": "red" },
+    "29,30" : { "defaultState": "blue" },
+    "30,30" : { "defaultState": "blue" },
+    "31,30" : { "defaultState": "blue" },
+    "32,30" : { "defaultState": "blue" },
+    "33,30" : { "defaultState": "blue" },
+    "34,30" : { "defaultState": "blue" },
+    "35,30" : { "defaultState": "blue" },
+    "36,30" : { "defaultState": "blue" },
+    "37,30" : { "defaultState": "blue" }
+ 
+    }
+}

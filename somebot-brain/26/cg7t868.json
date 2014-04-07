@@ -1,0 +1,36 @@
+{
+
+
+    "info":
+    {
+      "name": "jukeAround",
+      "author": "Squirrely"
+    },
+    "switches": {
+        "": {
+            "toggle": [
+
+             ] 
+       }
+    },
+    "fields": {
+        "8,9": { "defaultState": "red" },
+        "8,10": { "defaultState": "red" },      
+        "8,11": { "defaultState": "red" },
+        "8,12": { "defaultState": "red" },
+        "8,13": { "defaultState": "red" },      
+        "22,9": { "defaultState": "blue" },
+        "22,10": { "defaultState": "blue" },
+        "22,11": { "defaultState": "blue" },      
+        "22,12": { "defaultState": "blue" },      
+        "22,13": { "defaultState": "blue" }
+
+    },
+
+    "portals": {
+    "8,8": { "destination": { "x": 15, "y": 17 }, "cooldown": 1000 },
+    "8,14": { "destination": { "x": 15, "y": 5 }, "cooldown": 1000 },
+    "22,8": { "destination": { "x": 15, "y": 17 }, "cooldown": 1000 },
+    "22,14": { "destination": { "x": 15, "y": 5 }, "cooldown": 1000 }
+    }
+}

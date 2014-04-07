@@ -1,0 +1,28 @@
+{
+
+
+    "info":
+    {
+      "name": "Elimination1v1",
+      "author": "NewCompte"
+    },
+
+
+    "switches":
+    {
+
+    },
+
+
+    "fields":
+    {
+    },
+
+	"portals":
+	{
+		"3,8": { "destination": { "x": 5, "y": 3 }, "cooldown": 720000},
+		"15,8": { "destination": { "x": 13, "y": 3 }, "cooldown": 720000},
+		"3,3": {"cooldown": 0 },
+		"15,3": {"cooldown": 0 }
+	}
+  }

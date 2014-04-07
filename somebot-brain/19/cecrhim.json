@@ -1,0 +1,74 @@
+  {
+
+
+    "info":
+    {
+      "name": "BIG WIFI",
+      "author": "FutureYPR"
+    },
+
+
+    "switches":
+    {
+
+      "17,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 11 } },
+          { "pos": { "x": 24, "y": 12 } },
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 24, "y": 14 } }
+        ]
+      },
+
+      "31,12":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 11 } },
+          { "pos": { "x": 24, "y": 12 } },
+          { "pos": { "x": 24, "y": 13 } },
+          { "pos": { "x": 24, "y": 14 } }
+        ]
+      },
+
+      "17,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 40 } },
+          { "pos": { "x": 24, "y": 41 } },
+          { "pos": { "x": 24, "y": 42 } },
+          { "pos": { "x": 24, "y": 43 } }
+        ]
+      },
+
+      "31,42":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 24, "y": 40 } },
+          { "pos": { "x": 24, "y": 41 } },
+          { "pos": { "x": 24, "y": 42 } },
+          { "pos": { "x": 24, "y": 43 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "24,11": { "defaultState": "off" },
+      "24,12": { "defaultState": "off" },
+      "24,13": { "defaultState": "off" },
+      "24,14": { "defaultState": "off" },
+      "24,40": { "defaultState": "off" },
+      "24,41": { "defaultState": "off" },
+      "24,42": { "defaultState": "off" },
+      "24,43": { "defaultState": "off" }
+    }
+
+
+  }

@@ -1,0 +1,56 @@
+ {
+
+
+    "info":
+    {
+      "name": "Glory Hole Flipped",
+      "author": "Turtlemansam"
+    },
+
+
+    "switches":
+    {
+
+      "4,59":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 12, "y": 58 } },
+          { "pos": { "x": 12, "y": 59 } },
+          { "pos": { "x": 12, "y": 60 } },
+          { "pos": { "x": 12, "y": 61 } },
+          { "pos": { "x": 12, "y": 62 } }
+        ]
+      },
+
+      "42,59":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 34, "y": 58 } },
+          { "pos": { "x": 34, "y": 59 } },
+          { "pos": { "x": 34, "y": 60 } },
+          { "pos": { "x": 34, "y": 61 } },
+          { "pos": { "x": 34, "y": 62 } }
+        ]
+      }
+
+    },
+
+
+    "fields":
+    {
+      "12,58": { "defaultState": "off" },
+      "12,59": { "defaultState": "off" },
+      "12,60": { "defaultState": "off" },
+      "12,61": { "defaultState": "off" },
+      "12,62": { "defaultState": "off" },
+      "34,58": { "defaultState": "off" },
+      "34,59": { "defaultState": "off" },
+      "34,60": { "defaultState": "off" },
+      "34,61": { "defaultState": "off" },
+      "34,62": { "defaultState": "off" }
+    }
+
+
+  }

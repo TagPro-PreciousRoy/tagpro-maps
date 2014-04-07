@@ -1,0 +1,49 @@
+ {
+
+
+    "info":
+    {
+      "name": "ppppretzel",
+      "author": "ppppow"
+    },
+
+
+    "switches":
+    {
+
+      "43,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 34, "y": 9 } },
+          { "pos": { "x": 34, "y": 10 } },
+          { "pos": { "x": 34, "y": 11 } },
+          { "pos": { "x": 34, "y": 12 } },
+          { "pos": { "x": 34, "y": 13 } }
+        ]
+      },
+
+      "25,13":
+      {
+        "toggle":
+        [
+          { "pos": { "x": 34, "y": 9 } },
+          { "pos": { "x": 34, "y": 10 } },
+          { "pos": { "x": 34, "y": 11 } },
+          { "pos": { "x": 34, "y": 12 } },
+          { "pos": { "x": 34, "y": 13 } }
+        ]
+      }
+
+	},
+    "fields":
+    {
+      "34,9": { "defaultState": "on" },
+      "34,10": { "defaultState": "on" },
+      "34,11": { "defaultState": "on" },
+      "34,12": { "defaultState": "on" },
+      "34,13": { "defaultState": "on" }
+    }
+
+
+  }
