@@ -1,4 +1,9 @@
 {
+    "info": {
+        "name": "Arena",
+        "author": "Swingman",
+        "throwback": true
+    },
     "switches": {
         "25,23": {
             "toggle": [

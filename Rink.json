@@ -1,4 +1,9 @@
 {
+	"info": {
+		"name": "Rink",
+		"author": "Swingman",
+		"throwback": true
+	},
 	"switches": {
 		"3,40": {
 		"toggle":   [

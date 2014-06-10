@@ -1,0 +1,13 @@
+{
+    "info": {
+        "name": "Rabbit",
+        "author": "Peter Cottontail"
+    },
+
+    "portals": {
+        "44,4": { "destination": { "x": 34, "y": 14 }, "cooldown": 0 },
+        "44,44": { "destination": { "x": 34, "y": 34 }, "cooldown": 0 },
+        "4,44": { "destination": { "x": 14, "y": 34 }, "cooldown": 0 },
+        "4,4": { "destination": { "x": 14, "y": 14 }, "cooldown": 0 }
+    }
+}
