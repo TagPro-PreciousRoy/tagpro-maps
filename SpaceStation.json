@@ -1,0 +1,180 @@
+{
+  "info" : {
+    "name" : "Space Station",
+    "author" : "Ly"
+  },
+  "switches" : {
+    "2,11" : {
+      "toggle" : [{
+          "pos" : {
+            "x" : 2,
+            "y" : 15
+          }
+        }, {
+          "pos" : {
+            "x" : 2,
+            "y" : 16
+          }
+        }, {
+          "pos" : {
+            "x" : 2,
+            "y" : 17
+          }
+        }, {
+          "pos" : {
+            "x" : 2,
+            "y" : 18
+          }
+        }, {
+          "pos" : {
+            "x" : 2,
+            "y" : 19
+          }
+        }, {
+          "pos" : {
+            "x" : 4,
+            "y" : 15
+          }
+        }, {
+          "pos" : {
+            "x" : 4,
+            "y" : 16
+          }
+        }, {
+          "pos" : {
+            "x" : 4,
+            "y" : 17
+          }
+        }, {
+          "pos" : {
+            "x" : 4,
+            "y" : 18
+          }
+        }, {
+          "pos" : {
+            "x" : 4,
+            "y" : 19
+          }
+        }
+      ]
+    },
+    "48,19" : {
+      "toggle" : [{
+          "pos" : {
+            "x" : 48,
+            "y" : 15
+          }
+        }, {
+          "pos" : {
+            "x" : 48,
+            "y" : 14
+          }
+        }, {
+          "pos" : {
+            "x" : 48,
+            "y" : 13
+          }
+        }, {
+          "pos" : {
+            "x" : 48,
+            "y" : 12
+          }
+        }, {
+          "pos" : {
+            "x" : 48,
+            "y" : 11
+          }
+        }, {
+          "pos" : {
+            "x" : 46,
+            "y" : 15
+          }
+        }, {
+          "pos" : {
+            "x" : 46,
+            "y" : 14
+          }
+        }, {
+          "pos" : {
+            "x" : 46,
+            "y" : 13
+          }
+        }, {
+          "pos" : {
+            "x" : 46,
+            "y" : 12
+          }
+        }, {
+          "pos" : {
+            "x" : 46,
+            "y" : 11
+          }
+        }
+      ]
+    }
+  },
+  "fields" : {
+    "2,15" : {
+      "defaultState" : "off"
+    },
+    "2,16" : {
+      "defaultState" : "off"
+    },
+    "2,17" : {
+      "defaultState" : "off"
+    },
+    "2,18" : {
+      "defaultState" : "off"
+    },
+    "2,19" : {
+      "defaultState" : "off"
+    },
+    "4,15" : {
+      "defaultState" : "off"
+    },
+    "4,16" : {
+      "defaultState" : "off"
+    },
+    "4,17" : {
+      "defaultState" : "off"
+    },
+    "4,18" : {
+      "defaultState" : "off"
+    },
+    "4,19" : {
+      "defaultState" : "off"
+    },
+    "46,11" : {
+      "defaultState" : "off"
+    },
+    "46,12" : {
+      "defaultState" : "off"
+    },
+    "46,13" : {
+      "defaultState" : "off"
+    },
+    "46,14" : {
+      "defaultState" : "off"
+    },
+    "46,15" : {
+      "defaultState" : "off"
+    },
+    "48,11" : {
+      "defaultState" : "off"
+    },
+    "48,12" : {
+      "defaultState" : "off"
+    },
+    "48,13" : {
+      "defaultState" : "off"
+    },
+    "48,14" : {
+      "defaultState" : "off"
+    },
+    "48,15" : {
+      "defaultState" : "off"
+    }
+  },
+  "portals" : {}
+
+}

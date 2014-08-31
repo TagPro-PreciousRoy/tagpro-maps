@@ -3,22 +3,50 @@
         "name": "Thinking With Portals",
         "author": "WreckingBall"
     },
-    "switches": {
-    },
-
-    "fields": {
-    },
-
-"portals": {
-    "1,25": { "destination": { "x": 18, "y": 25 }, "cooldown": 5000},
-    "11,30": { "destination": { "x": 6, "y": 25 }, "cooldown": 5000 },
-    "11,20": { "destination": { "x": 6, "y": 25 }, "cooldown": 5000 },
-
-    "57,25": { "destination": { "x": 40, "y": 25 }, "cooldown": 5000},
-    "47,30": { "destination": { "x": 52, "y": 25 }, "cooldown": 5000 },
-    "47,20": { "destination": { "x": 52, "y": 25 }, "cooldown": 5000 }
-
-}
-
-
+    "switches": {},
+    "fields": {},
+    "portals": {
+        "1,14": {
+            "destination": {
+                "x": 18,
+                "y": 14
+            },
+            "cooldown": 5000
+        },
+        "11,19": {
+            "destination": {
+                "x": 6,
+                "y": 14
+            },
+            "cooldown": 5000
+        },
+        "11,9": {
+            "destination": {
+                "x": 6,
+                "y": 14
+            },
+            "cooldown": 5000
+        },
+        "57,14": {
+            "destination": {
+                "x": 40,
+                "y": 14
+            },
+            "cooldown": 5000
+        },
+        "47,19": {
+            "destination": {
+                "x": 52,
+                "y": 14
+            },
+            "cooldown": 5000
+        },
+        "47,9": {
+            "destination": {
+                "x": 52,
+                "y": 14
+            },
+            "cooldown": 5000
+        }
+    }
 }
