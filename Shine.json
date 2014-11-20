@@ -1,0 +1,274 @@
+{
+    "info": {
+        "name": "Shine",
+        "author": "Ball-E"
+    },
+    "switches": {
+        "34,18": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 17,
+                        "x": 31
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 18,
+                        "x": 31
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 19,
+                        "x": 31
+                    }
+                }
+            ]
+        },
+        "23,29": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 33,
+                        "x": 28
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 28,
+                        "x": 27
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 33,
+                        "x": 26
+                    }
+                }
+            ]
+        },
+        "31,29": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 33,
+                        "x": 26
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 28,
+                        "x": 27
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 33,
+                        "x": 28
+                    }
+                }
+            ]
+        },
+        "23,7": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 3,
+                        "x": 28
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 8,
+                        "x": 27
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 3,
+                        "x": 26
+                    }
+                }
+            ]
+        },
+        "31,7": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 3,
+                        "x": 26
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 8,
+                        "x": 27
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 3,
+                        "x": 28
+                    }
+                }
+            ]
+        },
+        "20,18": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 17,
+                        "x": 23
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 18,
+                        "x": 23
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 19,
+                        "x": 23
+                    }
+                }
+            ]
+        }
+    },
+    "portals": {
+        "53,19": {
+            "cooldown": 0,
+            "destination": {
+                "y": 23,
+                "x": 15
+            }
+        },
+        "39,13": {
+            "cooldown": 0,
+            "destination": {
+                "y": 18,
+                "x": 27
+            }
+        },
+        "1,17": {
+            "cooldown": 0,
+            "destination": {
+                "y": 13,
+                "x": 39
+            }
+        },
+        "15,23": {
+            "cooldown": 0,
+            "destination": {
+                "y": 18,
+                "x": 27
+            }
+        },
+        "53,17": {
+            "cooldown": 0,
+            "destination": {
+                "y": 13,
+                "x": 15
+            }
+        },
+        "39,23": {
+            "cooldown": 0,
+            "destination": {
+                "y": 18,
+                "x": 27
+            }
+        },
+        "15,13": {
+            "cooldown": 0,
+            "destination": {
+                "y": 18,
+                "x": 27
+            }
+        },
+        "1,19": {
+            "cooldown": 0,
+            "destination": {
+                "y": 23,
+                "x": 39
+            }
+        }
+    },
+    "fields": {
+        "2,19": {
+            "defaultState": "blue"
+        },
+        "2,18": {
+            "defaultState": "blue"
+        },
+        "31,17": {
+            "defaultState": "blue"
+        },
+        "27,28": {
+            "defaultState": "off"
+        },
+        "53,18": {
+            "defaultState": "red"
+        },
+        "28,33": {
+            "defaultState": "off"
+        },
+        "26,33": {
+            "defaultState": "off"
+        },
+        "52,19": {
+            "defaultState": "red"
+        },
+        "52,17": {
+            "defaultState": "red"
+        },
+        "2,17": {
+            "defaultState": "blue"
+        },
+        "52,18": {
+            "defaultState": "red"
+        },
+        "27,8": {
+            "defaultState": "off"
+        },
+        "26,3": {
+            "defaultState": "off"
+        },
+        "23,19": {
+            "defaultState": "red"
+        },
+        "23,18": {
+            "defaultState": "red"
+        },
+        "1,18": {
+            "defaultState": "blue"
+        },
+        "23,17": {
+            "defaultState": "red"
+        },
+        "31,19": {
+            "defaultState": "blue"
+        },
+        "31,18": {
+            "defaultState": "blue"
+        },
+        "28,3": {
+            "defaultState": "off"
+        }
+    },
+    "spawnPoints": {
+        "red": [
+            {"x": 7, "y": 15, "radius": 5},
+            {"x": 7, "y": 17, "radius": 5},
+            {"x": 7, "y": 19, "radius": 5},
+            {"x": 7, "y": 21, "radius": 5}
+        ],
+        "blue": [
+            {"x": 47, "y": 15, "radius": 5},
+            {"x": 47, "y": 17, "radius": 5},
+            {"x": 47, "y": 19, "radius": 5},
+            {"x": 47, "y": 21, "radius": 5}
+        ]
+    }
+}

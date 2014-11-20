@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "yiss 3.2",
-        "author": "Wumbo"
+        "author": "Wumbo",
+        "throwback": true
     },
     "switches": {
         "40,3": {

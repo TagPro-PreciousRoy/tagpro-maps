@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "Shortcut",
-        "author": "LuckySpammer"
+        "author": "LuckySpammer",
+        "throwback": true
     },
     "switches": {
         "25,5": {

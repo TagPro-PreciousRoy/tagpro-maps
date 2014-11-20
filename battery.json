@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "Battery",
-        "author": "Saint Enigma"
+        "author": "Saint Enigma",
+        "throwback": true
     },
     "switches": {
         "21,7": {

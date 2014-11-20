@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "Boostsv2.1",
-        "author": "Danny"
+        "author": "Danny",
+        "throwback": true
     },
     "switches": {
         "17,4": {
