@@ -1,8 +1,7 @@
 {
     "info": {
         "name": "Spiders",
-        "author": "Dino",
-        "throwback": true
+        "author": "Dino"
     },
     "switches": {
         "11,24": {

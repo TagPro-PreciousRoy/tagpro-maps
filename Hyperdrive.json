@@ -1,0 +1,123 @@
+{
+    "info": {
+        "name": "Hyperdrive",
+        "author": "Rapture"
+    },
+    "switches": {
+        "33,18": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 20,
+                        "x": 31
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 19,
+                        "x": 30
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 13,
+                        "x": 30
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 14,
+                        "x": 29
+                    }
+                }
+            ]
+        },
+        "20,18": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 19,
+                        "x": 16
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 18,
+                        "x": 17
+                    }
+                }
+            ]
+        },
+        "26,14": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 14,
+                        "x": 29
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 13,
+                        "x": 30
+                    }
+                }
+            ]
+        },
+        "13,14": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 12,
+                        "x": 15
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 13,
+                        "x": 16
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 19,
+                        "x": 16
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 18,
+                        "x": 17
+                    }
+                }
+            ]
+        }
+    },
+    "portals": {},
+    "fields": {
+        "16,19": {
+            "defaultState": "off"
+        },
+        "29,14": {
+            "defaultState": "off"
+        },
+        "15,12": {
+            "defaultState": "red"
+        },
+        "16,13": {
+            "defaultState": "red"
+        },
+        "30,13": {
+            "defaultState": "off"
+        },
+        "17,18": {
+            "defaultState": "off"
+        },
+        "30,19": {
+            "defaultState": "blue"
+        },
+        "31,20": {
+            "defaultState": "blue"
+        }
+    }
+}

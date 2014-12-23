@@ -1,8 +1,7 @@
 {
     "info": {
         "name": "Mars Ball Explorer",
-        "author": "LuckySpammer ",
-        "throwback": true
+        "author": "LuckySpammer "
     },
     "switches": {
         "27,9": {

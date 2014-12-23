@@ -1,8 +1,7 @@
 {
     "info": {
         "name": "Micro",
-        "author": "Dethos",
-        "throwback": true
+        "author": "Dethos"
     },
     "switches": {
         "12,22": {

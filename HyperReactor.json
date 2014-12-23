@@ -1,8 +1,7 @@
 {
     "info": {
         "name": "Hyper Reactor",
-        "author": "bad",
-        "throwback": true
+        "author": "bad"
     },
     "switches": {
         "27,1": {
