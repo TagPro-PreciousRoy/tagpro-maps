@@ -1,7 +1,8 @@
 {
    "info":{
       "name":"Reflex2",
-      "author":"Flail"
+      "author":"Flail",
+      "throwback": true
    },
    "switches":{
       "12,27":{

@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "Vee",
-        "author": "LuckySpammer"
+        "author": "LuckySpammer",
+        "throwback": true
     },
     "switches": {
         "20,15": {

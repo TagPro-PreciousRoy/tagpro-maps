@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "Colors",
-        "author": "steppin"
+        "author": "steppin",
+        "throwback": true
     },
     "switches": {
         "11,11": {
