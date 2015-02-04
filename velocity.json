@@ -1,1 +1,62 @@
-{"info":{"name":"Velocity","author":"David Stern"},"switches":{"10,18":{"toggle":[{"pos":{"x":10,"y":22}}]},"18,27":{"toggle":[{"pos":{"x":11,"y":33}},{"pos":{"x":12,"y":34}}]},"30,21":{"toggle":[{"pos":{"x":36,"y":14}},{"pos":{"x":37,"y":15}}]},"38,30":{"toggle":[{"pos":{"x":38,"y":26}}]}},"fields":{},"portals":{}}
+{
+    "info": {
+        "name": "Velocity",
+        "author": "David Stern"
+    },
+    "switches": {
+        "6,14": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 6,
+                        "y": 18
+                    }
+                }
+            ]
+        },
+        "14,23": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 7,
+                        "y": 29
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 8,
+                        "y": 30
+                    }
+                }
+            ]
+        },
+        "26,17": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 32,
+                        "y": 10
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 33,
+                        "y": 11
+                    }
+                }
+            ]
+        },
+        "34,26": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 34,
+                        "y": 22
+                    }
+                }
+            ]
+        }
+    },
+    "fields": {},
+    "portals": {}
+}

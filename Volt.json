@@ -1,0 +1,212 @@
+{
+    "info": {
+        "name": "Volt",
+        "author": "Ball-E"
+    },
+    "switches": {
+        "22,21": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 20
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 21
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 22
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 23
+                    }
+                }
+            ]
+        },
+        "36,29": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 34
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 33
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 32
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 31
+                    }
+                }
+            ]
+        },
+        "18,27": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 20
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 21
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 22
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 24,
+                        "x": 23
+                    }
+                }
+            ]
+        },
+        "32,35": {
+            "toggle": [
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 34
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 33
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 32
+                    }
+                },
+                {
+                    "pos": {
+                        "y": 32,
+                        "x": 31
+                    }
+                }
+            ]
+        }
+    },
+    "portals": {
+        "27,33": {
+            "cooldown": 0,
+            "destination": {
+                "y": 9,
+                "x": 29
+            }
+        },
+        "27,23": {
+            "cooldown": 0,
+            "destination": {
+                "y": 9,
+                "x": 29
+            }
+        },
+        "42,47": {
+            "cooldown": 0,
+            "destination": {
+                "y": 23,
+                "x": 27
+            }
+        },
+        "13,8": {
+            "cooldown": 0,
+            "destination": {
+                "y": 33,
+                "x": 27
+            }
+        },
+        "41,48": {
+            "cooldown": 0,
+            "destination": {
+                "y": 23,
+                "x": 27
+            }
+        },
+        "12,9": {
+            "cooldown": 0,
+            "destination": {
+                "y": 33,
+                "x": 27
+            }
+        }
+    },
+    "fields": {
+        "32,32": {
+            "defaultState": "off"
+        },
+        "21,24": {
+            "defaultState": "off"
+        },
+        "34,32": {
+            "defaultState": "off"
+        },
+        "20,24": {
+            "defaultState": "off"
+        },
+        "23,24": {
+            "defaultState": "off"
+        },
+        "42,46": {
+            "defaultState": "red"
+        },
+        "33,32": {
+            "defaultState": "off"
+        },
+        "40,48": {
+            "defaultState": "red"
+        },
+        "14,8": {
+            "defaultState": "blue"
+        },
+        "31,32": {
+            "defaultState": "off"
+        },
+        "41,47": {
+            "defaultState": "red"
+        },
+        "13,9": {
+            "defaultState": "blue"
+        },
+        "12,10": {
+            "defaultState": "blue"
+        },
+        "22,24": {
+            "defaultState": "off"
+        }
+    },
+    "spawnPoints": {
+        "red": [{ "x": 16, "y": 12, "radius": 5}],
+        "blue": [{ "x": 38, "y": 44, "radius": 5}]
+    }
+}

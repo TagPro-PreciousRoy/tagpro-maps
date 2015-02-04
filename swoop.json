@@ -1,47 +1,108 @@
- {
-    "info":
-    {
-      "name": "Swoop",
-      "author": "David Stern"
+{
+    "info": {
+        "name": "Swoop",
+        "author": "David Stern"
     },
-    "switches":
-    {
-      "28,10":
-      {
-        "toggle":
-        [
-          { "pos": { "x": 22, "y": 9 } },
-          { "pos": { "x": 23, "y": 10 } },
-          { "pos": { "x": 24, "y": 11 } },
-          { "pos": { "x": 25, "y": 12 } },
-          { "pos": { "x": 26, "y": 13 } }
-        ]
-      },
-
-      "13,39":
-      {
-        "toggle":
-        [
-          { "pos": { "x": 15, "y": 36 } },
-          { "pos": { "x": 16, "y": 37 } },
-          { "pos": { "x": 17, "y": 38 } },
-          { "pos": { "x": 18, "y": 39 } },
-          { "pos": { "x": 19, "y": 40 } }
-        ]
-      }
-
+    "switches": {
+        "25,7": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 19,
+                        "y": 6
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 20,
+                        "y": 7
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 21,
+                        "y": 8
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 22,
+                        "y": 9
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 23,
+                        "y": 10
+                    }
+                }
+            ]
+        },
+        "10,36": {
+            "toggle": [
+                {
+                    "pos": {
+                        "x": 12,
+                        "y": 33
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 13,
+                        "y": 34
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 14,
+                        "y": 35
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 15,
+                        "y": 36
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 16,
+                        "y": 37
+                    }
+                }
+            ]
+        }
     },
-    "fields":
-    {
-      "22,9": { "defaultState": "off" },
-      "23,10": { "defaultState": "off" },
-      "24,11": { "defaultState": "off" },
-      "25,12": { "defaultState": "off" },
-      "26,13": { "defaultState": "off" },
-      "15,36": { "defaultState": "off" },
-      "16,37": { "defaultState": "off" },
-      "17,38": { "defaultState": "off" },
-      "18,39": { "defaultState": "off" },
-      "19,40": { "defaultState": "off" }
+    "fields": {
+        "19,6": {
+            "defaultState": "off"
+        },
+        "20,7": {
+            "defaultState": "off"
+        },
+        "21,8": {
+            "defaultState": "off"
+        },
+        "22,9": {
+            "defaultState": "off"
+        },
+        "23,10": {
+            "defaultState": "off"
+        },
+        "12,33": {
+            "defaultState": "off"
+        },
+        "13,34": {
+            "defaultState": "off"
+        },
+        "14,35": {
+            "defaultState": "off"
+        },
+        "15,36": {
+            "defaultState": "off"
+        },
+        "16,37": {
+            "defaultState": "off"
+        }
     }
-  }
+}

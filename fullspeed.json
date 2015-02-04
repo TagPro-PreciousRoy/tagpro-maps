@@ -79,12 +79,5 @@
         "67,10" : { "defaultState": "on" },
         "67,11" : { "defaultState": "on" },
         "67,12" : { "defaultState": "on" }
-    },
-
-    "portals": {
-        "1,11": { "destination": { "x": 85, "y": 11 } },
-        "34,3": { "destination": { "x": 52, "y": 19 }, "cooldown": 0 },
-        "85,11": { "destination": { "x": 1, "y": 11 } },
-        "52,19": { "destination": { "x": 34, "y": 3 }, "cooldown": 0 }
     }
 }

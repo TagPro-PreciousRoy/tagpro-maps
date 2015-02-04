@@ -1,0 +1,10 @@
+{
+  "info": {
+    "name": "Open Field Masters",
+    "author": "PrivateMajor"
+  }, "switches": {}, "portals": {}, "fields": {},
+  "spawnPoints": {
+    "red":  [{"x":1, "y":17}],
+    "blue": [{"x":23, "y":1}]
+  }
+}

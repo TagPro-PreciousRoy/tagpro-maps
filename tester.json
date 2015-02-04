@@ -1,16 +1,1 @@
-{
-    "info": {
-        "name": "Tester",
-        "author": "LuckySpammer "
-    },
-    "switches": {
-        "13,11": {
-            "toggle": [
-                { "pos": { "x": 13, "y": 4 } }
-            ]
-        }
-    },
-    "marsballs": [
-        { "x": 10, "y": 5 }
-    ]
-}
+{"info":{"name":"Untitled","author":"Anonymous","potatoTime":10000}, "switches":{"9,9":{"toggle":[]},"9,10":{"toggle":[]},"10,9":{"toggle":[]},"10,10":{"toggle":[]}},"fields":{"3,6":{"defaultState":"on"},"3,7":{"defaultState":"on"},"3,8":{"defaultState":"on"},"3,11":{"defaultState":"on"},"3,12":{"defaultState":"on"},"3,13":{"defaultState":"on"},"6,6":{"defaultState":"red"},"6,13":{"defaultState":"blue"},"7,6":{"defaultState":"red"},"7,13":{"defaultState":"blue"},"8,8":{"defaultState":"off"},"8,9":{"defaultState":"off"},"8,10":{"defaultState":"off"},"8,11":{"defaultState":"off"},"9,8":{"defaultState":"off"},"9,11":{"defaultState":"off"},"10,8":{"defaultState":"off"},"10,11":{"defaultState":"off"},"11,8":{"defaultState":"off"},"11,9":{"defaultState":"off"},"11,10":{"defaultState":"off"},"11,11":{"defaultState":"off"},"12,6":{"defaultState":"blue"},"12,13":{"defaultState":"red"},"13,6":{"defaultState":"blue"},"13,13":{"defaultState":"red"},"16,6":{"defaultState":"on"},"16,7":{"defaultState":"on"},"16,8":{"defaultState":"on"},"16,11":{"defaultState":"on"},"16,12":{"defaultState":"on"},"16,13":{"defaultState":"on"}},"portals":{"3,5":{"destination":{"x":3,"y":5}},"3,14":{"destination":{"x":3,"y":14}},"4,5":{"destination":{"x":4,"y":5}},"4,14":{"destination":{"x":4,"y":14}},"5,5":{"destination":{"x":5,"y":5}},"5,14":{"destination":{"x":5,"y":14}},"14,5":{"destination":{"x":14,"y":5}},"14,14":{"destination":{"x":14,"y":14}},"15,5":{"destination":{"x":15,"y":5}},"15,14":{"destination":{"x":15,"y":14}},"16,5":{"destination":{"x":16,"y":5}},"16,14":{"destination":{"x":16,"y":14}}}}

@@ -1,7 +1,8 @@
 {
     "info": {
         "name": "Lold",
-        "author": "asdf"
+        "author": "asdf",
+        "throwback": true
     },
     "switches": {
         "18,50": {

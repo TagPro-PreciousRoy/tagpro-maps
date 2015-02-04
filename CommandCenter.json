@@ -1,0 +1,224 @@
+{
+  "info": {
+    "name": "Command Center",
+    "author": "bad"
+  },
+  "switches": {
+    "2,39": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 2,
+            "y": 40
+          }
+        }
+      ]
+    },
+    "4,40": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 2,
+            "y": 40
+          }
+        }
+      ]
+    },
+    "9,16": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 11,
+            "y": 15
+          }
+        }
+      ]
+    },
+    "13,15": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 11,
+            "y": 15
+          }
+        }
+      ]
+    },
+    "13,23": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 13,
+            "y": 21
+          }
+        }
+      ]
+    },
+    "15,34": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 16,
+            "y": 33
+          }
+        },
+        {
+          "pos": {
+            "x": 16,
+            "y": 35
+          }
+        }
+      ]
+    },
+    "19,27": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 19,
+            "y": 28
+          }
+        },
+        {
+          "pos": {
+            "x": 20,
+            "y": 27
+          }
+        }
+      ]
+    },
+    "25,17": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 25,
+            "y": 16
+          }
+        },
+        {
+          "pos": {
+            "x": 24,
+            "y": 17
+          }
+        }
+      ]
+    },
+    "29,10": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 28,
+            "y": 11
+          }
+        },
+        {
+          "pos": {
+            "x": 28,
+            "y": 9
+          }
+        }
+      ]
+    },
+    "31,21": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 31,
+            "y": 23
+          }
+        }
+      ]
+    },
+    "31,29": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 33,
+            "y": 29
+          }
+        }
+      ]
+    },
+    "35,28": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 33,
+            "y": 29
+          }
+        }
+      ]
+    },
+    "40,4": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 42,
+            "y": 4
+          }
+        }
+      ]
+    },
+    "42,5": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 42,
+            "y": 4
+          }
+        }
+      ]
+    }
+  },
+  "fields": {
+    "7,12": {"defaultState": "blue"},
+    "8,13": {"defaultState": "blue"},
+    "16,33": {"defaultState": "blue"},
+    "16,35": {"defaultState": "blue"},
+    "19,28": {"defaultState": "blue"},
+    "20,27": {"defaultState": "blue"},
+    "20,37": {"defaultState": "blue"},
+    "21,37": {"defaultState": "blue"},
+    "22,7": {"defaultState": "red"},
+    "22,37": {"defaultState": "blue"},
+    "23,7": {"defaultState": "red"},
+    "24,7": {"defaultState": "red"},
+    "24,17": {"defaultState": "red"},
+    "25,16": {"defaultState": "red"},
+    "28,9": {"defaultState": "red"},
+    "28,11": {"defaultState": "red"},
+    "36,31": {"defaultState": "red"},
+    "37,32": {"defaultState": "red"}
+  },
+  "portals": {
+    "7,13": {
+      "destination": {
+        "x": 24,
+        "y": 30
+      },
+      "cooldown": 0
+    },
+    "37,31": {
+      "destination": {
+        "x": 20,
+        "y": 14
+      },
+      "cooldown": 0
+    }
+  },
+  "spawnPoints": {
+    "red": [
+      {
+        "x": 23,
+        "y": 11,
+        "radius": 3
+      }
+    ],
+    "blue": [
+      {
+        "x": 21,
+        "y": 33,
+        "radius": 3
+      }
+    ]
+  }
+}

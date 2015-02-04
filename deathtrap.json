@@ -1,0 +1,152 @@
+{
+  "info": {
+    "name": "Death Trap",
+    "author": "LuckySpammer"
+  },
+  "switches": {
+    "3,11": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 4,
+            "y": 10
+          }
+        },
+        {
+          "pos": {
+            "x": 5,
+            "y": 10
+          }
+        }
+      ]
+    },
+    "5,22": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 4,
+            "y": 23
+          }
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 23
+          }
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 23
+          }
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 23
+          }
+        }
+      ]
+    },
+    "35,22": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 36,
+            "y": 23
+          }
+        },
+        {
+          "pos": {
+            "x": 37,
+            "y": 23
+          }
+        },
+        {
+          "pos": {
+            "x": 38,
+            "y": 23
+          }
+        },
+        {
+          "pos": {
+            "x": 39,
+            "y": 23
+          }
+        }
+      ]
+    },
+    "37,11": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 36,
+            "y": 10
+          }
+        },
+        {
+          "pos": {
+            "x": 35,
+            "y": 10
+          }
+        }
+      ]
+    }
+  },
+  "fields": {
+    "1,23": {"defaultState": "off"},
+    "2,23": {"defaultState": "off"},
+    "2,27": {"defaultState": "on"},
+    "3,4": {"defaultState": "on"},
+    "3,7": {"defaultState": "on"},
+    "3,23": {"defaultState": "off"},
+    "3,27": {"defaultState": "on"},
+    "4,10": {"defaultState": "on"},
+    "4,23": {"defaultState": "off"},
+    "5,10": {"defaultState": "on"},
+    "6,3": {"defaultState": "on"},
+    "6,6": {"defaultState": "on"},
+    "6,16": {"defaultState": "on"},
+    "7,15": {"defaultState": "on"},
+    "7,17": {"defaultState": "on"},
+    "8,16": {"defaultState": "on"},
+    "11,2": {"defaultState": "on"},
+    "29,2": {"defaultState": "on"},
+    "32,16": {"defaultState": "on"},
+    "33,15": {"defaultState": "on"},
+    "33,17": {"defaultState": "on"},
+    "34,3": {"defaultState": "on"},
+    "34,6": {"defaultState": "on"},
+    "34,16": {"defaultState": "on"},
+    "35,10": {"defaultState": "on"},
+    "36,10": {"defaultState": "on"},
+    "36,23": {"defaultState": "off"},
+    "37,4": {"defaultState": "on"},
+    "37,7": {"defaultState": "on"},
+    "37,23": {"defaultState": "off"},
+    "37,27": {"defaultState": "on"},
+    "38,23": {"defaultState": "off"},
+    "38,27": {"defaultState": "on"},
+    "39,23": {"defaultState": "off"}
+  },
+  "portals": {
+    "11,1": {
+      "destination": {
+        "x": 20,
+        "y": 28
+      }
+    },
+    "20,1": {
+      "destination": {
+        "x": 20,
+        "y": 28
+      }
+    },
+    "29,1": {
+      "destination": {
+        "x": 20,
+        "y": 28
+      }
+    }
+  }
+}

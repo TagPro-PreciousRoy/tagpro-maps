@@ -4,56 +4,161 @@
         "author": "LuckySpambasdf"
     },
     "switches": {
-        "21,16": {
+        "21,15": {
             "toggle": [
-                { "pos": { "x": 18, "y": 12 } },
-                { "pos": { "x": 19, "y": 12 } },
-                { "pos": { "x": 19, "y": 13 } },
-                { "pos": { "x": 20, "y": 13 } },
-                { "pos": { "x": 21, "y": 14 } },
-                { "pos": { "x": 21, "y": 15 } },
-                { "pos": { "x": 20, "y": 14 } }
+                {
+                    "pos": {
+                        "x": 18,
+                        "y": 11
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 19,
+                        "y": 11
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 19,
+                        "y": 12
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 20,
+                        "y": 12
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 21,
+                        "y": 13
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 21,
+                        "y": 14
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 20,
+                        "y": 13
+                    }
+                }
             ]
         },
-        "45,16": {
+        "45,15": {
             "toggle": [
-                { "pos": { "x": 47, "y": 12 } },
-                { "pos": { "x": 48, "y": 12 } },
-                { "pos": { "x": 46, "y": 13 } },
-                { "pos": { "x": 47, "y": 13 } },
-                { "pos": { "x": 45, "y": 14 } },
-                { "pos": { "x": 45, "y": 15 } },
-                { "pos": { "x": 46, "y": 14 } }
+                {
+                    "pos": {
+                        "x": 47,
+                        "y": 11
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 48,
+                        "y": 11
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 46,
+                        "y": 12
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 47,
+                        "y": 12
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 45,
+                        "y": 13
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 45,
+                        "y": 14
+                    }
+                },
+                {
+                    "pos": {
+                        "x": 46,
+                        "y": 13
+                    }
+                }
             ]
         },
-
-        "31,22": {
+        "31,21": {
             "toggle": [
-                { "pos": { "x": 33, "y": 25 } }
+                {
+                    "pos": {
+                        "x": 33,
+                        "y": 24
+                    }
+                }
             ]
         },
-
-        "35,22": {
+        "35,21": {
             "toggle": [
-                { "pos": { "x": 33, "y": 25 } }
+                {
+                    "pos": {
+                        "x": 33,
+                        "y": 24
+                    }
+                }
             ]
         }
     },
-
     "fields": {
-        "18,12" : { "defaultState": "on" },
-        "19,12" : { "defaultState": "on" },
-        "19,13" : { "defaultState": "on" },
-        "20,13" : { "defaultState": "on" },
-        "20,14" : { "defaultState": "on" },
-        "47,12" : { "defaultState": "on" },
-        "48,12" : { "defaultState": "on" },
-        "46,13" : { "defaultState": "on" },
-        "45,14" : { "defaultState": "on" },
-        "45,15" : { "defaultState": "on" },
-        "21,14" : { "defaultState": "on" },
-        "21,15" : { "defaultState": "on" },
-        "47,13" : { "defaultState": "on" },
-        "46,14" : { "defaultState": "on" }
+        "18,11": {
+            "defaultState": "on"
+        },
+        "19,11": {
+            "defaultState": "on"
+        },
+        "19,12": {
+            "defaultState": "on"
+        },
+        "20,12": {
+            "defaultState": "on"
+        },
+        "20,13": {
+            "defaultState": "on"
+        },
+        "47,11": {
+            "defaultState": "on"
+        },
+        "48,11": {
+            "defaultState": "on"
+        },
+        "46,12": {
+            "defaultState": "on"
+        },
+        "45,13": {
+            "defaultState": "on"
+        },
+        "45,14": {
+            "defaultState": "on"
+        },
+        "21,13": {
+            "defaultState": "on"
+        },
+        "21,14": {
+            "defaultState": "on"
+        },
+        "47,12": {
+            "defaultState": "on"
+        },
+        "46,13": {
+            "defaultState": "on"
+        }
     }
 }
